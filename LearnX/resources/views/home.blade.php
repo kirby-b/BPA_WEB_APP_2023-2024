@@ -21,20 +21,20 @@
                 </div>-->
 
              <div class="text-white text-right">
-                <a type="button" value ="Yes" class href={{ route("signin") }} style="color: white;">Sign-In  </a><a type="button" value ="Yes" class href={{ route("signup") }} style="color: white;">|  Create New Account</a>
+                <a type="button" value ="Yes" href={{ route("signin") }} class="text-white">Sign-In  </a><a type="button" value ="Yes" href={{ route("signup") }} class="text-white">|  Create New Account</a>
                 <!--Sign in is sign in, create new needs to go to are you org-->
             </div>
         </div>
     </div>
 </body>
 
-<div style="margin-top=200px; margin-right=300px; position: absolute;">
+<div class="mt-200 mr-300 absolute">
     <div >
         <img src="/Images/Teacher-Online-With-Student.jpg" width="900px" height="550px">
     </div>
 </div>
 
-<div style="width: 260px; height: 125px;" class="slogan">
+<div class="w-64.25 h-31.875" class="slogan">
     <div>
                 A+ Students
     </div>
