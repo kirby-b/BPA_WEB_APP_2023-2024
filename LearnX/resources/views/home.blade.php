@@ -36,21 +36,21 @@
 
 <div class="w-64.25 h-31.875 BalsamiqSans border-black border-solid border-7 absolute text-4xl bg-violet-400">
     <div>
-                A+ Students
+        A+ Students
     </div>
     <div>
-                A+ Grades
+        A+ Grades
     </div>
     <div>
-                A+  Learning
+         A+  Learning
     </div>
 </div>
 
 
-<body class="main-intro-page-body">
+<body class="bg-violet-100">
 
-    <div class="body-text" style=" border-left: 5px solid black;">
-        <p style="margin: 10px; margin-top: 25px;">
+    <div class="absolute ml-900 border-5 border-solid border-black font-sans text-xl w-104 h-136.125 bg-green-250">
+        <p class="m-10 mt-25">
         LearnX, a place for students K-12 to strive and grow through their educational learning.
         We strive to make every year count as your students grow throught this program. At LearnX
         we take it upon ourselves to better our platform for students and for you. We teach kids
