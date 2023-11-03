@@ -10,7 +10,7 @@
 </head>
 
 <body>
-     <div class="width-full max-h-24.25 Preahvihear text-left text-3xl rounded border-black border-solid bg-center bg-cover bg-[url('/Images/School-Supplies.jpg')]">{{--Top-div-info-page --}}
+     <div class="width-full max-h-24.25 font-Preahvihear text-left text-3xl rounded border-black border-solid bg-center bg-cover bg-[url('/Images/School-Supplies.jpg')]">{{--Top-div-info-page --}}
         <div>
             <div>
                 <p>LearnX</p>
@@ -34,7 +34,7 @@
     </div>
 </div>
 
-<div class="max-w-64.25 max-h-31.875 BalsamiqSans border-black border-solid border-7 absolute text-4xl bg-violet-400">
+<div class="max-w-64.25 max-h-31.875 font-BalsamiqSans border-black border-solid border-7 absolute text-4xl bg-violet-400">
     <div>
         A+ Students
     </div>
