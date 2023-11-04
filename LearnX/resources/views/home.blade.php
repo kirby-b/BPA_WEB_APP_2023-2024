@@ -73,19 +73,19 @@
 <div class="Preahvihear text-center text-3xl absolute width-full max-h-17 bg-center bg-cover bg-[url('/Images/Light-Rainbow-Gradient.jpg')] mt-550 border-7 border-solid border-black">
     <div>
         <div class="m-44 inline">
-            <a type="button" value ="Yes" class href={{ route("page.faq") }}>FAQ</a> 
+            <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.faq") }}>FAQ</a> 
         </div>
         <div class="m-44 inline">
-            <a type="button" value ="Yes" class href={{ route("page.about") }}>ABOUT</a>
+            <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.about") }}>ABOUT</a>
         </div>
         <div class="m-44 inline">
-            <a type="button" value ="Yes" class href={{ route("page.why.us") }}>WHY US</a>
+            <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.why.us") }}>WHY US</a>
         </div>
         <div class="m-44 inline">
-            <a type="button" value ="Yes" class href={{ route("page.donate") }}>DONATE</a>
+            <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.donate") }}>DONATE</a>
         </div>
         <div class="m-44 inline">
-            <a type="button" value ="Yes" class href={{ route("page.reviews") }}>WHAT TEACHERS/STUDENTS SAY</a>
+            <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.reviews") }}>WHAT TEACHERS/STUDENTS SAY</a>
         </div>
         <!--Links to various places on the website-->
     </div>
