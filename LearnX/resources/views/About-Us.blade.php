@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<link rel="stylesheet" type="text/css" href="/css/app.css"> 
+<m-44 inline rel="stylesheet" type="text/css" href="/css/app.css"> 
 {{-- @vite('resources/css/app.css') --}}
 <head>
     <meta charset="UTF-8">
@@ -10,7 +10,7 @@
     
 </head>
 
-<body style="background-color: #91ffa5;">
+<body class="bg-green-250">
     <p class="text-4xl mt-12">
         {{-- <p style="font-size: 18px;"> --}}
             Hello! You've made it to LearnX!
@@ -32,11 +32,11 @@
             Tommy :
         -->
         <div>
-            <div class ="AboutPics">
+            <div class ="absolute mt-0">
                     
                 <img src="/Images/Adelaide_Meisel.png" alt="Image cannot load" width="290px" height="340px">
             </div>
-            <div class ="AboutDescription">
+            <div class ="absolute ml-300 mt-0 text-xl font-serif">
                 <p>
                 I am the founder of LearnX. I have designed this website to be easy to interact with, easy to teach, 
                 and easy to learn. I want students to be able to learn the fundamentals of education through our site. Thank you 
@@ -56,10 +56,10 @@
                 </p>
             </div>
                 
-            <div class ="AboutPics" style="margin-top:350px">
+            <div class ="absolute mt-350">
                 <img src="/Images/Brodie_Kirby.png" alt="Image cannot load" width="290px" height="340px">
             </div>
-            <div class="AboutDescription" style="margin-top:350px">
+            <div class="absolute ml-300 mt-350 text-xl font-serif">
                 <p>I am the co-founder of LearnX. I helped build this website from the ground up with the goal of 
                 bringing good education to all. I have always wanted to lead something important and helpful for the world, 
                 and here at LearnX I finally have the chance. I am a programming hobbyist and hope to be one of the leading 
@@ -78,10 +78,10 @@
                 ability to learn how to be responsible and work their way to the top.</p>
             </div>
             
-            <div class ="AboutPics" style="margin-top:700px">
+            <div class ="absolute mt-700">
                 <img src="/Images/Cameron_Hamilton.png" alt="Image cannot load" width="290px" height="340px">
             </div>
-            <div class="AboutDescription" style="margin-top:700px">
+            <div class="absolute ml-300 mt-700 text-xl font-serif">
                 <p>
                     I'm fortunate to be part of the team behind LearnX, to transform the way people learn. Collaborating with a 
                     group of dedicated individuals, I've been able to contribute to the development of this innovative learning 
@@ -100,10 +100,10 @@
                     curiosity, while also valuing the contributions of others, leading to a more enriching educational experience. 
                 </p>
             </div>
-            <div class ="AboutPics" style="margin-top:1050px">
+            <div class ="absolute mt-1050">
                 <img src="/Images/Thomas_Whitaker.png" alt="Image cannot load" width="290px" height="340px">
             </div>
-            <div class="AboutDescription" style="margin-top:1050px">
+            <div class="absolute ml-300 mt-1050 text-xl font-serif">
                 I work at LearnX to revolutionize education for K-12 students, creating an innovative online platform that 
                 caters to diverse learning styles. Through research and collaboration with educators, LearnX has created a 
                 comprehensive curriculum for core subjects, interactive lessons, and engaging activities to make learning 
@@ -123,21 +123,21 @@
                 knowledge and creativity.
             </div>
 
-            <div class="info-div" style="margin-top:1400px;">
+            <div class="Preahvihear text-center text-3xl absolute width-full max-h-17 bg-center bg-cover bg-[url('/Images/Light-Rainbow-Gradient.jpg')] mt-1400 border-7 border-solid border-black">
                 <div>
-                    <div class="link">
+                    <div class="m-44 inline">
                         <a type="button" value ="Yes" class href={{ route("page.faq") }}>FAQ</a> 
                     </div>
-                    <div class="link">
+                    <div class="m-44 inline">
                         <a type="button" value ="Yes" class href={{ route("page.index") }}>MENU</a>
                     </div>
-                    <div class="link">
+                    <div class="m-44 inline">
                         <a type="button" value ="Yes" class href={{ route("page.why.us") }}>WHY US</a>
                     </div>
-                    <div class="link">
+                    <div class="m-44 inline">
                         <a type="button" value ="Yes" class href={{ route("page.donate") }}>DONATE</a>
                     </div>
-                    <div class="link">
+                    <div class="m-44 inline">
                         <a type="button" value ="Yes" class href={{ route("page.reviews") }}>WHAT TEACHERS/STUDENTS SAY</a>
                     </div>
                     <!--Links to various places on the website-->
