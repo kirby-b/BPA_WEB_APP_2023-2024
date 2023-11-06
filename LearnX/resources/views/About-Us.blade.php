@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<m-44 inline rel="stylesheet" type="text/css" href="/css/app.css"> 
-{{-- @vite('resources/css/app.css') --}}
+{{-- <link rel="stylesheet" type="text/css" href="/css/app.css">  --}}
+@vite('resources/css/app.css')
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -126,19 +126,19 @@
             <div class="Preahvihear text-center text-3xl absolute width-full h-17 bg-center bg-cover bg-[url('/Images/Light-Rainbow-Gradient.jpg')] mt-1400 border-7 border-solid border-black">
                 <div>
                     <div class="m-44 inline">
-                        <a type="button" value ="Yes" class href={{ route("page.faq") }}>FAQ</a> 
+                        <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.faq") }}>FAQ</a> 
                     </div>
                     <div class="m-44 inline">
-                        <a type="button" value ="Yes" class href={{ route("page.index") }}>MENU</a>
+                        <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.index") }}>MENU</a>
                     </div>
                     <div class="m-44 inline">
-                        <a type="button" value ="Yes" class href={{ route("page.why.us") }}>WHY US</a>
+                        <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.why.us") }}>WHY US</a>
                     </div>
                     <div class="m-44 inline">
-                        <a type="button" value ="Yes" class href={{ route("page.donate") }}>DONATE</a>
+                        <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.donate") }}>DONATE</a>
                     </div>
                     <div class="m-44 inline">
-                        <a type="button" value ="Yes" class href={{ route("page.reviews") }}>WHAT TEACHERS/STUDENTS SAY</a>
+                        <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.reviews") }}>WHAT TEACHERS/STUDENTS SAY</a>
                     </div>
                     <!--Links to various places on the website-->
                 </div>

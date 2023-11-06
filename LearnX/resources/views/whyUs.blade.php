@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<link rel="stylesheet" type="text/css" href="/css/app.css"> 
-{{-- @vite('resources/css/app.css') --}}
+{{-- <link rel="stylesheet" type="text/css" href="/css/app.css">  --}}
+@vite('resources/css/app.css')
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="LearnX Why us">
@@ -9,9 +9,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-    <body style="background-color: #9b84ff">
+    <body class="bg-purple-500">
     
-        <h1 style="text-align: center; text-decoration:underline;">Why Us?</h1>
+        <h1 class="text-center underline">Why Us?</h1>
         <div class="whyUs">
             <p>
             We offer revelent courses to suit the students needs. Our flashcards and small assignments will fit<br>  
@@ -27,35 +27,35 @@
         </div>
         <div class="Text-and-Pic">
             <div>
-                <img src="/Images/Calculator-On-Notepad.jpg" width="400" height="450" style="float: right;" ><!--DON'T PUT ANYTHING HERE, THIS IS FOR PIC ONLY-->
+                <img src="/Images/Calculator-On-Notepad.jpg" width="400" height="450" class="float: right;" ><!--DON'T PUT ANYTHING HERE, THIS IS FOR PIC ONLY-->
             </div>
-            <div style="position: absolute; margin-top: 27px; margin-left: 210px; font-size: 25px; font-family: Arial, Helvetica, sans-serif;">
+            <div class="position: absolute; margin-top: 27px; margin-left: 210px; font-size: 25px; font-family: Arial, Helvetica, sans-serif;">
                 LearnX made learning in school so much easier! -Larua Don<br>
                 <br>
                 School and LearnX equals success. - Kelly Hemp<br>
             </div>
-            <div style="position: absolute; margin-top: 330px; margin-left: 25px; font-size: 25px; font-family: Arial, Helvetica, sans-serif;">
+            <div class="position: absolute; margin-top: 330px; margin-left: 25px; font-size: 25px; font-family: Arial, Helvetica, sans-serif;">
                 All schools should use LearnX! My child is so successful in school now! -Brooke Asher
             </div>
         </div>
 
 
-        <div class="info-div" style="margin-top: 580px">
+        <div class="Preahvihear text-center text-3xl absolute width-full h-17 bg-center bg-cover bg-[url('/Images/Light-Rainbow-Gradient.jpg')] mt-580 border-7 border-solid border-black">
             <div>
-                <div class="link">
-                    <a type="button" value ="Yes" class href={{ route("page.faq") }}>FAQ</a> 
+                <div class="m-44 inline">
+                    <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.faq") }}>FAQ</a> 
                 </div>
-                <div class="link">
-                    <a type="button" value ="Yes" class href={{ route("page.about") }}>ABOUT</a>
+                <div class="m-44 inline">
+                    <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.about") }}>ABOUT</a>
                 </div>
-                <div class="link">
-                    <a type="button" value ="Yes" class href={{ route("page.index") }}>MENU</a>
+                <div class="m-44 inline">
+                    <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.index") }}>MENU</a>
                 </div>
-                <div class="link">
-                    <a type="button" value ="Yes" class href={{ route("page.donate") }}>DONATE</a>
+                <div class="m-44 inline">
+                    <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.donate") }}>DONATE</a>
                 </div>
-                <div class="link">
-                    <a type="button" value ="Yes" class href={{ route("page.reviews") }}>WHAT TEACHERS/STUDENTS SAY</a>
+                <div class="m-44 inline">
+                    <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.reviews") }}>WHAT TEACHERS/STUDENTS SAY</a>
                 </div>
                 <!--Links to various places on the website-->
             </div>

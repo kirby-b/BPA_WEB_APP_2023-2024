@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
-<link rel="stylesheet" type="text/css" href="/css/app.css"> 
-{{-- @vite('resources/css/app.css') --}}
+{{-- <link rel="stylesheet" type="text/css" href="/css/app.css">  --}}
+@vite('resources/css/app.css')
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="LearnX Sign Up">
@@ -18,28 +18,28 @@
         <form form method="POST" action="/users" class="absolute ml-45 mt-20">
             @csrf <!--Makes it so people cant use scripts against your site-->
             <label class="text-lg" for="name">Name:</label><br>
-            <input class="max-w-75 max-h-15 border-black p-3 text-2xl" type="text" id="name" name="name" placeholder="Hugh Man" value="{{old('name')}}"><br>
+            <input class="max-w-75 max-h-15 border-black border-solid border-2 p-3 text-2xl" type="text" id="name" name="name" placeholder="Hugh Man" value="{{old('name')}}"><br>
             @error('name')
                 <p class="text-red-500 text-xs mt-2">{{$message}}</p>
             @enderror
             <br>
             <!--Gets name. Errors if you dont put it in or it is incorrect-->
             <label for="mail">Email:</label><br>
-            <input class="max-w-75 max-h-15 border-black p-3 text-2xl" type="email" id="mail" name="email" placeholder="username@example.com" value="{{old('email')}}"><br>
+            <input class="max-w-75 max-h-15 border-black border-solid border-2 p-3 text-2xl" type="email" id="mail" name="email" placeholder="username@example.com" value="{{old('email')}}"><br>
             @error('email')
                 <p class="text-red-500 text-xs mt-2">{{$message}}</p>
             @enderror
             <br>
             <!--Gets email. Errors if you dont put it in or it is incorrect-->
             <label for="password">Password:</label><br>
-            <input class="max-w-75 max-h-15 border-black p-3 text-2xl" type="password" id="newPassword" name="password" placeholder="Password123456!" value="{{old('password')}}"><br>
+            <input class="max-w-75 max-h-15 border-black border-solid border-2 p-3 text-2xl" type="password" id="newPassword" name="password" placeholder="Password123456!" value="{{old('password')}}"><br>
             @error('password')
                 <p class="text-red-500 text-xs mt-2">{{$message}}</p>
             @enderror
             <br>
             <!--Gets password. Errors if you dont put it in or it is incorrect-->
             <label for="passord2">Confirm Password:</label><br>
-            <input class="max-w-75 max-h-15 border-black p-3 text-2xl" type="password" id="password2" name="password_confirmation" placeholder="Password123456!" value="{{old('password_confirmation')}}"><br>
+            <input class="max-w-75 max-h-15 border-black border-solid border-2 p-3 text-2xl" type="password" id="password2" name="password_confirmation" placeholder="Password123456!" value="{{old('password_confirmation')}}"><br>
             @error('password_confirmation')
                 <p class="text-red-500 text-xs mt-2">{{$message}}</p>
             @enderror

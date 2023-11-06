@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<m-44 inline rel="stylesheet" type="text/css" href="/css/app.css"> 
-{{-- @vite('resources/css/app.css') --}}
+{{-- <link rel="stylesheet" type="text/css" href="/css/app.css">  --}}
+@vite('resources/css/app.css')
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="LearnX Donate page">
@@ -24,21 +24,21 @@
             <div class="justify-center items-center mt-3/100 ml-600">
                 Dollar Amount
                 <div>
-                    <input class="w-75 h-15 border-black p-3 text-2xl" type="text" id="dollar" name="dollar" placeholder="Dollar Amt" value="{{old('dollar')}}">
+                    <input class="w-75 h-15 border-black border-solid border-2 p-3 text-2xl" type="text" id="dollar" name="dollar" placeholder="Dollar Amt" value="{{old('dollar')}}">
                 </div>
                     <br>
                     <br>
                     <br>
                     Credit/Debit Card #
                 <div>
-                    <input class="w-75 h-15 border-black p-3 text-2xl" type="text" id="Cred-Deb" name="Cred-Deb" placeholder="Card ####-####-####-####" value="{{old('Cred-Deb')}}">
+                    <input class="w-75 h-15 border-black border-solid border-2 p-3 text-2xl" type="text" id="Cred-Deb" name="Cred-Deb" placeholder="Card ####-####-####-####" value="{{old('Cred-Deb')}}">
                 </div>
                     <br>
                     <br>
                     <br>
                     CVC
                 <div>
-                    <input class="w-75 h-15 border-black p-3 text-2xl" type="text" id="CVC" name="CVC" placeholder="CVC" value="{{old('CVC')}}">
+                    <input class="w-75 h-15 border-black border-solid border-2 p-3 text-2xl" type="text" id="CVC" name="CVC" placeholder="CVC" value="{{old('CVC')}}">
                 </div>
                     <!--submit button-->
                 <div class= "absolute ml-75 mt-50">
@@ -51,22 +51,22 @@
 
 </div>
 
-<div class="Preahvihear text-center text-3xl absolute width-full h-17 bg-center bg-cover bg-[url('/Images/Light-Rainbow-Gradient.jpg')] mt-1400 border-7 border-solid border-black" class="mt-540">
+<div class="Preahvihear text-center text-3xl absolute width-full h-17 bg-center bg-cover bg-[url('/Images/Light-Rainbow-Gradient.jpg')] mt-540 border-7 border-solid border-black">
     <div>
         <div class="m-44 inline">
-            <a type="button" value ="Yes" class href={{ route("page.faq") }}>FAQ</a> 
+            <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.faq") }}>FAQ</a> 
         </div>
         <div class="m-44 inline">
-            <a type="button" value ="Yes" class href={{ route("page.about") }}>ABOUT</a>
+            <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.about") }}>ABOUT</a>
         </div>
         <div class="m-44 inline">
-            <a type="button" value ="Yes" class href={{ route("page.why.us") }}>WHY US</a>
+            <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.why.us") }}>WHY US</a>
         </div>
         <div class="m-44 inline">
-            <a type="button" value ="Yes" class href={{ route("page.index") }}>MENU</a> 
+            <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.index") }}>MENU</a> 
         </div>
         <div class="m-44 inline">
-            <a type="button" value ="Yes" class href={{ route("page.reviews") }}>WHAT TEACHERS/STUDENTS SAY</a>
+            <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.reviews") }}>WHAT TEACHERS/STUDENTS SAY</a>
         </div>
         <!--Links to various places on the website-->
     </div>

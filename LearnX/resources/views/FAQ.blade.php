@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<link rel="stylesheet" type="text/css" href="/css/app.css"> 
-{{-- @vite('resources/css/app.css') --}}
+{{-- <link rel="stylesheet" type="text/css" href="/css/app.css">  --}}
+@vite('resources/css/app.css')
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="LearnX FAQ">
@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-<body style="background-color: #9b84ff">
-<div class="faq">
+<body class="bg-purple-500">
+<div class="absolute text-2xl font-serif">
 
-    <h1 style="text-align: center; ">FAQ</h1>
+    <h1 class="text-center">FAQ</h1>
 
     
     <h4>What is better about LearnX?</h4>
@@ -56,21 +56,21 @@
 </body>
 
 
-<div class="info-div" style="margin-top: 0px">
+<div class="Preahvihear text-center text-3xl absolute width-full h-17 bg-center bg-cover bg-[url('/Images/Light-Rainbow-Gradient.jpg')] mt-0 border-7 border-solid border-black">
     <div>
-        <div class="link">
+        <div class="m-44 inline">
             <a type="button" value ="Yes" class href={{ route("page.index") }}>MENU</a> 
         </div>
-        <div class="link">
+        <div class="m-44 inline">
             <a type="button" value ="Yes" class href={{ route("page.about") }}>ABOUT</a>
         </div>
-        <div class="link">
+        <div class="m-44 inline">
             <a type="button" value ="Yes" class href={{ route("page.why.us") }}>WHY US</a>
         </div>
-        <div class="link">
+        <div class="m-44 inline">
             <a type="button" value ="Yes" class href={{ route("page.donate") }}>DONATE</a>
         </div>
-        <div class="link">
+        <div class="m-44 inline">
             <a type="button" value ="Yes" class href={{ route("page.reviews") }}>WHAT TEACHERS/STUDENTS SAY</a>
         </div>
         <!--Links to various places on the website-->

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<link rel="stylesheet" type="text/css" href="/css/app.css"> 
-{{-- @vite('resources/css/app.css') --}}
+{{-- <link rel="stylesheet" type="text/css" href="/css/app.css">  --}}
+@vite('resources/css/app.css')
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="LearnX Sign In">
@@ -32,14 +32,14 @@
             @csrf <!--Makes it so people cant use scripts against your site-->
             <div class="mt-15/100 ml-147 justify-center items-center">
                 <div>
-                    <input class="w-75 h-15 border-black p-3 text-lg" type="text" id="email" name="email" placeholder="Email" value="{{old('email')}}">
+                    <input class="w-75 h-15 border-black border-solid border-2 p-3 text-lg" type="text" id="email" name="email" placeholder="Email" value="{{old('email')}}">
                     @error('email')
                         <p class="text-red-500 text-xs mt-2">{{$message}}</p>
                     @enderror
                 </div>
 
                 <div>
-                    <input class="w-75 h-15 border-black p-3 text-lg" type="password" id="password" name="password" placeholder="Password" value="{{old('password')}}">
+                    <input class="w-75 h-15 border-black border-solid border-2 p-3 text-lg" type="password" id="password" name="password" placeholder="Password" value="{{old('password')}}">
                     @error('password')
                         <p class="text-red-500 text-xs mt-2">{{$message}}</p>
                     @enderror

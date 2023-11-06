@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<link rel="stylesheet" type="text/css" href="/css/app.css">
-{{-- @vite('resources/css/app.css') --}}
+{{-- <link rel="stylesheet" type="text/css" href="/css/app.css"> --}}
+@vite('resources/css/app.css')
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="What people say about LearnX">
@@ -9,11 +9,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-    <body style="background-color: #9b84ff">
+    <body class="bg-purple-500">
 
-        <h1 style="text-align: center;">What Students and Teachers Say About Learn</h1>
+        <h1 class="text-center">What Students and Teachers Say About Learn</h1>
 
-        <p style="text-align: left; font-size: 20px;">
+        <p class="text-left text-xl">
             Olivia Smith(K-Student): "I like the colorful pictures and fun stories on LearnX. It makes learning so much fun!"<br><br>
             Sarah Anderson (Teacher): "LearnX provides a variety of teaching resources and lesson plans that make my job as a teacher easier. It helps me keep my students engaged."<br><br>
             Ethan Davis(3rd Grade Student): "LearnX has interactive quizzes that help me understand the lessons better. It's not boring like some other stuff."<br><br>
@@ -26,22 +26,22 @@
             Lisa Johnson (Teacher): "LearnX has a fantastic platform for creating and sharing educational content. It's a great tool for collaborating with other educators and sharing resources, making my teaching job more efficient."<br><br>
         </p>
 
-        <div class="info-div" style="margin-top: 65px">
+        <div class="Preahvihear text-center text-3xl absolute width-full h-17 bg-center bg-cover bg-[url('/Images/Light-Rainbow-Gradient.jpg')] mt-65 border-7 border-solid border-black">
             <div>
-                <div class="link">
-                    <a type="button" value ="Yes" class href={{ route("page.faq") }}>FAQ</a> 
+                <div class="m-44 inline">
+                    <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.faq") }}>FAQ</a> 
                 </div>
-                <div class="link">
-                    <a type="button" value ="Yes" class href={{ route("page.about") }}>ABOUT</a>
+                <div class="m-44 inline">
+                    <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.about") }}>ABOUT</a>
                 </div>
-                <div class="link">
-                    <a type="button" value ="Yes" class href={{ route("page.why.us") }}>WHY US</a>
+                <div class="m-44 inline">
+                    <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.why.us") }}>WHY US</a>
                 </div>
-                <div class="link">
-                    <a type="button" value ="Yes" class href={{ route("page.donate") }}>DONATE</a>
+                <div class="m-44 inline">
+                    <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.donate") }}>DONATE</a>
                 </div>
-                <div class="link">
-                    <a type="button" value ="Yes" class href={{ route("page.index") }}>MENU</a>
+                <div class="m-44 inline">
+                    <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.index") }}>MENU</a>
                 </div>
                 <!--Links to various places on the website-->
             </div>
