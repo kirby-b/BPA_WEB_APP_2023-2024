@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<link rel="stylesheet" type="text/css" href="/css/app.css"> 
+<m-44 inline rel="stylesheet" type="text/css" href="/css/app.css"> 
 {{-- @vite('resources/css/app.css') --}}
 <head>
     <meta charset="UTF-8">
@@ -13,42 +13,36 @@
 
 <div>
 
-    <h1 style="text-align: center">LearnX Can't Do It Alone</h1>
-    <p style="text-align: center; font-size: 18px">
+    <h1 class="text-center">LearnX Can't Do It Alone</h1>
+    <p class="text-center text-lg">
         We apperciate your donation, please type in the amount you wish to donate below:
     </p>
-        <style>
-            input[type="text"]
-                {
-                    width: 300px;
-                    height: 60px;
-                }
-        </style>
+        
 
-    <form method="POST" action="/users/authenticate" style="position:absolute;">
+    <form method="POST" action="/users/authenticate" class="position:absolute;">
         @csrf <!--Makes it so people cant use scripts against your site-->
-            <div class="donation-box">
+            <div class="justify-center items-center mt-3/100 ml-600">
                 Dollar Amount
                 <div>
-                    <input type="text" id="dollar" name="dollar" placeholder="Dollar Amt" value="{{old('dollar')}}" style="font-size:1.5rem">
+                    <input class="w-75 h-15 border-black p-3 text-2xl" type="text" id="dollar" name="dollar" placeholder="Dollar Amt" value="{{old('dollar')}}">
                 </div>
                     <br>
                     <br>
                     <br>
                     Credit/Debit Card #
                 <div>
-                    <input type="text" id="Cred-Deb" name="Cred-Deb" placeholder="Card ####-####-####-####" value="{{old('Cred-Deb')}}" style="font-size:1.5rem">
+                    <input class="w-75 h-15 border-black p-3 text-2xl" type="text" id="Cred-Deb" name="Cred-Deb" placeholder="Card ####-####-####-####" value="{{old('Cred-Deb')}}">
                 </div>
                     <br>
                     <br>
                     <br>
                     CVC
                 <div>
-                    <input type="text" id="CVC" name="CVC" placeholder="CVC" value="{{old('CVC')}}" style="font-size:1.5rem">
+                    <input class="w-75 h-15 border-black p-3 text-2xl" type="text" id="CVC" name="CVC" placeholder="CVC" value="{{old('CVC')}}">
                 </div>
                     <!--submit button-->
-                <div style= "position: absolute; margin-left: 75px; margin-top: 50px; ">
-                    <input style="font-family: Preahvihear; font-size: 30px;"type="submit" id="submit" name="submit" value="DONATE>">
+                <div class= "absolute ml-75 mt-50">
+                    <input class="font-Preahvihear text-3xl no-underline border-none cursor-pointer bg-black" type="submit" id="submit" name="submit" value="DONATE>">
                 </div>
                 <!--Gets your input and tries to verify your account info. endError sections determine what will happen if they input the
                 wrong info -->
@@ -57,21 +51,21 @@
 
 </div>
 
-<div class="info-div" style="margin-top: 540px">
+<div class="Preahvihear text-center text-3xl absolute width-full h-17 bg-center bg-cover bg-[url('/Images/Light-Rainbow-Gradient.jpg')] mt-1400 border-7 border-solid border-black" class="mt-540">
     <div>
-        <div class="link">
+        <div class="m-44 inline">
             <a type="button" value ="Yes" class href={{ route("page.faq") }}>FAQ</a> 
         </div>
-        <div class="link">
+        <div class="m-44 inline">
             <a type="button" value ="Yes" class href={{ route("page.about") }}>ABOUT</a>
         </div>
-        <div class="link">
+        <div class="m-44 inline">
             <a type="button" value ="Yes" class href={{ route("page.why.us") }}>WHY US</a>
         </div>
-        <div class="link">
+        <div class="m-44 inline">
             <a type="button" value ="Yes" class href={{ route("page.index") }}>MENU</a> 
         </div>
-        <div class="link">
+        <div class="m-44 inline">
             <a type="button" value ="Yes" class href={{ route("page.reviews") }}>WHAT TEACHERS/STUDENTS SAY</a>
         </div>
         <!--Links to various places on the website-->
