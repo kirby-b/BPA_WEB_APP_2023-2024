@@ -12,7 +12,7 @@
     <body class="bg-purple-500">
     
         <h1 class="text-center underline">Why Us?</h1>
-        <div class="whyUs">
+        <div class="absolute font-sans mt-150 text-2xl h-auto w-356.25">
             <p>
             We offer revelent courses to suit the students needs. Our flashcards and small assignments will fit<br>  
             what the student would learn during the course of that year. We run our assignments through our <br>
@@ -25,16 +25,16 @@
             can find at the bottom of the screen.
             </p>
         </div>
-        <div class="Text-and-Pic">
+        <div class="absolute ml-1115 mt-63 border-solid border-5 border-amber-700">
             <div>
-                <img src="/Images/Calculator-On-Notepad.jpg" width="400" height="450" class="float: right;" ><!--DON'T PUT ANYTHING HERE, THIS IS FOR PIC ONLY-->
+                <img src="/Images/Calculator-On-Notepad.jpg" width="400px" height="450px" class="float-right" ><!--DON'T PUT ANYTHING HERE, THIS IS FOR PIC ONLY-->
             </div>
-            <div class="position: absolute; margin-top: 27px; margin-left: 210px; font-size: 25px; font-family: Arial, Helvetica, sans-serif;">
+            <div class="absolute mt-27 ml-210 text-2xl font-sans">
                 LearnX made learning in school so much easier! -Larua Don<br>
                 <br>
                 School and LearnX equals success. - Kelly Hemp<br>
             </div>
-            <div class="position: absolute; margin-top: 330px; margin-left: 25px; font-size: 25px; font-family: Arial, Helvetica, sans-serif;">
+            <div class="absolute mt-330 ml-25 text-2xl font-sans">
                 All schools should use LearnX! My child is so successful in school now! -Brooke Asher
             </div>
         </div>
