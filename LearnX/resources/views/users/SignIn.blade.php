@@ -9,60 +9,51 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-<body class="Sign-In-bg">
+<body class="bg-cover bg-[url('/Images/Stock-img-Rainbow-background.jpg')]">
 </body>
 
-<div id="middle">
+<div class="absolute ml-465 mt-0 mb-0 w-150 h-98/100 bg-gradient-to-r from-cyan-300 to-pink-500">
 
     <h1>
-        <div class="Title">
+        <div class="text-center text-5xl font-ArchivoBlack">
             LearnX
         </div>
     </h1>
 
-    <div style="position=absolute; font-family: Preahvihear; font-size: 18; margin-left: 20px">
+    <div class="absolute font-Preahvihear text-lg ml-20">
         <a href={{ route("page.index") }}><<< Go Back<a><!--Goes back to index-->
     </div>
 
-    <div class="sign-in">
+    <div class="relative text-center text-9xl font-Preahvihear top-75">
         Sign-In
     </div>
-
-    <!--Email and password boxes-->
-        <style>
-            input[type="text"]
-                {
-                    width: 300px;
-                    height: 60px;
-                }
-        </style>
         <!--Goes to the authenticate route and then to the UserController-->
         <form method="POST" action="/users/authenticate">
             @csrf <!--Makes it so people cant use scripts against your site-->
-            <div class="sign-in-box">
+            <div class="mt-15/100 ml-147 justify-center items-center">
                 <div>
-                    <input type="text" id="email" name="email" placeholder="Email" value="{{old('email')}}">
+                    <input class="w-75 h-15 border-black p-3 text-lg" type="text" id="email" name="email" placeholder="Email" value="{{old('email')}}">
                     @error('email')
-                        <p style="color:red">{{$message}}</p>
+                        <p class="text-red-500 text-xs mt-2">{{$message}}</p>
                     @enderror
                 </div>
 
                 <div>
-                    <input type="password" id="password" name="password" placeholder="Password" value="{{old('password')}}">
+                    <input class="w-75 h-15 border-black p-3 text-lg" type="password" id="password" name="password" placeholder="Password" value="{{old('password')}}">
                     @error('password')
-                        <p style="color:red">{{$message}}</p>
+                        <p class="text-red-500 text-xs mt-2">{{$message}}</p>
                     @enderror
                 </div>
-                <div style= " position: absolute; margin-left: 75px; margin-top: 50px; ">
-                    <input style="font-family: Preahvihear; font-size: 30px;"type="submit" id="submit" name="submit" value="Lets Go >>>">
+                <div class= "absolute ml-75 mt-50">
+                    <input class="w-75 h-15 font-Preahvihear text-3xl no-underline border-none cursor-pointer bg-black" type="submit" id="submit" name="submit" value="Lets Go >>>">
                 </div>
                 <!--Gets your input and tries to verify your account info. endError sections determine what will happen if they input the
                 wrong info -->
             </div>
         </form>
 
-    <div style="font-size: 20px; position:absolute">
-        <a href={{ route("page.reset.pas") }} style="margin-left: 272px">I forgot my password</a>
+    <div class="text-xl absolute ml-272">
+        <a href={{ route("page.reset.pas") }}>I forgot my password</a>
     </div>
 
 </div>

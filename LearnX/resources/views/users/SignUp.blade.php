@@ -10,49 +10,38 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-<body style="background-color: white;">
-    <style>
-        input
-            {
-                width: 300px;
-                height: 50px;
-                font-size: 1.5rem;
-            }
-        label{
-            font-size: 1.1rem;
-        }
-    </style>
-    <div style="width: 400px; height: 500px; position:absolute; margin-left: 550px; margin-top:80px; background-color:white;">
+<body class="bg-white">
+    <div class="w-100 h-126 absolute ml-550 mt-80 bg-white">
         <!--Goes to route and then to UserController to be varified and stored-->
         <!--The value "old" makes it so the boxes retain what they say so the user doesnt have 
         to repeat themself-->
-        <form form method="POST" action="/users" style="position:absolute; margin-left: 45px; margin-top:20px;">
+        <form form method="POST" action="/users" class="absolute ml-45 mt-20">
             @csrf <!--Makes it so people cant use scripts against your site-->
-            <label for="name">Name:</label><br>
-            <input type="text" id="name" name="name" placeholder="Hugh Man" value="{{old('name')}}"><br>
+            <label class="text-lg" for="name">Name:</label><br>
+            <input class="max-w-75 max-h-15 border-black p-3 text-2xl" type="text" id="name" name="name" placeholder="Hugh Man" value="{{old('name')}}"><br>
             @error('name')
-                <p style="color:red">{{$message}}</p>
+                <p class="text-red-500 text-xs mt-2">{{$message}}</p>
             @enderror
             <br>
             <!--Gets name. Errors if you dont put it in or it is incorrect-->
             <label for="mail">Email:</label><br>
-            <input type="email" id="mail" name="email" placeholder="username@example.com" value="{{old('email')}}"><br>
+            <input class="max-w-75 max-h-15 border-black p-3 text-2xl" type="email" id="mail" name="email" placeholder="username@example.com" value="{{old('email')}}"><br>
             @error('email')
-                <p style="color:red">{{$message}}</p>
+                <p class="text-red-500 text-xs mt-2">{{$message}}</p>
             @enderror
             <br>
             <!--Gets email. Errors if you dont put it in or it is incorrect-->
             <label for="password">Password:</label><br>
-            <input type="password" id="newPassword" name="password" placeholder="Password123456!" value="{{old('password')}}"><br>
+            <input class="max-w-75 max-h-15 border-black p-3 text-2xl" type="password" id="newPassword" name="password" placeholder="Password123456!" value="{{old('password')}}"><br>
             @error('password')
-                <p style="color:red">{{$message}}</p>
+                <p class="text-red-500 text-xs mt-2">{{$message}}</p>
             @enderror
             <br>
             <!--Gets password. Errors if you dont put it in or it is incorrect-->
             <label for="passord2">Confirm Password:</label><br>
-            <input type="password" id="password2" name="password_confirmation" placeholder="Password123456!" value="{{old('password_confirmation')}}"><br>
+            <input class="max-w-75 max-h-15 border-black p-3 text-2xl" type="password" id="password2" name="password_confirmation" placeholder="Password123456!" value="{{old('password_confirmation')}}"><br>
             @error('password_confirmation')
-                <p style="color:red">{{$message}}</p>
+                <p class="text-red-500 text-xs mt-2">{{$message}}</p>
             @enderror
             <br>
             <!--Confirms password with a custom confirmation name. Errors if you dont put it in or it is incorrect-->
@@ -64,7 +53,7 @@
             <input type="radio" id="choice3" name="radio" value="Student">
             <label for="choice3"> I am a student</label><br>-->
             @error('radio')
-                <p style="color:red">{{$message}}</p>
+                <p class="text-red-500 text-xs mt-2">{{$message}}</p>
             @enderror
 
             <!--Gets your position and errors if you dont pick one-->
@@ -79,7 +68,7 @@
             <textarea name="message" rows="10" cols="30" value="{{old('message')}}"></textarea><br>-->
             <!--Gets the users reason for joining-->
 
-            <input type="submit" id="submit" name="submit" value="Create Account">
+            <input class="no-underline border-none cursor-pointer bg-black" type="submit" id="submit" name="submit" value="Create Account">
         </form>
     </div>
 </body>
