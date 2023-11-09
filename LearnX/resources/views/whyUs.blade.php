@@ -40,7 +40,7 @@
         </div>
 
 
-        <div class="Preahvihear text-center text-3xl absolute width-full h-17 bg-center bg-cover bg-[url('/Images/Light-Rainbow-Gradient.jpg')] mt-580 border-7 border-solid border-black">
+        <div class="Preahvihear text-center text-3xl absolute width-full h-17 bg-center bg-cover bg-[url('/Images/Light-Rainbow-Gradient.jpg')] mt-582 border-7 border-solid border-black">
             <div>
                 <div class="m-44 inline">
                     <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.faq") }}>FAQ</a> 

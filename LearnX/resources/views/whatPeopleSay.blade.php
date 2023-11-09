@@ -13,7 +13,7 @@
 
         <h1 class="text-center">What Students and Teachers Say About Learn</h1>
 
-        <p class="text-left text-xl">
+        <p class="text-left text-xl indent-0.5">
             Olivia Smith(K-Student): "I like the colorful pictures and fun stories on LearnX. It makes learning so much fun!"<br><br>
             Sarah Anderson (Teacher): "LearnX provides a variety of teaching resources and lesson plans that make my job as a teacher easier. It helps me keep my students engaged."<br><br>
             Ethan Davis(3rd Grade Student): "LearnX has interactive quizzes that help me understand the lessons better. It's not boring like some other stuff."<br><br>

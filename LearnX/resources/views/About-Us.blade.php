@@ -103,7 +103,7 @@
             <div class ="absolute mt-1050">
                 <img src="/Images/Thomas_Whitaker.png" alt="Image cannot load" width="290px" height="340px">
             </div>
-            <div class="absolute ml-300 mt-1050 text-xl font-serif">
+            <div class="absolute ml-300 mt-1053 text-xl font-serif">
                 I work at LearnX to revolutionize education for K-12 students, creating an innovative online platform that 
                 caters to diverse learning styles. Through research and collaboration with educators, LearnX has created a 
                 comprehensive curriculum for core subjects, interactive lessons, and engaging activities to make learning 
@@ -123,7 +123,7 @@
                 knowledge and creativity.
             </div>
 
-            <div class="Preahvihear text-center text-3xl absolute width-full h-17 bg-center bg-cover bg-[url('/Images/Light-Rainbow-Gradient.jpg')] mt-1400 border-7 border-solid border-black">
+            <div class="Preahvihear text-center text-3xl absolute width-full h-17 bg-center bg-cover bg-[url('/Images/Light-Rainbow-Gradient.jpg')] mt-1395 border-7 border-solid border-black">
                 <div>
                     <div class="m-44 inline">
                         <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.faq") }}>FAQ</a> 
