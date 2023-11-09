@@ -6,7 +6,13 @@ module.exports = {
     "./resources/**/*.vue",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'ArchivoBlack': ['ArchivoBlack'],
+        'BalsamiqSans': ['BalsamiqSans'], 
+        'Preahvihear' : ['Preahvihear'],
+      },
+    },
   },
   plugins: [],
 }
