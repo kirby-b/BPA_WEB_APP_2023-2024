@@ -10,7 +10,7 @@
 
     <div class="border-2 border-solid border-black font-Preahvihear text-3xl text-left h-24 w-full bg-green-50">
         <div>
-                <div class="absolute ml-140"><img src="/Images/LearnXLogo.png" alt="Image cannot load" width="80px" height="100px"></div>
+                <div class="absolute ml-140"><img src="/Images/LearnXLogo.png" alt="Image cannot load" width="75px" height="100px"></div>
                 <div class="absolute ml-350"><!--Science--><a href={{ route("page.science") }}><img src="/Images/Science_Icon.jpg" alt="Image cannot load" width="90px" height="100px"></a><!--Image by rawpixel.com on Freepik>--></div>
                 <div class="absolute ml-500"><!--Math--><a href={{ route("page.math") }}><img src="/Images/Math_Icon.jpg" alt="Image cannot load" width="80px" height="90px"></a><!--Image by brgfx on Freepik--></div>
                 <div class="absolute ml-650"><!--English--><a href={{ route("page.english") }}><img src="/Images/English_Icon.jpg" alt="Image cannot load" width="80px" height="90px"></a><!--Image by upklyak on Freepik--></div>

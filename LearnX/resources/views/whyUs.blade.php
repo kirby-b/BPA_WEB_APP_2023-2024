@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-    <body class="bg-purple-500">
+    <body class="bg-purple-400">
     
         <h1 class="text-center underline">Why Us?</h1>
         <div class="absolute font-sans mt-150 text-2xl h-auto w-356.25">
