@@ -53,7 +53,7 @@
             <br> 
             <div>Fractions, Decimals, and Precentages</div>
             <br>
-            <div>Alagrbra(1 and 2)</div><!--make link to a page where they choose-->
+            <div>Alagrbra(I and II)</div><!--make link to a page where they choose-->
             <br>
             <div>Geometry</div>
             <br>
