@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 {{-- <link rel="stylesheet" type="text/css" href="/css/app.css">  --}}
-@vite('resources/css/app.css')
 <head>
     @vite('resources/css/app.css')
     <meta charset="UTF-8">
