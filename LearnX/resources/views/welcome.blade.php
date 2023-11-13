@@ -21,7 +21,7 @@
                 </div>-->
 
              <div class="text-white text-right">
-                <a type="button" value ="Yes" href={{ route("signin") }} class="text-white">Sign-In  </a><a type="button" value ="Yes" href={{ route("signup") }} class="text-white">|  Create New Account</a>
+                <a type="button" value ="Yes" href={{ route("signin") }} class="text-white text-9xl">Sign-In  </a><a type="button" value ="Yes" href={{ route("signup") }} class="text-white">|  Create New Account</a>
                 <!--Sign in is sign in, create new needs to go to are you org-->
             </div>
         </div>
