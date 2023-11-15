@@ -21,10 +21,19 @@
                 <div style="absolute ml-950"><!--Grades--><a href={{ route("page.gradebook") }}><img src="/Images/Grade_Icon.png" alt="Image cannot load" width="100px" height="100px"></a><!--Image by Freepik--></div>
                 <div class="absolute ml-85/100 mtop-3"><!--pfp--><a href={{ route("page.profile") }}><img src="/Images/Default_Pfp.png" alt="Image cannot load" width="90px" height="90px"></a></div><!--Image by qalebstudio on Freepik-->
                 <div class="absolute ml-93/100"><!--Home Button--><a href={{ route("page.home") }}><img src="/Images/Home_Icon.png" alt="Image cannot load" width="90px" height="90px"></a></div><!--Image by qalebstudio on Freepik-->
-                LearnX      
-                <br>
+                LearnX     
+                <br> 
                 A+ A+ A+
-            </div>  
+            </div> 
+            {{-- <div class="max-w-6xl mx-auto px-4">
+                <div class="flex justify-center space-x-6">
+                    <a href="{{ route('page.faq') }}" class="hover:text-purple-300">FAQ</a>
+                    <a href="{{ route('page.about') }}" class="hover:text-purple-300">ABOUT</a>
+                    <a href="{{ route('page.why.us') }}" class="hover:text-purple-300">WHY US</a>
+                    <a href="{{ route('page.donate') }}" class="hover:text-purple-300">DONATE</a>
+                    <a href="{{ route('page.reviews') }}" class="hover:text-purple-300">REVIEWS</a>
+                </div>
+            </div> For reference to make the nav better--}}
         </div>
     </header>
 
