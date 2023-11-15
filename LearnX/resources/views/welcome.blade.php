@@ -22,7 +22,7 @@
                         We make our system user-friendly so you can get the most out of our site.
                         <br><br>
                         We hope you enjoy LearnX!
-                        <a href="{{ route('signup') }}" class="text-blue-600 hover:text-blue-800">Click here</a>
+                        <a href="{{ route('signin') }}" class="text-blue-600 hover:text-blue-800">Click here</a>
                         to make a new account.
                     </p>
                 </div>

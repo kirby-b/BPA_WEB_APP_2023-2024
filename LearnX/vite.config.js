@@ -4,7 +4,7 @@ import laravel from 'laravel-vite-plugin';
 export default defineConfig({
     server: {
         hmr: {
-            host: '10.0.0.12', // THIS WILL NEED TO BE CHANGED TO YOUR LOCAL IP
+            host: '10.22.3.86', // THIS WILL NEED TO BE CHANGED TO YOUR LOCAL IP
         }
     },
     plugins: [
