@@ -1,16 +1,5 @@
-<!DOCTYPE html>
-{{-- <link rel="stylesheet" type="text/css" href="/css/app.css">  --}}
-@vite('resources/css/app.css')
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="LearnX About">
-    <meta name="keywords" content="Laravel">
-    <meta name="author" content="Brodie Kirby And Adelaide Meisel">
-    
-</head>
-
-<body class="bg-green-250">
+<x-partials.layout>
+<div class="bg-green-250">
     <p class="text-4xl mt-12">
         {{-- <p style="font-size: 18px;"> --}}
             Hello! You've made it to LearnX!
@@ -122,27 +111,5 @@
                 a sense of ownership in learning, encouraging children to chart their own course toward a future enriched with 
                 knowledge and creativity.
             </div>
-
-            <div class="Preahvihear text-center text-3xl absolute width-full h-17 bg-center bg-cover bg-[url('/Images/Light-Rainbow-Gradient.jpg')] mt-1395 border-7 border-solid border-black">
-                <div>
-                    <div class="m-44 inline">
-                        <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.faq") }}>FAQ</a> 
-                    </div>
-                    <div class="m-44 inline">
-                        <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.index") }}>MENU</a>
-                    </div>
-                    <div class="m-44 inline">
-                        <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.why.us") }}>WHY US</a>
-                    </div>
-                    <div class="m-44 inline">
-                        <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.donate") }}>DONATE</a>
-                    </div>
-                    <div class="m-44 inline">
-                        <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.reviews") }}>WHAT TEACHERS/STUDENTS SAY</a>
-                    </div>
-                    <!--Links to various places on the website-->
-                </div>
-            </div>
         </div>
-    </body>
-</html>
+</x-partials.layout>

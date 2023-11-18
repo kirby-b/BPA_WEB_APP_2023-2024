@@ -1,17 +1,6 @@
-<!DOCTYPE html>
-{{-- <link rel="stylesheet" type="text/css" href="/css/app.css">  --}}
-@vite('resources/css/app.css')
-<head>
-    <meta charset="UTF-8">
-    <meta name="description" content="LearnX Donate page">
-    <meta name="keywords" content="Laravel">
-    <meta name="author" content="Brodie Kirby And Adelaide Meisel">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
+<x-partials.layout>
 
-<body class="bg-green-250">
-
-<div>
+<div class="bg-green-250">
 
     <h1 class="text-center">LearnX Can't Do It Alone</h1>
     <p class="text-center text-lg">
@@ -51,27 +40,5 @@
 
 </div>
 
-<div class="Preahvihear text-center text-3xl absolute width-full h-17 bg-center bg-cover bg-[url('/Images/Light-Rainbow-Gradient.jpg')] mt-540 border-7 border-solid border-black">
-    <div>
-        <div class="m-44 inline">
-            <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.faq") }}>FAQ</a> 
-        </div>
-        <div class="m-44 inline">
-            <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.about") }}>ABOUT</a>
-        </div>
-        <div class="m-44 inline">
-            <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.why.us") }}>WHY US</a>
-        </div>
-        <div class="m-44 inline">
-            <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.index") }}>MENU</a> 
-        </div>
-        <div class="m-44 inline">
-            <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.reviews") }}>WHAT TEACHERS/STUDENTS SAY</a>
-        </div>
-        <!--Links to various places on the website-->
-    </div>
 </div>
-
-</body>
-
-</html>
+</x-partials.layout>

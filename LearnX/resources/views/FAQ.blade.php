@@ -1,15 +1,6 @@
-<!DOCTYPE html>
-{{-- <link rel="stylesheet" type="text/css" href="/css/app.css">  --}}
-@vite('resources/css/app.css')
-<head>
-    <meta charset="UTF-8">
-    <meta name="description" content="LearnX FAQ">
-    <meta name="keywords" content="Laravel">
-    <meta name="author" content="Brodie Kirby And Adelaide Meisel">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
+<x-partials.layout>
 
-<body class="bg-purple-500">
+<div class="bg-purple-500">
 <div class="absolute text-2xl font-serif">
 
     <h1 class="text-center">FAQ</h1>
@@ -42,7 +33,7 @@
     <p>We are currently working on our site becoming more mobile-friendly. We hope you enjoy the desktop version while you wait!</p>
     <br>
     <h4>Does this site cost money?</h4>
-    <p>We do not have any "premium" accounts. We ask for donations only which you can find <a type="button" id="inText" value ="Yes" class href={{ route("page.donate") }}>here</a></p>
+    <p>We do not have any "premium" accounts. We ask for donations only which you can find <a type="button" id="inText" value ="Yes" href={{ route("page.donate") }}>here</a></p>
     <br>
     <h4>Can I trust the information on this site?</h4>
     <p>Yes. We do research and run all problems through our employees and other teachers in the U.S. so you can always be assured 
@@ -53,30 +44,5 @@
     <br>
     <!--<h4>Is there a helper forum?</h4>
     <p>There are resources to help you work through our site.</p>-->
-</body>
-
-
-<div class="Preahvihear text-center text-3xl absolute width-full h-17 bg-center bg-cover bg-[url('/Images/Light-Rainbow-Gradient.jpg')] mt-0 border-7 border-solid border-black">
-    <div>
-        <div class="m-44 inline">
-            <a type="button" value ="Yes" class href={{ route("page.index") }}>MENU</a> 
-        </div>
-        <div class="m-44 inline">
-            <a type="button" value ="Yes" class href={{ route("page.about") }}>ABOUT</a>
-        </div>
-        <div class="m-44 inline">
-            <a type="button" value ="Yes" class href={{ route("page.why.us") }}>WHY US</a>
-        </div>
-        <div class="m-44 inline">
-            <a type="button" value ="Yes" class href={{ route("page.donate") }}>DONATE</a>
-        </div>
-        <div class="m-44 inline">
-            <a type="button" value ="Yes" class href={{ route("page.reviews") }}>WHAT TEACHERS/STUDENTS SAY</a>
-        </div>
-        <!--Links to various places on the website-->
     </div>
-</div>
-
-
-</div>
-</html>
+</x-partials.layout>

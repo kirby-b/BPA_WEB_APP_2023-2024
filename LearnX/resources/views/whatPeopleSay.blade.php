@@ -1,15 +1,6 @@
-<!DOCTYPE html>
-{{-- <link rel="stylesheet" type="text/css" href="/css/app.css"> --}}
-@vite('resources/css/app.css')
-<head>
-    <meta charset="UTF-8">
-    <meta name="description" content="What people say about LearnX">
-    <meta name="keywords" content="Laravel">
-    <meta name="author" content="Brodie Kirby And Adelaide Meisel">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
+<x-partials.layout>
 
-    <body class="bg-purple-500">
+    <div class="bg-purple-500">
 
         <h1 class="text-center">What Students and Teachers Say About Learn</h1>
 
@@ -26,25 +17,5 @@
             Lisa Johnson (Teacher): "LearnX has a fantastic platform for creating and sharing educational content. It's a great tool for collaborating with other educators and sharing resources, making my teaching job more efficient."<br><br>
         </p>
 
-        <div class="Preahvihear text-center text-3xl absolute width-full h-17 bg-center bg-cover bg-[url('/Images/Light-Rainbow-Gradient.jpg')] mt-65 border-7 border-solid border-black">
-            <div>
-                <div class="m-44 inline">
-                    <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.faq") }}>FAQ</a> 
-                </div>
-                <div class="m-44 inline">
-                    <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.about") }}>ABOUT</a>
-                </div>
-                <div class="m-44 inline">
-                    <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.why.us") }}>WHY US</a>
-                </div>
-                <div class="m-44 inline">
-                    <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.donate") }}>DONATE</a>
-                </div>
-                <div class="m-44 inline">
-                    <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.index") }}>MENU</a>
-                </div>
-                <!--Links to various places on the website-->
-            </div>
-        </div>
-    </body>
-</html>
+    </div> 
+</x-partials.layout>
