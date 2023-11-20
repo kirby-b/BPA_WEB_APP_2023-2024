@@ -2,12 +2,6 @@
     <div class="bg-gray-100 py-10">
         <div class="container mx-auto px-4">
             <div class="flex flex-col md:flex-row justify-center items-center md:space-x-6">
-                <!-- Image Section -->
-                <div class="md:w-1/2 p-4">
-                    <img src="/Images/Teacher-Online-With-Student.jpg" alt="Teacher Online With Student"
-                        class="max-w-full h-auto rounded-lg shadow-lg">
-                </div>
-
                 <!-- Text Section -->
                 <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
                     <div class="text-xl font-sans m-4">
