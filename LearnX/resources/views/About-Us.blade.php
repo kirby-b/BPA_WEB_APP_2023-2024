@@ -4,26 +4,26 @@
             <div class="flex flex-col md:flex-row justify-center items-center md:space-x-6">
                 <!-- Image Section -->
                 <div class="md:w-1/2 p-4">
-                    <img src="/Images/Teacher-Online-With-Student.jpg" alt="Teacher Online With Student"
+                    <img src="/Images/Adelaide_Meisel.png" alt="Our Founder, Adelaide"
                         class="max-w-full h-auto rounded-lg shadow-lg">
                 </div>
 
                 <!-- Text Section -->
                 <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
-                    <p class="text-xl font-sans m-4">
-                        LearnX, a place for students K-12 to strive and grow through their educational learning.
-                        We strive to make every year count as your students grow through this program. At LearnX,
-                        we take it upon ourselves to better our platform for students and for you. We teach kids
-                        their 123's, all the way up to their f(x) = 3x^4 - 2x^3 + 5x^2 - 7x + 9 (The answer is
-                        x≈0.5231),
-                        from their ABC's to full essays on complex topics our world faces. For this upcoming 2024-2025
-                        school year, we hope to help teachers engage with their students more than they could. We
-                        also offer personalized learning sessions so students can get the most out of their learning.
-                        We make our system user-friendly so you can get the most out of our site.
-                        <br><br>
-                        We hope you enjoy LearnX!
-                        <a href="{{ route('signin') }}" class="text-blue-600 hover:text-blue-800">Click here</a>
-                        to make a new account.
+                    <p class="text-xl font-serif m-4">
+                        I am the founder of LearnX. I have designed this website to be easy to interact with, easy to teach, 
+                        and easy to learn. I want students to be able to learn the fundamentals of education through our site. Thank you 
+                        for supporting us. 
+                        <br>
+                        <br>
+                        Equality: At LearnX we treat all of our students with equality. We make sure that all students have access to the 
+                        same information, our donations go to help them, and all students learn the same information regardless of race, 
+                        sex, wealth etc.
+                        <br>
+                        Teamwork: We organize ourselves to collaborate and manage LearnX efficiently with teamwork. We consider LearnX to
+                        be a team building project and work to make the site and ourselves better. We are always providing feedback to 
+                        our employees and helping them thrive in our organization. We understand that working with each other and you 
+                        helps students to grow which is why teamwork is so important to us. 
                     </p>
                 </div>
             </div>
@@ -56,7 +56,7 @@
                     
                 <img src="/Images/Adelaide_Meisel.png" alt="Image cannot load" width="290px" height="340px">
             </div>
-            <div class ="ml-300 text-xl font-serif">
+            <div class ="text-xl font-serif">
                 <p>
                 I am the founder of LearnX. I have designed this website to be easy to interact with, easy to teach, 
                 and easy to learn. I want students to be able to learn the fundamentals of education through our site. Thank you 
