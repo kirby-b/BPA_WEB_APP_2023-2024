@@ -2,74 +2,40 @@
     <div class="bg-gray-100 py-10">
         <div class="container mx-auto px-4">
             <div class="flex flex-col md:flex-row justify-center items-center md:space-x-6">
-                <!-- Image Section -->
-                <div class="md:w-1/2 p-4">
-                    <img src="/Images/Teacher-Online-With-Student.jpg" alt="Teacher Online With Student"
-                        class="max-w-full h-auto rounded-lg shadow-lg">
-                </div>
 
                 <!-- Text Section -->
-                <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
-                    <p class="text-xl font-sans m-4">
-                        LearnX, a place for students K-12 to strive and grow through their educational learning.
-                        We strive to make every year count as your students grow through this program. At LearnX,
-                        we take it upon ourselves to better our platform for students and for you. We teach kids
-                        their 123's, all the way up to their f(x) = 3x^4 - 2x^3 + 5x^2 - 7x + 9 (The answer is
-                        x≈0.5231),
-                        from their ABC's to full essays on complex topics our world faces. For this upcoming 2024-2025
-                        school year, we hope to help teachers engage with their students more than they could. We
-                        also offer personalized learning sessions so students can get the most out of their learning.
-                        We make our system user-friendly so you can get the most out of our site.
-                        <br><br>
-                        We hope you enjoy LearnX!
-                        <a href="{{ route('signin') }}" class="text-blue-600 hover:text-blue-800">Click here</a>
-                        to make a new account.
-                    </p>
+                <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg flex justify-center items-center">
+                    <div class="text-xl font-sans m-4">
+                        <p class="text-xl">Sign-In</p>
+                        <!--Goes to the authenticate route and then to the UserController-->
+                        <form method="POST" action="/users/authenticate">
+                            @csrf <!--Makes it so people cant use scripts against your site-->
+                            <div class="items-center">
+                                <div>
+                                    <input class="w-75 h-15 border-black border-solid border-2 p-3 text-lg" type="text" id="email" name="email" placeholder="Email" value="{{old('email')}}">
+                                    @error('email')
+                                        <p class="text-red-500 text-xs mt-2">{{$message}}</p>
+                                    @enderror
+                                </div>
+
+                                <div>
+                                    <input class="w-75 h-15 border-black border-solid border-2 p-3 text-lg" type="password" id="password" name="password" placeholder="Password" value="{{old('password')}}">
+                                    @error('password')
+                                        <p class="text-red-500 text-xs mt-2">{{$message}}</p>
+                                    @enderror
+                                </div>
+                                <div class= "">
+                                    <input class="w-75 h-15 font-Preahvihear text-2xl no-underline border-none cursor-pointer text-black text-blue-600 hover:text-blue-800" type="submit" id="submit" name="submit" value="Lets Go >>>">
+                                </div>
+                                <!--Gets your input and tries to verify your account info. endError sections determine what will happen if they input the
+                                wrong info -->
+                            </div>
+                        </form>
+                        <br>
+                        <a class="text-blue-600 hover:text-blue-800" href="{{ route("page.reset.pas") }}">I forgot my password</a>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
 </x-partials.layout>
-    {{-- <h1>
-        <div class="text-center text-5xl font-ArchivoBlack">
-            LearnX
-        </div>
-    </h1>
-
-    <div class="font-Preahvihear text-lg">
-        <a href={{ route("page.index") }}><<< Go Back<a><!--Goes back to index-->
-    </div>
-
-    <div class="relative text-center text-9xl font-Preahvihear">
-        Sign-In
-    </div>
-        <!--Goes to the authenticate route and then to the UserController-->
-        <form method="POST" action="/users/authenticate">
-            @csrf <!--Makes it so people cant use scripts against your site-->
-            <div class="justify-center items-center">
-                <div>
-                    <input class="w-75 h-15 border-black border-solid border-2 p-3 text-lg" type="text" id="email" name="email" placeholder="Email" value="{{old('email')}}">
-                    @error('email')
-                        <p class="text-red-500 text-xs mt-2">{{$message}}</p>
-                    @enderror
-                </div>
-
-                <div>
-                    <input class="w-75 h-15 border-black border-solid border-2 p-3 text-lg" type="password" id="password" name="password" placeholder="Password" value="{{old('password')}}">
-                    @error('password')
-                        <p class="text-red-500 text-xs mt-2">{{$message}}</p>
-                    @enderror
-                </div>
-                <div class= "">
-                    <input class="w-75 h-15 font-Preahvihear text-3xl no-underline border-none cursor-pointer bg-black" type="submit" id="submit" name="submit" value="Lets Go >>>">
-                </div>
-                <!--Gets your input and tries to verify your account info. endError sections determine what will happen if they input the
-                wrong info -->
-            </div>
-        </form>
-
-    <div class="text-xl">
-        <a href={{ route("page.reset.pas") }}>I forgot my password</a>
-    </div>
-
-    </div> --}}
