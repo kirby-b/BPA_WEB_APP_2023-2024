@@ -31,7 +31,7 @@
     </div>
 </x-partials.layout>
 {{-- <div class="bg-purple-500">
-<div class="absolute text-2xl font-serif">
+<div class="text-2xl font-serif">
 
     <h1 class="text-center">FAQ</h1>
 

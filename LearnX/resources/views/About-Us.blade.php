@@ -31,7 +31,7 @@
     </div>
 </x-partials.layout>
 {{-- <div class="bg-green-250">
-    <p class="text-4xl mt-12">
+    <p class="text-4xl">
          <p style="font-size: 18px;">
             Hello! You've made it to LearnX!
         Our goal is to make school easy for teachers and fun for kids.
@@ -52,11 +52,11 @@
             Tommy :
         -->
         <div>
-            <div class ="absolute mt-0">
+            <div class ="">
                     
                 <img src="/Images/Adelaide_Meisel.png" alt="Image cannot load" width="290px" height="340px">
             </div>
-            <div class ="absolute ml-300 mt-0 text-xl font-serif">
+            <div class ="ml-300 text-xl font-serif">
                 <p>
                 I am the founder of LearnX. I have designed this website to be easy to interact with, easy to teach, 
                 and easy to learn. I want students to be able to learn the fundamentals of education through our site. Thank you 
@@ -76,10 +76,10 @@
                 </p>
             </div>
                 
-            <div class ="absolute mt-350">
+            <div class ="">
                 <img src="/Images/Brodie_Kirby.png" alt="Image cannot load" width="290px" height="340px">
             </div>
-            <div class="absolute ml-300 mt-350 text-xl font-serif">
+            <div class="text-xl font-serif">
                 <p>I am the co-founder of LearnX. I helped build this website from the ground up with the goal of 
                 bringing good education to all. I have always wanted to lead something important and helpful for the world, 
                 and here at LearnX I finally have the chance. I am a programming hobbyist and hope to be one of the leading 
@@ -98,10 +98,10 @@
                 ability to learn how to be responsible and work their way to the top.</p>
             </div>
             
-            <div class ="absolute mt-700">
+            <div class ="">
                 <img src="/Images/Cameron_Hamilton.png" alt="Image cannot load" width="290px" height="340px">
             </div>
-            <div class="absolute ml-300 mt-700 text-xl font-serif">
+            <div class="text-xl font-serif">
                 <p>
                     I'm fortunate to be part of the team behind LearnX, to transform the way people learn. Collaborating with a 
                     group of dedicated individuals, I've been able to contribute to the development of this innovative learning 
@@ -120,10 +120,10 @@
                     curiosity, while also valuing the contributions of others, leading to a more enriching educational experience. 
                 </p>
             </div>
-            <div class ="absolute mt-1050">
+            <div class ="">
                 <img src="/Images/Thomas_Whitaker.png" alt="Image cannot load" width="290px" height="340px">
             </div>
-            <div class="absolute ml-300 mt-1053 text-xl font-serif">
+            <div class="text-xl font-serif">
                 I work at LearnX to revolutionize education for K-12 students, creating an innovative online platform that 
                 caters to diverse learning styles. Through research and collaboration with educators, LearnX has created a 
                 comprehensive curriculum for core subjects, interactive lessons, and engaging activities to make learning 
