@@ -17,7 +17,7 @@
                                         <p class="text-red-500 text-xs mt-2">{{$message}}</p>
                                     @enderror
                                 </div>
-
+                                <br>
                                 <div>
                                     <input class="w-75 h-15 border-black border-solid border-2 p-3 text-lg" type="password" id="password" name="password" placeholder="Password" value="{{old('password')}}">
                                     @error('password')
