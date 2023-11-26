@@ -139,7 +139,7 @@ Route::get('/holidays', function (){
 })->name("page.holidays");
 Route::get('/american-history', function (){
     return view('American-History');
-})->name("page.american-history");
+})->name("page.american.history");
 Route::get('/ancient-history', function (){
     return view('Ancient-History');
 })->name("page.ancient.history");

@@ -20,27 +20,27 @@
                         </div>
                         <div style="flex flex-col"> 
                             <div class="font-sans w-50/100 float-right">
-                                <div>Holidays Around the World</div>
+                                <div><a href="{{ route('page.holidays') }}" class="hover:text-purple-300">Holidays Around the World</a></div>
                                 <br>
-                                <div>Contenents/Oceans</div>
+                                <div><a href="{{ route('page.contenents.oceans') }}" class="hover:text-purple-300">Contenents/Oceans</a></div>
                                 <br>
-                                <div>States in the U.S.</div>
+                                <div><a href="{{ route('page.states') }}" class="hover:text-purple-300">States in the U.S.</a></div>
                                 <br>
-                                <div>Branches of the U.S. Government</div>
+                                <div><a href="{{ route('page.branches.of.gov') }}" class="hover:text-purple-300">Branches of the U.S. Government</a></div>
                                 <br>
-                                <div>Ancient History</div>
+                                <div><a href="{{ route('page.ancient.history') }}" class="hover:text-purple-300">Ancient History</a></div>
                                 <br>
                             </div> 
                             <div class="font-sans w-50/100 float-left">
-                                <div>American History</div>
+                                <div><a href="{{ route('page.american.history') }}" class="hover:text-purple-300">American History</a></div>
                                 <br>
-                                <div>World History</div>
+                                <div><a href="{{ route('page.world.history') }}" class="hover:text-purple-300">World History</a></div>
                                 <br>
-                                <div>Economics</div>
+                                <div><a href="{{ route('page.economics') }}" class="hover:text-purple-300">Economics</a></div>
                                 <br>
-                                <div>Civics</div>
+                                <div><a href="{{ route('page.civics') }}" class="hover:text-purple-300">Civics</a></div>
                                 <br>
-                                <div>Politics</div>
+                                <div><a href="{{ route('page.politics') }}" class="hover:text-purple-300">Politics</a></div>
                                 <br>
                             </div>
                         </div>
