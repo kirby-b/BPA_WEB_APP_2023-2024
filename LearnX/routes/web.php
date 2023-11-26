@@ -99,3 +99,68 @@ Route::post('/users/authenticate', [UserController::class, 'authenticate']);
    
 
 //Give new routes name 
+
+Route::get('/contractions', function (){
+    return view('Contractions');
+})->name("page.contractions");
+Route::get('/lettersandsounds', function (){
+    return view('Letters-And-Sounds');
+})->name("page.lettersandsounds");
+Route::get('/partsofspeech', function (){
+    return view('Parts-Of-Speech');
+})->name("page.partsofspeech");
+Route::get('/punctuation', function (){
+    return view('Puntuations');
+})->name("page.punctuation");
+Route::get('/reasearch-citations', function (){
+    return view('Reasearch-Citations');
+})->name("page.reasearch.citations");
+Route::get('/definitions', function (){
+    return view('Definitions');
+})->name("page.definitions");
+Route::get('/essays', function (){
+    return view('Essays');
+})->name("page.essays");
+Route::get('/small-reading', function (){
+    return view('Small-Reading');
+})->name("page.small.reading");
+Route::get('/small-spelling', function (){
+    return view('Small-Spelling');
+})->name("page.small.spelling");
+Route::get('/storytelling', function (){
+    return view('Storytelling');
+})->name("page.storytelling");
+Route::get('/vowelsandconsenents', function (){
+    return view('Vowels-And-Consenents');
+})->name("page.vsandcs");
+
+Route::get('/holidays', function (){
+    return view('Holidays');
+})->name("page.holidays");
+Route::get('/american-history', function (){
+    return view('American-History');
+})->name("page.american-history");
+Route::get('/ancient-history', function (){
+    return view('Ancient-History');
+})->name("page.ancient.history");
+Route::get('/branches-of-gov', function (){
+    return view('Branches-Of-Government');
+})->name("page.branches.of.gov");
+Route::get('/civics', function (){
+    return view('Civics');
+})->name("page.civics");
+Route::get('/contenents-and-oceans', function (){
+    return view('Contenents-And-Oceans');
+})->name("page.contenents.oceans");
+Route::get('/economy', function (){
+    return view('Economy');
+})->name("page.economy");
+Route::get('/politics', function (){
+    return view('Politics');
+})->name("page.politics");
+Route::get('/states', function (){
+    return view('States');
+})->name("page.states");
+Route::get('/world-history', function (){
+    return view('World-History');
+})->name("page.world.history");
