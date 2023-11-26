@@ -38,7 +38,7 @@
                 <a href="{{ route('page.why.us') }}" class="hover:text-purple-300">WHY US</a>
                 <a href="{{ route('page.donate') }}" class="hover:text-purple-300">DONATE</a>
                 <a href="{{ route('page.reviews') }}" class="hover:text-purple-300">REVIEWS</a>
-            </div>
+            </div><!--Links to other pages-->
     
             <p class="mt-6 text-sm">© 2023 LearnX. All rights reserved.</p>
         </div>

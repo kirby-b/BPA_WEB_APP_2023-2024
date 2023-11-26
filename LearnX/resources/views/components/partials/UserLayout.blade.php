@@ -38,7 +38,7 @@
                 <a href="{{ route('page.history') }}" class="hover:text-purple-300">HISTORY</a>
                 <a href="{{ route('page.gradebook') }}" class="hover:text-purple-300">GRADES</a>
                 <a href="{{ route('page.profile') }}" class="hover:text-purple-300">PROFILE</a>
-            </div>
+            </div><!--Links to learning pages-->
     
             <p class="mt-6 text-sm">© 2023 LearnX. All rights reserved.</p>
         </div>
