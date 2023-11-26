@@ -81,6 +81,7 @@ Route::get('/english', function (){
 Route::get('/profile', function (){
     return view('Profile');
 })->name("page.profile");
+
 // Show Register/Create Form through create function in UserController
 Route::get('/SignUp', [UserController::class, 'create'])->name('signup')->middleware('guest');
 
