@@ -32,11 +32,11 @@
     <footer class="bg-gradient-to-r from-purple-500 to-pink-500 text-white text-center py-6">
         <div class="max-w-6xl mx-auto px-4">
             <div class="flex justify-center space-x-6">
-                <a href="{{ route('page.faq') }}" class="hover:text-purple-300">SCIENCE</a>
-                <a href="{{ route('page.about') }}" class="hover:text-purple-300">MATH</a>
-                <a href="{{ route('page.why.us') }}" class="hover:text-purple-300">ENGLISH</a>
-                <a href="{{ route('page.donate') }}" class="hover:text-purple-300">GRADES</a>
-                <a href="{{ route('page.reviews') }}" class="hover:text-purple-300">PROFILE</a>
+                <a href="{{ route('page.science') }}" class="hover:text-purple-300">SCIENCE</a>
+                <a href="{{ route('page.math') }}" class="hover:text-purple-300">MATH</a>
+                <a href="{{ route('page.english') }}" class="hover:text-purple-300">ENGLISH</a>
+                <a href="{{ route('page.gradebook') }}" class="hover:text-purple-300">GRADES</a>
+                <a href="{{ route('page.profile') }}" class="hover:text-purple-300">PROFILE</a>
             </div>
     
             <p class="mt-6 text-sm">© 2023 LearnX. All rights reserved.</p>
