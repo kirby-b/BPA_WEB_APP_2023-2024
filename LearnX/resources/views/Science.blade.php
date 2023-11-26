@@ -1,8 +1,5 @@
 <x-partials.UserLayout>
 
-<div>
-    <!--Belt Color-->
-</div>
 <div class="font-Preahvihear text-center text-7xl">
     <b>SCIENCE</b>
 </div>
