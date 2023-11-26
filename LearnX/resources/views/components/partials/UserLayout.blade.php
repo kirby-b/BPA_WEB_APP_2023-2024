@@ -35,6 +35,7 @@
                 <a href="{{ route('page.science') }}" class="hover:text-purple-300">SCIENCE</a>
                 <a href="{{ route('page.math') }}" class="hover:text-purple-300">MATH</a>
                 <a href="{{ route('page.english') }}" class="hover:text-purple-300">ENGLISH</a>
+                <a href="{{ route('page.history') }}" class="hover:text-purple-300">HISTORY</a>
                 <a href="{{ route('page.gradebook') }}" class="hover:text-purple-300">GRADES</a>
                 <a href="{{ route('page.profile') }}" class="hover:text-purple-300">PROFILE</a>
             </div>
