@@ -15,11 +15,10 @@
                         We strive to make every year count as your students grow through this program. At LearnX,
                         we take it upon ourselves to better our platform for students and for you. We teach kids
                         their 123's, all the way up to their f(x) = 3x^4 - 2x^3 + 5x^2 - 7x + 9 (The answer is
-                        x≈0.5231),
-                        from their ABC's to full essays on complex topics our world faces. For this upcoming 2024-2025
-                        school year, we hope to help teachers engage with their students more than they could. We
-                        also offer personalized learning sessions so students can get the most out of their learning.
-                        We make our system user-friendly so you can get the most out of our site.
+                        x≈0.5231), from their ABC's to full essays on complex topics our world faces. For this 
+                        upcoming 2024-2025 school year, we hope to help teachers engage with their students more 
+                        than they could. We also offer personalized learning sessions so students can get the most 
+                        out of their learning. We make our system user-friendly so you can get the most out of our site.
                         <br><br>
                         We hope you enjoy LearnX!
                         <a href="{{ route('signin') }}" class="text-blue-600 hover:text-blue-800">Click here</a>
