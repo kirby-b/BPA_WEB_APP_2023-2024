@@ -18,7 +18,7 @@
                         <div class="font-Preahvihear text-center text-4xl">
                             <b>History</b>
                         </div>
-                        <div style="flex flex-col"> 
+                        <div class="flex flex-col"> 
                             <div class="font-sans w-50/100 float-right">
                                 <div><a href="{{ route('page.holidays') }}" class="hover:text-purple-300">Holidays Around the World</a></div>
                                 <br>
@@ -36,7 +36,7 @@
                                 <br>
                                 <div><a href="{{ route('page.world.history') }}" class="hover:text-purple-300">World History</a></div>
                                 <br>
-                                <div><a href="{{ route('page.economics') }}" class="hover:text-purple-300">Economics</a></div>
+                                <div><a href="{{ route('page.economy') }}" class="hover:text-purple-300">Economics</a></div>
                                 <br>
                                 <div><a href="{{ route('page.civics') }}" class="hover:text-purple-300">Civics</a></div>
                                 <br>
