@@ -20,6 +20,13 @@
 
             <!-- Links on the right -->
             <nav class="flex space-x-4">
+                <a href="{{ route('page.science') }}" class="text-lg hover:text-purple-300">Science</a>
+                <a href="{{ route('page.math') }}" class="text-lg hover:text-purple-300">Math</a>
+                <a href="{{ route('page.english') }}" class="text-lg hover:text-purple-300">English</a>
+                <a href="{{ route('page.history') }}" class="text-lg hover:text-purple-300">History</a>
+                <a href="{{ route('page.gradebook') }}" class="text-lg hover:text-purple-300">Grades</a>
+                <a href="{{ route('page.profile') }}" class="text-lg hover:text-purple-300">Profile</a>
+                <!--Links to learning pages-->
                 <a href="{{ route('logout') }}" class="text-lg hover:text-purple-300">Log Out</a>
             </nav>
         </div>
@@ -31,32 +38,9 @@
 
     <footer class="bg-gradient-to-r from-purple-500 to-pink-500 text-white text-center py-6">
         <div class="max-w-6xl mx-auto px-4">
-            <div class="flex justify-center space-x-6">
-                <a href="{{ route('page.science') }}" class="hover:text-purple-300">SCIENCE</a>
-                <a href="{{ route('page.math') }}" class="hover:text-purple-300">MATH</a>
-                <a href="{{ route('page.english') }}" class="hover:text-purple-300">ENGLISH</a>
-                <a href="{{ route('page.history') }}" class="hover:text-purple-300">HISTORY</a>
-                <a href="{{ route('page.gradebook') }}" class="hover:text-purple-300">GRADES</a>
-                <a href="{{ route('page.profile') }}" class="hover:text-purple-300">PROFILE</a>
-            </div><!--Links to learning pages-->
-    
             <p class="mt-6 text-sm">© 2023 LearnX. All rights reserved.</p>
         </div>
     </footer>
-    {{-- <footer class="bg-gradient-to-r from-purple-500 to-pink-500 text-white text-center py-6">
-        <div class="max-w-6xl mx-auto px-4">
-            <div class="flex justify-center space-x-6">
-                <a href="{{ route('page.science') }}" class="hover:text-purple-300"><img src="/Images/Science_Icon.jpg" alt="Image cannot load" class="w-20 h-24"></a>
-                <a href="{{ route('page.math') }}" class="hover:text-purple-300"><img src="/Images/Math_Icon.jpg" alt="Image cannot load" class="w-20 h-24"></a>
-                <a href="{{ route('page.english') }}" class="hover:text-purple-300"><img src="/Images/English_Icon.jpg" alt="Image cannot load" class="w-20 h-24"></a>
-                <a href="{{ route('page.history') }}" class="hover:text-purple-300"><img src="/Images/History_Icon.jpg" alt="Image cannot load" class="w-20 h-24"></a>
-                <a href="{{ route('page.gradebook') }}" class="hover:text-purple-300"><img src="/Images/Grade_Icon.png" alt="Image cannot load" class="w-20 h-24"></a>
-                <a href="{{ route('page.profile') }}" class="hover:text-purple-300"><img src="/Images/Default_Pfp.png" alt="Image cannot load" class="w-20 h-24"></a>
-            </div><!--Links to learning pages-->
-    
-            <p class="mt-6 text-sm">© 2023 LearnX. All rights reserved.</p>
-        </div>
-    </footer> --}}
 </body>
 
 </html>
