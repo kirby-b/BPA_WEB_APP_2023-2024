@@ -6,11 +6,11 @@
                 <!-- Text Section -->
                 <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
                     <p class="text-xl font-sans m-4">
-                        <div style="font-family: 'Preahvihear';Text-align: Center; font-size:5rem;">
+                        <div class="font-Preahvihear items-center text-2xl">
                             <b>HOLIDAYS</b>
                         </div>
-                        <div style="display: flex; flex-direction: colum;"> 
-                            <div style="font-family: 'Arial'; width: 50%; margin-left: 24%">
+                        <div class="flex flex-col"> 
+                            <div class="font-sans">
                                 China<br>
                                 <br>
                                 India<br>
@@ -21,7 +21,7 @@
                                 <br>
                                 Russia<br>
                             </div>
-                            <div style="font-family: 'Arial'; width: 50%; text-align:left">
+                            <div class="font-sans">
                                 Indonsia<br>
                                 <br>
                                 Pakistan<br>
