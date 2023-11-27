@@ -17,7 +17,7 @@
                         <div class="font-Preahvihear text-center text-4xl">
                             <b>MATH</b>
                         </div>
-                        <div style="flex flex-col"> 
+                        <div ="flex flex-col"> 
                             <div class="font-sans w-50/100 float-right">
                                 <br>
                                 <div>Numbers</div>
