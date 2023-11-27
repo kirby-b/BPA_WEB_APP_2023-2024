@@ -1,9 +1,9 @@
 <x-partials.UserLayout>
-    <div style="font-family: 'Preahvihear';Text-align: Center; font-size:5rem;">
+    <div class="font-family: 'Preahvihear';Text-align: Center; font-size:5rem;">
         <b>CONTRACTIONS</b>
     </div>
-    <div style="display: flex; flex-direction: colum;"> 
-        <div style="font-family: 'Arial'; width: 50%; margin-left: 24%">
+    <div class="display: flex; flex-direction: colum;"> 
+        <div class="font-sans">
             I am → I'm<br>
             Example: I'm going to the store.<br>
             <br>
@@ -20,7 +20,7 @@
             Example: It's a beautiful day.<br>
             <br>
         </div>
-        <div style="font-family: 'Arial'; width: 50%; text-align:left">
+        <div class="font-sans">
             can not → can't<br>
             Example: I can't believe it.<br>
             <br>
