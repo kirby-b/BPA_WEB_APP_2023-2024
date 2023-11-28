@@ -2,6 +2,35 @@
     <div class="bg-gray-100 py-10">
         <div class="container mx-auto px-4">
             <div class="flex flex-col md:flex-row justify-center items-center md:space-x-6">
+                <!-- Links Section -->
+                <div class="md:w-1/4 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg md:items-start md:self-start">
+                    <p class="text-xl font-sans m-4">
+                        History:<br>
+                        Holidays Around The World:<br>
+                    </p>
+                    <p class="text-2xl font-sans m-4">
+                        <br>
+                        <a href="{{ route('page.china') }}" class="hover:text-purple-300">China</a><br>
+                        <br>
+                        <a href="{{ route('page.india') }}" class="hover:text-purple-300">India</a><br>
+                        <br>
+                        <a href="{{ route('page.usa') }}" class="hover:text-purple-300">United States</a><br>
+                        <br>
+                        <a href="{{ route('page.brazil') }}" class="hover:text-purple-300">Brazil</a><br>
+                        <br>
+                        <a href="{{ route('page.russia') }}" class="hover:text-purple-300">Russia</a><br>
+                        <br>
+                        <a href="{{ route('page.indonesia') }}" class="hover:text-purple-300">Indonesia</a><br>
+                        <br>
+                        <a href="{{ route('page.pakistan') }}" class="hover:text-purple-300">Pakistan</a><br>
+                        <br>
+                        <a href="{{ route('page.nigeria') }}" class="hover:text-purple-300">Nigeria</a><br>
+                        <br>
+                        <a href="{{ route('page.japan') }}" class="hover:text-purple-300">Japan</a><br>
+                        <br>
+                        <a href="{{ route('page.mexico') }}" class="hover:text-purple-300">Mexico</a><br>
+                    </p>
+                </div>
 
                 <!-- Text Section -->
                 <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
@@ -23,6 +52,7 @@
                                 Dragon Boat Festival:<br>Usually occurring in June, this festival commemorates the death of the ancient poet Qu Yuan. People eat traditional rice dumplings and participate in dragon boat races.<br>
                                 <br>
                                 Mid-Autumn Festival(Moon Festival):<br>Celebrated in September or early October, it is a time for family reunions. Mooncakes, a traditional Chinese pastry, are often shared.<br>
+                                <br>
                             <div class="font-sans">
                                 National Day(Golden Week):<br>Celebrated on October 1st, it marks the founding of the People's Republic of China. The holiday is part of the Golden Week, a 7-day holiday from October 1 to 7.<br>
                                 <br>
