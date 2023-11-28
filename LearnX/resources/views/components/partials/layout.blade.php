@@ -33,7 +33,7 @@
     <footer class="bg-gradient-to-r from-purple-500 to-pink-500 text-white text-center py-6">
         <div class="max-w-6xl mx-auto px-4">
             <div class="flex justify-center space-x-6">
-                <a href="{{ route('page.faq') }}" class="hover:text-purple-300">FAQ</a>
+                <a href="{{ route('page.faq') }}" class="hover:text-purple-300">FAQ</a><!--Put In Welcome-->
                 <a href="{{ route('page.about') }}" class="hover:text-purple-300">ABOUT</a>
                 <a href="{{ route('page.why.us') }}" class="hover:text-purple-300">WHY US</a><!--Put In Welcome-->
                 <a href="{{ route('page.donate') }}" class="hover:text-purple-300">DONATE</a>
