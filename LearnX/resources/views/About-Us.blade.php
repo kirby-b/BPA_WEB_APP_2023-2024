@@ -1,4 +1,4 @@
-<x-partials.layout>
+<x-partials.Baselayout>
     <div class="bg-gray-100 py-10">
         <div class="container mx-auto px-4">
             <div class="flex flex-col justify-center items-center md:space-x-6">
@@ -114,4 +114,4 @@
             </div>
         </div>
     </div>
-</x-partials.layout>
+</x-partials.Baselayout>
