@@ -35,9 +35,9 @@
             <div class="flex justify-center space-x-6">
                 <a href="{{ route('page.faq') }}" class="hover:text-purple-300">FAQ</a>
                 <a href="{{ route('page.about') }}" class="hover:text-purple-300">ABOUT</a>
-                <a href="{{ route('page.why.us') }}" class="hover:text-purple-300">WHY US</a>
+                <a href="{{ route('page.why.us') }}" class="hover:text-purple-300">WHY US</a><!--Put In Welcome-->
                 <a href="{{ route('page.donate') }}" class="hover:text-purple-300">DONATE</a>
-                <a href="{{ route('page.reviews') }}" class="hover:text-purple-300">REVIEWS</a>
+                <a href="{{ route('page.reviews') }}" class="hover:text-purple-300">REVIEWS</a><!--Put In Wlecome-->
             </div><!--Links to other pages-->
     
             <p class="mt-6 text-sm">© 2023 LearnX. All rights reserved.</p>
