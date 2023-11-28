@@ -168,6 +168,30 @@ Route::get('/world-history', function (){
 Route::get('/china', function (){
     return view('lessons/China');
 })->name("page.china");
-Route::get('/china', function (){
-    return view('lessons/China');
-})->name("page.china");
+Route::get('/indonsia', function (){
+    return view('lessons/Indonesia');
+})->name("page.indonesia");
+Route::get('/usa', function (){
+    return view('lessons/United-States');
+})->name("page.usa");
+Route::get('/india', function (){
+    return view('lessons/India');
+})->name("page.india");
+Route::get('/japan', function (){
+    return view('lessons/Japan');
+})->name("page.japan");
+Route::get('/mexico', function (){
+    return view('lessons/Mexico');
+})->name("page.mexico");
+Route::get('/nigeria', function (){
+    return view('lessons/Nigeria');
+})->name("page.nigeria");
+Route::get('/pakistan', function (){
+    return view('lessons/Pakistan');
+})->name("page.pakistan");
+Route::get('/russia', function (){
+    return view('lessons/Russia');
+})->name("page.russia");
+Route::get('/brazil', function (){
+    return view('lessons/Brazil');
+})->name("page.brazil");
