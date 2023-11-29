@@ -5,6 +5,9 @@
 
                 <!-- Text Section -->
                 <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
+                    <div class="font-Preahvihear text-center items-center text-2xl">
+                        <b>The 50 US States</b>
+                    </div>
                     <div class="flex flex-col md:flex-row"> 
                         <div class="md:w-1/2 text-xl font-sans m-4">
                             Alabama<br>
