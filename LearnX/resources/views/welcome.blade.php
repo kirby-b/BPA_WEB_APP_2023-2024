@@ -126,10 +126,17 @@
                                         },
                                         {
                                             img: './images/testimonial-02.jpg',
-                                            quote: "I am He",
-                                            name: 'Jessie Dockett',
-                                            role: 'God'
+                                            quote: "I appreciate the flexibility of LearnX in adapting to different learning styles. It allows me to tailor lessons to meet the unique needs of my students.",
+                                            name: 'James Mitchell',
+                                            role: 'Teacher'
                                         },
+                                        
+                                        // {
+                                        //     img: './images/testimonial-02.jpg',
+                                        //     quote: "I am He",
+                                        //     name: 'Jessie Dockett',
+                                        //     role: 'God'
+                                        // },
                                     ],
                                     init() {
                                         if (this.autorotate) {
