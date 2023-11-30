@@ -160,6 +160,12 @@
                                             name: 'Ava Wilson',
                                             role: 'High Schooler'
                                         },
+                                        {
+                                            img: './images/testimonial-02.jpg',
+                                            quote: "LearnX has a fantastic platform for creating and sharing educational content. It's a great tool for collaborating with other educators and sharing resources, making my teaching job more efficient.",
+                                            name: 'Lisa Johnson',
+                                            role: 'Teacher'
+                                        },
                                         // {
                                         //     img: './images/testimonial-02.jpg',
                                         //     quote: "I am He",
