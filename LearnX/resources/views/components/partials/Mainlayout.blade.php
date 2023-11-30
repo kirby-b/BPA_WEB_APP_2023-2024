@@ -12,7 +12,7 @@
 </head>
 
 <body class="bg-gray-100 flex flex-col min-h-screen">
-    <header class="bg-gradient-to-r from-purple-700 to-green-400 text-white">
+    <header class="bg-gradient-to-r from-purple-600 to-green-400 text-white">
         <div class="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
             <!-- Logo on the left -->
             <div class="w-1/4 max-w-xs flex-shrink-0">
@@ -37,7 +37,7 @@
         {{ $slot }} <!-- This is where your page content will be injected -->
     </main>
 
-    <footer class="bg-gradient-to-r from-green-400 to-purple-700 text-white text-center py-6">
+    <footer class="bg-gradient-to-r from-green-400 to-purple-600 text-white text-center py-6">
         <div class="max-w-6xl mx-auto px-4">
             <div class="flex justify-center space-x-6">
                 <a href="#reviews" class="hover:text-purple-300">REVIEWS</a>
