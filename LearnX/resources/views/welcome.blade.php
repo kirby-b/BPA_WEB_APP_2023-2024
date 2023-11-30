@@ -130,7 +130,12 @@
                                             name: 'James Mitchell',
                                             role: 'Teacher'
                                         },
-                                        
+                                        {
+                                            img: './images/testimonial-02.jpg',
+                                            quote: "LearnX has a lot of great study materials and practice tests that help me prepare for my exams. It's a huge help for high school.",
+                                            name: 'Sophia Roberts',
+                                            role: 'High Schooler'
+                                        },
                                         // {
                                         //     img: './images/testimonial-02.jpg',
                                         //     quote: "I am He",
