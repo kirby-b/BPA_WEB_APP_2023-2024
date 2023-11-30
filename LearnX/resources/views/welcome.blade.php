@@ -197,7 +197,7 @@
                     </div>
                 </div>
             </section>
-            <!--Reviews Section-->
+            {{-- <!--Reviews Section-->
             <div class="flex flex-col md:flex-row justify-center items-center md:space-x-6" id="reviews">
                 <!-- Text Section -->
                 <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
@@ -217,7 +217,7 @@
                         </p>
                     </div>
                 </div>
-            </div>
+            </div> --}}
             <br>
             <br>
             <!--Why Us Section-->
