@@ -148,6 +148,12 @@
                                             name: 'Ryan Lewis',
                                             role: 'High Schooler'
                                         },
+                                        {
+                                            img: './images/testimonial-02.jpg',
+                                            quote: "The professional development resources on LearnX are invaluable. They keep me updated with the latest teaching strategies and techniques.",
+                                            name: 'Michael Turner',
+                                            role: 'Teacher'
+                                        },
                                         // {
                                         //     img: './images/testimonial-02.jpg',
                                         //     quote: "I am He",
