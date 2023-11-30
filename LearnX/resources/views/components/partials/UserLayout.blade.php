@@ -11,7 +11,7 @@
 </head>
 
 <body class="bg-gray-100 flex flex-col min-h-screen">
-    <header class="bg-gradient-to-r from-violet-500 to-green-400 text-white">
+    <header class="bg-gradient-to-r from-purple-500 to-green-500 text-white">
         <div class="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
             <!-- Logo on the left -->
             <div class="w-1/4 max-w-xs flex-shrink-0">
@@ -36,7 +36,7 @@
         {{ $slot }} <!-- This is where your page content will be injected -->
     </main>
 
-    <footer class="bg-gradient-to-r from-green-400 to-violet-500 text-white text-center py-6">
+    <footer class="bg-gradient-to-r from-green-500 to-purple-500 text-white text-center py-6">
         <div class="max-w-6xl mx-auto px-4">
             <p class="mt-6 text-sm">© 2023 LearnX. All rights reserved.</p>
         </div>
