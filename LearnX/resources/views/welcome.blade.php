@@ -142,6 +142,12 @@
                                             name: 'Emily Parker',
                                             role: 'Teacher'
                                         },
+                                        {
+                                            img: './images/testimonial-02.jpg',
+                                            quote: "LearnX is my go-to resource for test preparation and self-study. It offers a wide range of study materials and practice tests that are helping me excel in high school.",
+                                            name: 'Ryan Lewis',
+                                            role: 'High Schooler'
+                                        },
                                         // {
                                         //     img: './images/testimonial-02.jpg',
                                         //     quote: "I am He",
