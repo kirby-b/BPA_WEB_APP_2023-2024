@@ -136,6 +136,12 @@
                                             name: 'Sophia Roberts',
                                             role: 'High Schooler'
                                         },
+                                        {
+                                            img: './images/testimonial-02.jpg',
+                                            quote: "LearnX offers a wide range of educational tools and assessments that help me track my students' progress and adjust my teaching methods accordingly.",
+                                            name: 'Emily Parker',
+                                            role: 'Teacher'
+                                        },
                                         // {
                                         //     img: './images/testimonial-02.jpg',
                                         //     quote: "I am He",
