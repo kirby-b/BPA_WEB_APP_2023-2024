@@ -154,6 +154,12 @@
                                             name: 'Michael Turner',
                                             role: 'Teacher'
                                         },
+                                        {
+                                            img: './images/testimonial-02.jpg',
+                                            quote: "LearnX is user-friendly and helps me manage my assignments and deadlines. It makes my high school life less stressful.",
+                                            name: 'Ava Wilson',
+                                            role: 'High Schooler'
+                                        },
                                         // {
                                         //     img: './images/testimonial-02.jpg',
                                         //     quote: "I am He",
