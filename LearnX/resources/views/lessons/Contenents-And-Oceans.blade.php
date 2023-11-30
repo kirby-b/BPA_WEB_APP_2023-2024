@@ -6,7 +6,22 @@
                 <!-- Text Section -->
                 <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
                     <p class="text-xl font-sans m-4">
-                        
+                        Contenents:<br>
+                        North America<br>
+                        South America<br>
+                        Africa<br>
+                        Australia<br>
+                        Antartica<br>
+                        Europe<br>
+                        Asia<br>
+                        <br>
+                        <br>
+                        Oceans:<br>
+                        Pacific<br>
+                        Atlantic<br>
+                        Arctic<br>
+                        Indian<br>
+                        Southern<br>
                     </p>
                 </div>
             </div>

@@ -18,7 +18,7 @@
                         <div class="font-Preahvihear text-center text-4xl">
                             <b>SCIENCE</b>
                         </div>
-                        <div style="flex flex-col"> 
+                        <div class="flex flex-col"> 
                             <div class="font-sans w-50/100 float-right">
                                 <br>
                                 <div>Earth</div>

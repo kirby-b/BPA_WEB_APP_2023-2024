@@ -6,31 +6,33 @@
                 <!-- Text Section -->
                 <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
                     <p class="text-xl font-sans m-4">
-                        <div style="font-family: 'Preahvihear';Text-align: Center; font-size:5rem;">
+                        <div class="font-Preahvihear items-center text-2xl">
                             <b>HOLIDAYS</b>
                         </div>
-                        <div style="display: flex; flex-direction: colum;"> 
-                            <div style="font-family: 'Arial'; width: 50%; margin-left: 24%">
-                                China<br>
+                        <div class="flex flex-col"> 
+                            <div class="font-sans">
                                 <br>
-                                India<br>
+                                <a href="{{ route('page.china') }}" class="hover:text-purple-300">China</a><br>
                                 <br>
-                                United States<br>
+                                <a href="{{ route('page.india') }}" class="hover:text-purple-300">India</a><br>
                                 <br>
-                                Brazil<br>
+                                <a href="{{ route('page.usa') }}" class="hover:text-purple-300">United States</a><br>
                                 <br>
-                                Russia<br>
+                                <a href="{{ route('page.brazil') }}" class="hover:text-purple-300">Brazil</a><br>
+                                <br>
+                                <a href="{{ route('page.russia') }}" class="hover:text-purple-300">Russia</a><br>
+                                <br>
                             </div>
-                            <div style="font-family: 'Arial'; width: 50%; text-align:left">
-                                Indonsia<br>
+                            <div class="font-sans">
+                                <a href="{{ route('page.indonesia') }}" class="hover:text-purple-300">Indonesia</a><br>
                                 <br>
-                                Pakistan<br>
+                                <a href="{{ route('page.pakistan') }}" class="hover:text-purple-300">Pakistan</a><br>
                                 <br>
-                                Nigeria<br>
+                                <a href="{{ route('page.nigeria') }}" class="hover:text-purple-300">Nigeria</a><br>
                                 <br>
-                                Japan<br>
+                                <a href="{{ route('page.japan') }}" class="hover:text-purple-300">Japan</a><br>
                                 <br>
-                                Mexico<br>
+                                <a href="{{ route('page.mexico') }}" class="hover:text-purple-300">Mexico</a><br>
                             </div>
                         </div>
                     </p>

@@ -15,19 +15,13 @@
         <div class="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
             <!-- Logo on the left -->
             <div class="w-1/4 max-w-xs flex-shrink-0">
-                <a href="{{ route("page.home") }}"><img src="/Images/LearnXLogo-2.png" alt="LearnX Logo" class="w-full"></a>
+                <a href="{{ route("page.index") }}"><img src="/Images/LearnXLogo-2.png" alt="LearnX Logo" class="w-full"></a>
             </div>
 
             <!-- Links on the right -->
             <nav class="flex space-x-4">
-                <a href="{{ route('page.science') }}" class="text-lg hover:text-purple-300">Science</a>
-                <a href="{{ route('page.math') }}" class="text-lg hover:text-purple-300">Math</a>
-                <a href="{{ route('page.english') }}" class="text-lg hover:text-purple-300">English</a>
-                <a href="{{ route('page.history') }}" class="text-lg hover:text-purple-300">History</a>
-                <a href="{{ route('page.gradebook') }}" class="text-lg hover:text-purple-300">Grades</a>
-                <a href="{{ route('page.profile') }}" class="text-lg hover:text-purple-300">Profile</a>
-                <!--Links to learning pages-->
-                <a href="{{ route('logout') }}" class="text-lg hover:text-purple-300">Log Out</a>
+                <a href="{{ route('signin') }}" class="text-lg hover:text-purple-300">Sign-In</a>
+                <a href="{{ route('signup') }}" class="text-lg hover:text-purple-300">Create New Account</a>
             </nav>
         </div>
     </header>
@@ -38,6 +32,11 @@
 
     <footer class="bg-gradient-to-r from-green-400 to-violet-500 text-white text-center py-6">
         <div class="max-w-6xl mx-auto px-4">
+            <div class="flex justify-center space-x-6">
+                <a href="{{ route('page.about') }}" class="hover:text-purple-300">ABOUT</a>
+                <a href="{{ route('page.donate') }}" class="hover:text-purple-300">DONATE</a>
+            </div><!--Links to other pages-->
+    
             <p class="mt-6 text-sm">© 2023 LearnX. All rights reserved.</p>
         </div>
     </footer>

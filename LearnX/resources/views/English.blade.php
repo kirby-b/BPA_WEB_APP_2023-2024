@@ -17,7 +17,7 @@
                         <div class="font-Preahvihear text-center text-4xl">
                             <b>ENGLISH</b>
                         </div>
-                        <div style="flex flex-col"> 
+                        <div class="flex flex-col"> 
                             <div class="font-sans w-50/100 float-right">
                                 <br>
                                 <div><a href="{{ route('page.lettersandsounds') }}" class="hover:text-purple-300">Letters & Sounds</a></div>

@@ -11,7 +11,7 @@
 </head>
 
 <body class="bg-gray-100 flex flex-col min-h-screen">
-    <header class="bg-gradient-to-r from-blue-500 to-purple-500 text-white">
+    <header class="bg-gradient-to-r from-violet-500 to-green-400 text-white">
         <div class="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
             <!-- Logo on the left -->
             <div class="w-1/4 max-w-xs flex-shrink-0">
@@ -19,6 +19,12 @@
             </div>
 
             <!-- Links on the right -->
+            <nav class="flex space-x-4">
+                <a href="#reviews" class="hover:text-purple-300">REVIEWS</a>
+                <a href="#whyus" class="hover:text-purple-300">WHY US</a>
+                <a href="#faq" class="hover:text-purple-300">FAQ</a>
+            </nav>
+
             <nav class="flex space-x-4">
                 <a href="{{ route('signin') }}" class="text-lg hover:text-purple-300">Sign-In</a>
                 <a href="{{ route('signup') }}" class="text-lg hover:text-purple-300">Create New Account</a>
@@ -30,14 +36,16 @@
         {{ $slot }} <!-- This is where your page content will be injected -->
     </main>
 
-    <footer class="bg-gradient-to-r from-purple-500 to-pink-500 text-white text-center py-6">
+    <footer class="bg-gradient-to-r from-green-400 to-violet-500 text-white text-center py-6">
         <div class="max-w-6xl mx-auto px-4">
             <div class="flex justify-center space-x-6">
-                <a href="{{ route('page.faq') }}" class="hover:text-purple-300">FAQ</a>
+                <a href="#reviews" class="hover:text-purple-300">REVIEWS</a>
+                <a href="#whyus" class="hover:text-purple-300">WHY US</a>
+                <a href="#faq" class="hover:text-purple-300">FAQ</a>
+            </div><!--Links to other pages-->
+            <div class="flex justify-center space-x-6">
                 <a href="{{ route('page.about') }}" class="hover:text-purple-300">ABOUT</a>
-                <a href="{{ route('page.why.us') }}" class="hover:text-purple-300">WHY US</a>
                 <a href="{{ route('page.donate') }}" class="hover:text-purple-300">DONATE</a>
-                <a href="{{ route('page.reviews') }}" class="hover:text-purple-300">REVIEWS</a>
             </div><!--Links to other pages-->
     
             <p class="mt-6 text-sm">© 2023 LearnX. All rights reserved.</p>

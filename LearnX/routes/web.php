@@ -101,66 +101,97 @@ Route::post('/users/authenticate', [UserController::class, 'authenticate']);
 //Give new routes name 
 
 Route::get('/contractions', function (){
-    return view('Contractions');
+    return view('lessons/Contractions');
 })->name("page.contractions");
 Route::get('/lettersandsounds', function (){
-    return view('Letters-And-Sounds');
+    return view('lessons/Letters-And-Sounds');
 })->name("page.lettersandsounds");
 Route::get('/partsofspeech', function (){
-    return view('Parts-Of-Speech');
+    return view('lessons/Parts-Of-Speech');
 })->name("page.partsofspeech");
 Route::get('/punctuation', function (){
-    return view('Puntuations');
+    return view('lessons/Puntuations');
 })->name("page.punctuation");
 Route::get('/reasearch-citations', function (){
-    return view('Reasearch-Citations');
+    return view('lessons/Reasearch-Citations');
 })->name("page.reasearch.citations");
 Route::get('/definitions', function (){
-    return view('Definitions');
+    return view('lessons/Definitions');
 })->name("page.definitions");
 Route::get('/essays', function (){
-    return view('Essays');
+    return view('lessons/Essays');
 })->name("page.essays");
 Route::get('/small-reading', function (){
-    return view('Small-Reading');
+    return view('lessons/Small-Reading');
 })->name("page.small.reading");
 Route::get('/small-spelling', function (){
-    return view('Small-Spelling');
+    return view('lessons/Small-Spelling');
 })->name("page.small.spelling");
 Route::get('/storytelling', function (){
-    return view('Storytelling');
+    return view('lessons/Storytelling');
 })->name("page.storytelling");
 Route::get('/vowelsandconsenents', function (){
-    return view('Vowels-And-Consenents');
+    return view('lessons/Vowels-And-Consenents');
 })->name("page.vsandcs");
 
 Route::get('/holidays', function (){
-    return view('Holidays');
+    return view('lessons/Holidays');
 })->name("page.holidays");
 Route::get('/american-history', function (){
-    return view('American-History');
+    return view('lessons/American-History');
 })->name("page.american.history");
 Route::get('/ancient-history', function (){
-    return view('Ancient-History');
+    return view('lessons/Ancient-History');
 })->name("page.ancient.history");
 Route::get('/branches-of-gov', function (){
-    return view('Branches-Of-Government');
+    return view('lessons/Branches-Of-Government');
 })->name("page.branches.of.gov");
 Route::get('/civics', function (){
-    return view('Civics');
+    return view('lessons/Civics');
 })->name("page.civics");
 Route::get('/contenents-and-oceans', function (){
-    return view('Contenents-And-Oceans');
+    return view('lessons/Contenents-And-Oceans');
 })->name("page.contenents.oceans");
 Route::get('/economy', function (){
-    return view('Economy');
+    return view('lessons/Economy');
 })->name("page.economy");
 Route::get('/politics', function (){
-    return view('Politics');
+    return view('lessons/Politics');
 })->name("page.politics");
 Route::get('/states', function (){
-    return view('States');
+    return view('lessons/States');
 })->name("page.states");
 Route::get('/world-history', function (){
-    return view('World-History');
+    return view('lessons/World-History');
 })->name("page.world.history");
+
+Route::get('/china', function (){
+    return view('lessons/China');
+})->name("page.china");
+Route::get('/indonsia', function (){
+    return view('lessons/Indonesia');
+})->name("page.indonesia");
+Route::get('/usa', function (){
+    return view('lessons/United-States');
+})->name("page.usa");
+Route::get('/india', function (){
+    return view('lessons/India');
+})->name("page.india");
+Route::get('/japan', function (){
+    return view('lessons/Japan');
+})->name("page.japan");
+Route::get('/mexico', function (){
+    return view('lessons/Mexico');
+})->name("page.mexico");
+Route::get('/nigeria', function (){
+    return view('lessons/Nigeria');
+})->name("page.nigeria");
+Route::get('/pakistan', function (){
+    return view('lessons/Pakistan');
+})->name("page.pakistan");
+Route::get('/russia', function (){
+    return view('lessons/Russia');
+})->name("page.russia");
+Route::get('/brazil', function (){
+    return view('lessons/Brazil');
+})->name("page.brazil");
