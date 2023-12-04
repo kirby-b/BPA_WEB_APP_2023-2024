@@ -92,7 +92,7 @@
                                         @click="active = index; stopAutorotate();"
                                     >
                                         <span class="relative">
-                                            <span class="text-slate-50 ml-2" x-text="item.name"></span> <span class="text-slate-600">|</span> <span class="mr-2" x-text="item.role"></span>
+                                            <span class="text-slate-50 ml-2" x-text="item.name"></span> <span class="text-slate-300">-</span> <span class="mr-2 text-slate-500" x-text="item.role"></span>
                                         </span>
                                     </button>
                                 </template>
@@ -201,18 +201,40 @@
             <br>
             <!--Why Us Section-->
             <div class="flex flex-col md:flex-row justify-center items-center md:space-x-6" id="whyus">
-                <!-- Quotes Section -->
-                <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
-                    <p class="text-xl font-sans m-4">                        
-                        <p class="text-center underline text-3xl">Quotes</p>
-                        <div class="border-solid border-5 border-amber-700">
-                            <div class="text-2xl font-sans">
-                                LearnX made learning in school so much easier for my child! -Larua Don<br><br>
-                                School and LearnX equals success. - Kelly Hemp<br><br>
-                                All schools should use LearnX! My child is so successful in school now! -Brooke Asher
+                <div class="md:w-1/2 flex flex-col justify-center items-center md:space-x-6">
+                    <!-- Quotes Section -->
+                    <div class="p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
+                        <p class="text-xl font-sans m-4">                        
+                            <p class="text-center underline text-3xl">What Parents Say</p>
+                        </p>
+                    </div><br><br>
+                    <div class="w-full p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
+                        <p class="text-xl font-sans m-4">
+                            <div class="border-solid border-5 border-amber-700">
+                                <div class="text-2xl font-sans">
+                                    LearnX made learning in school so much easier for my child! -Larua Don
+                                </div>
                             </div>
-                        </div>
-                    </p>
+                        </p>
+                    </div><br>
+                    <div class="w-full p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
+                        <p class="text-xl font-sans m-4">
+                            <div class="border-solid border-5 border-amber-700">
+                                <div class="text-2xl font-sans">
+                                    School and LearnX equals success. - Kelly Hemp
+                                </div>
+                            </div>
+                        </p>
+                    </div><br>
+                    <div class="w-full p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
+                        <p class="text-xl font-sans m-4">
+                            <div class="border-solid border-5 border-amber-700">
+                                <div class="text-2xl font-sans">
+                                    All schools should use LearnX! My child is so successful in school now! -Brooke Asher
+                                </div>
+                            </div>
+                        </p>
+                    </div>
                 </div>
                 <!-- Text Section -->
                 <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
