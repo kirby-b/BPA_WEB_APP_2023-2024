@@ -92,7 +92,7 @@
                                         @click="active = index; stopAutorotate();"
                                     >
                                         <span class="relative">
-                                            <span class="text-slate-50 ml-2" x-text="item.name"></span> <span class="text-slate-300">-</span> <span class="mr-2 text-slate-500" x-text="item.role"></span>
+                                            <span class="text-slate-50 ml-2" x-text="item.name"></span> <span class="text-slate-300">-</span> <span class="mr-2 text-green-500" x-text="item.role"></span>
                                         </span>
                                     </button>
                                 </template>
