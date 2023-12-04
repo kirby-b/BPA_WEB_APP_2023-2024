@@ -8,7 +8,7 @@
                     <p class="text-xl font-sans m-4">
                         15th Century<br>
                         <br>
-                        16th VEnturey<br>
+                        16th Century<br>
                         <br>
                         17th Century<br>
                         <br>
