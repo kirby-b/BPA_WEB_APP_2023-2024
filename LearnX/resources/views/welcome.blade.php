@@ -131,7 +131,7 @@
                                             role: 'Teacher'
                                         },
                                         {
-                                            img: './images/testimonial-04.jpg', 
+                                            img: './images/testimonial-04.jpg', //No clue.
                                             quote: "LearnX has a lot of great study materials and practice tests that help me prepare for my exams. It's a huge help for high school.",
                                             name: 'Sophia Roberts',
                                             role: 'High Schooler'
