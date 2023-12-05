@@ -135,63 +135,85 @@ Route::get('/vowelsandconsenents', function (){
 })->name("page.vsandcs");
 
 Route::get('/holidays', function (){
-    return view('lessons/Holidays');
+    return view('lessons/History/Holidays/Holidays');
 })->name("page.holidays");
 Route::get('/american-history', function (){
-    return view('lessons/American-History');
+    return view('lessons/History/American/American-History');
 })->name("page.american.history");
 Route::get('/ancient-history', function (){
-    return view('lessons/Ancient-History');
+    return view('lessons/History/Ancient-History');
 })->name("page.ancient.history");
 Route::get('/branches-of-gov', function (){
-    return view('lessons/Branches-Of-Government');
+    return view('lessons/History/Branches-Of-Government');
 })->name("page.branches.of.gov");
 Route::get('/civics', function (){
-    return view('lessons/Civics');
+    return view('lessons/History/Civics');
 })->name("page.civics");
 Route::get('/contenents-and-oceans', function (){
-    return view('lessons/Contenents-And-Oceans');
+    return view('lessons/History/Contenents-And-Oceans');
 })->name("page.contenents.oceans");
 Route::get('/economy', function (){
-    return view('lessons/Economy');
+    return view('lessons/History/Economy');
 })->name("page.economy");
 Route::get('/politics', function (){
-    return view('lessons/Politics');
+    return view('lessons/History/Politics');
 })->name("page.politics");
 Route::get('/states', function (){
-    return view('lessons/States');
+    return view('lessons/History/States');
 })->name("page.states");
 Route::get('/world-history', function (){
-    return view('lessons/World-History');
+    return view('lessons/History/World/World-History');
 })->name("page.world.history");
 
 Route::get('/china', function (){
-    return view('lessons/China');
+    return view('lessons/History/Holidays/China');
 })->name("page.china");
 Route::get('/indonsia', function (){
-    return view('lessons/Indonesia');
+    return view('lessons/History/Holidays/Indonesia');
 })->name("page.indonesia");
 Route::get('/usa', function (){
-    return view('lessons/United-States');
+    return view('lessons/History/Holidays/United-States');
 })->name("page.usa");
 Route::get('/india', function (){
-    return view('lessons/India');
+    return view('lessons/History/Holidays/India');
 })->name("page.india");
 Route::get('/japan', function (){
-    return view('lessons/Japan');
+    return view('lessons/History/Holidays/Japan');
 })->name("page.japan");
 Route::get('/mexico', function (){
-    return view('lessons/Mexico');
+    return view('lessons/History/Holidays/Mexico');
 })->name("page.mexico");
 Route::get('/nigeria', function (){
-    return view('lessons/Nigeria');
+    return view('lessons/History/Holidays/Nigeria');
 })->name("page.nigeria");
 Route::get('/pakistan', function (){
-    return view('lessons/Pakistan');
+    return view('lessons/History/Holidays/Pakistan');
 })->name("page.pakistan");
 Route::get('/russia', function (){
-    return view('lessons/Russia');
+    return view('lessons/History/Holidays/Russia');
 })->name("page.russia");
 Route::get('/brazil', function (){
-    return view('lessons/Brazil');
+    return view('lessons/History/Holidays/Brazil');
 })->name("page.brazil");
+
+Route::get('/15thcentury', function (){
+    return view('lessons/History/American/15th-Century');
+})->name("page.century15");
+Route::get('/16thcentury', function (){
+    return view('lessons/History/American/16th-Century');
+})->name("page.century16");
+Route::get('/17thcentury', function (){
+    return view('lessons/History/American/17th-Century');
+})->name("page.century17");
+Route::get('/18thcentury', function (){
+    return view('lessons/History/American/18th-Century');
+})->name("page.century18");
+Route::get('/19thcentury', function (){
+    return view('lessons/History/American/19th-Century');
+})->name("page.century19");
+Route::get('/20thcentury', function (){
+    return view('lessons/History/American/20th-Century');
+})->name("page.century20");
+Route::get('/21thcentury', function (){
+    return view('lessons/History/American/21th-Century');
+})->name("page.century21");
