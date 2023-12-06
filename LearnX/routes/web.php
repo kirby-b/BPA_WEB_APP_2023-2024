@@ -153,7 +153,7 @@ Route::get('/contenents-and-oceans', function (){
     return view('lessons/History/Contenents-And-Oceans');
 })->name("page.contenents.oceans");
 Route::get('/economy', function (){
-    return view('lessons/History/Economy');
+    return view('lessons/History/Econ/Economy');
 })->name("page.economy");
 Route::get('/politics', function (){
     return view('lessons/History/Politics');
@@ -217,3 +217,7 @@ Route::get('/20thcentury', function (){
 Route::get('/21thcentury', function (){
     return view('lessons/History/American/21th-Century');
 })->name("page.century21");
+
+Route::get('/forgot-password', function () {
+    return view('auth.forgot-password');
+})->middleware('guest')->name('password.request');
