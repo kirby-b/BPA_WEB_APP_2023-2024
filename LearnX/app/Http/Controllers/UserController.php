@@ -58,7 +58,14 @@ class UserController extends Controller
             'password' => 'required' // Requires you put something in for the password and gets it
         ]);
 
-        if(auth()->attempt($formFields)) { // Checks to see if credentials are right
+        $user = User::where('email', '=', $request->email)->first();
+        if(!$user->deleted){
+            return back()->withErrors(['email' => 'Account Deactivated'])->onlyInput('email'); 
+        }
+
+        //dd($user);
+
+        if(auth()->attempt($formFields)){ // Checks to see if credentials are right 
             $request->session()->regenerate(); //Regenerates session as valid
 
             return redirect('/home')->with('message', 'You are now logged in!');
@@ -66,5 +73,26 @@ class UserController extends Controller
 
         return back()->withErrors(['email' => 'Invalid Credentials'])->onlyInput('email'); 
         // Returns error for only under email so it says only "Invalid Credentials". This is for security reasons
+    }
+
+    public function getUserByEmail(Request $request)
+    {
+        $user = User::where('email', '=', $request->email)->first();
+
+        $user->password = bcrypt($request->password);
+        $user->save();
+
+    }
+    public function deleteUser(Request $request)
+    {
+        $formFields = $request->validate([
+            'name' => ['required'], //Requires you put in an email and gets it
+            'email' => ['required', 'email'], //Requires you put in an email and gets it
+        ]);
+
+        if(auth()->attempt($formFields)) { // Checks to see if credentials are right
+            $user = User::where('email', '=', $request->email )->first();
+            $user->deleted = 'true';
+        }
     }
 }
