@@ -6,47 +6,47 @@
                 <!-- Text Section -->
                 <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
                     <p class="text-xl font-sans m-4">
-                        1st<br>
+                        1st Century<br>
                         <br>
-                        2nd<br>
+                        2nd Century<br>
                         <br>
-                        3rd<br>
+                        3rd Century<br>
                         <br>
-                        4th<br>
+                        4th Century<br>
                         <br>
-                        5th<br>
+                        5th Century<br>
                         <br>
-                        6th<br>
+                        6th Century<br>
                         <br>
-                        7th<br>
+                        7th Century<br>
                         <br>
-                        8th<br>
+                        8th Century<br>
                         <br>
-                        9th<br>
+                        9th Century<br>
                         <br>
-                        10th<br>
+                        10th Century<br>
                         <br>
-                        11th<br>
+                        11th Century<br>
                         <br>
-                        12th<br>
+                        12th Century<br>
                         <br>
-                        13th<br>
+                        13th Century<br>
                         <br>
-                        14th<br>
+                        14th Century<br>
                         <br>
-                        15th<br>
+                        15th Century<br>
                         <br>
-                        16th<br>
+                        16th Century<br>
                         <br>
-                        17th<br>
+                        17th Century<br>
                         <br>
-                        18th<br>
+                        18th Century<br>
                         <br>
-                        19th<br>
+                        19th Century<br>
                         <br>
-                        20th<br>
+                        20th Century<br>
                         <br>
-                        21st<br>
+                        21st Century<br>
                     </p>
                 </div>
             </div>
