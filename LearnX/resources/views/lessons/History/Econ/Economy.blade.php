@@ -8,16 +8,22 @@
                     <p class="text-xl font-sans m-4">
                         Economics<br>
                         <br>
-                        Scarcity
-                        Choice & Opprotunity Cost
-                        Supply & Demand
-                        Market
-                        Gross Domestic Product(GDP)
-                        Inflation & Deflation
-                        Unemployment
-                        Fiscal and Monetary Policy
-                        International Trade
-                        Policy<!--Link this-->
+                        Basic<br>
+                        <br>
+                        Types of Economy<br>
+                        <br>
+                        Economy Indicators<br>
+                        <br>
+                        Labor Market<br>
+                        <br>
+                        Role of the Government<br>
+                        <br>
+                        International Trade<br>
+                        <br>
+                        Personal Finace<br>
+                        <br>
+                        Market Structurs<br>
+                        <!--Link all-->
                     </p>
                 </div>
             </div>
