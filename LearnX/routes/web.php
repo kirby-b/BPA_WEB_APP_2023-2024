@@ -112,9 +112,9 @@ Route::get('/partsofspeech', function (){
 Route::get('/punctuation', function (){
     return view('lessons/English/Puntuations');
 })->name("page.punctuation");
-Route::get('/reasearch-citations', function (){
-    return view('lessons/English/Reasearch-Citations');
-})->name("page.reasearch.citations");
+Route::get('/research-citations', function (){
+    return view('lessons/English/Reaserch-Citations');
+})->name("page.research.citations");
 Route::get('/definitions', function (){
     return view('lessons/English/Definitions');
 })->name("page.definitions");

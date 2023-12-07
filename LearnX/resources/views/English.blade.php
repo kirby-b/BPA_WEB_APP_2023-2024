@@ -32,14 +32,13 @@
                                 <br>
                             </div> 
                             <div class="font-sans w-50/100 float-left">
-                                <br>
                                 <div><a href="{{ route('page.punctuation') }}" class="hover:text-purple-300">Puntuaction</a></div>
                                 <br> 
                                 <div><a href="{{ route('page.definitions') }}" class="hover:text-purple-300">Definitions</a></div>
                                 <br>
                                 <div><a href="{{ route('page.essays') }}" class="hover:text-purple-300">Essays</a></div>
                                 <br>
-                                <div><a href="{{ route('page.reasearch.citations') }}" class="hover:text-purple-300">Reaseach/Citations</a></div>
+                                <div><a href="{{ route('page.research.citations') }}" class="hover:text-purple-300">Reaseach/Citations</a></div>
                                 <br>
                                 <div><a href="{{ route('page.storytelling') }}" class="hover:text-purple-300">Story Telling</a></div>
                                 <br>
