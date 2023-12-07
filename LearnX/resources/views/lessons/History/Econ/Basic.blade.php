@@ -6,7 +6,7 @@
                 <!-- Text Section -->
                 <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
                     <p class="text-xl font-sans m-4">
-                        Economics<br>
+                        <b>Economics<b><br>
                         <br>
                         Basic<br>
                         <br>
@@ -16,7 +16,6 @@
                         Choice & Opprotunity Costs<br>
                         <br>
                         Supply & Demand<br>
-                        <!--Link all-->
                     </p>
                 </div>
             </div>
