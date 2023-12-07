@@ -33,7 +33,6 @@
                                 <br>
                             </div> 
                             <div class="font-sans w-50/100 float-left">
-                                <br>
                                 <div>Chemistry</div>
                                 <br> 
                                 <div>Physics</div>
