@@ -10,19 +10,19 @@
                             <b>American History</b>
                         </div>
                         <br>
-                        <a href="{{ route('page.century15') }}" class="hover:text-purple-300">15th Century</a><br>
+                        <a href="{{ route('page.century15.america') }}" class="hover:text-purple-300">15th Century</a><br>
                         <br>
-                        <a href="{{ route('page.century16') }}" class="hover:text-purple-300">16th Century</a><br>
+                        <a href="{{ route('page.century16.america') }}" class="hover:text-purple-300">16th Century</a><br>
                         <br>
-                        <a href="{{ route('page.century17') }}" class="hover:text-purple-300">17th Century</a><br>
+                        <a href="{{ route('page.century17.america') }}" class="hover:text-purple-300">17th Century</a><br>
                         <br>
-                        <a href="{{ route('page.century18') }}" class="hover:text-purple-300">18th Century</a><br>
+                        <a href="{{ route('page.century18.america') }}" class="hover:text-purple-300">18th Century</a><br>
                         <br>
-                        <a href="{{ route('page.century19') }}" class="hover:text-purple-300">19th Century</a><br>
+                        <a href="{{ route('page.century19.america') }}" class="hover:text-purple-300">19th Century</a><br>
                         <br>
-                        <a href="{{ route('page.century20') }}" class="hover:text-purple-300">20th Century</a><br>
+                        <a href="{{ route('page.century20.america') }}" class="hover:text-purple-300">20th Century</a><br>
                         <br>
-                        <a href="{{ route('page.century21') }}" class="hover:text-purple-300">21th Century</a><br>
+                        <a href="{{ route('page.century21.america') }}" class="hover:text-purple-300">21th Century</a><br>
                     </p>
                 </div>
             </div>
