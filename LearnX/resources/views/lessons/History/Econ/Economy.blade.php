@@ -21,7 +21,7 @@
                         <br>
                         <a href="{{ route('page.century20.america') }}" class="hover:text-purple-300">20th Century</a><br>
                         <br>
-                        <a href="{{ route('page.century21.america') }}" class="hover:text-purple-300">21th Century</a><br>
+                        <a href="{{ route('page.century21.america') }}" class="hover:text-purple-300">21st Century</a><br>
                     </p>
                 </div>
                 <!-- Text Section -->
