@@ -27,11 +27,17 @@
                 </div>
                 <!-- Text Section -->
                 <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
-                    <div class="font-Preahvihear text-center items-center text-2xl">
-                        <b>Economy</b>
-                    </div>
                     <p class="text-xl font-sans m-4">
-                        Personal Finance
+                        Economics<br>
+                        Economy Indicators<br>
+                        <br>
+                        <br>
+                        Gross Domestic Product(GDP):<br>
+                        A crucial measure that goes beyond a simple economic tally, serving as a comprehensive gauge of a country's well-being. Its components, including consumption, investment, government spending, and net exports, provide insight into the economic activities driving growth. As an economic performance indicator, GDP not only reflects the overall health of an economy but also serves as a tool for policymakers to craft effective strategies. The metric's role extends to assessing standards of living through GDP per capita, facilitating cross-country comparisons, and signaling shifts in the business cycle.<br>
+                        <br>
+                        Inflation & Deflation:<br>
+                        Inflation can be caused by factors such as increased demand, cost-push pressures, or monetary factors.<br>
+                        Deflation may result from reduced consumer demand, technological advancements leading to lower production costs, or a decrease in the money supply.<br>
                     </p>
                 </div>
             </div>
