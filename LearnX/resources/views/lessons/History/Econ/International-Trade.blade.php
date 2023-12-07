@@ -32,7 +32,24 @@
                         International Trade<br>
                         <br>
                         <br>
-                        International Trade: 
+                        International Trade: Benefits of Trade:<br>
+                        Trade makes countries more efficient and lets people enjoy a variety of products. It can also help economies grow.<br>
+                        <br>
+                        Trade Balances:<br>
+                        Countries may have more exports, more imports, or a balanced trade with roughly equal imports and exports.<br>
+                        <br>
+                        Trade Barriers:<br>
+                        Some countries use tariffs, quotas, or other rules to protect their industries.<br>
+                        <br>
+                        Trade Agreements:<br>
+                        Countries make agreements to reduce trade barriers. Free Trade Agreements(FTAs) and regional unions, like the EU, promote easier trade between member countries.<br>
+                        <br>
+                        Exchange Rates:<br>
+                        The value of a country's money compared to others affects trade. Changes can make exports cheaper or more expensive.<br>
+                        <br>
+                        Globalization:
+                        
+                        Globalization means the world is more connected. International trade is a big part of this, linking economies, cultures, and societies.
                     </p>
                 </div>
             </div>
