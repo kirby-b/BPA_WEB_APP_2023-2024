@@ -198,26 +198,90 @@ Route::get('/brazil', function (){
 
 Route::get('/15thcentury', function (){
     return view('lessons/History/American/15th-Century');
-})->name("page.century15");
+})->name("page.century15.america");
 Route::get('/16thcentury', function (){
     return view('lessons/History/American/16th-Century');
-})->name("page.century16");
+})->name("page.century16.america");
 Route::get('/17thcentury', function (){
     return view('lessons/History/American/17th-Century');
-})->name("page.century17");
+})->name("page.century17.america");
 Route::get('/18thcentury', function (){
     return view('lessons/History/American/18th-Century');
-})->name("page.century18");
+})->name("page.century18.america");
 Route::get('/19thcentury', function (){
     return view('lessons/History/American/19th-Century');
-})->name("page.century19");
+})->name("page.century19.america");
 Route::get('/20thcentury', function (){
     return view('lessons/History/American/20th-Century');
-})->name("page.century20");
-Route::get('/21thcentury', function (){
-    return view('lessons/History/American/21th-Century');
-})->name("page.century21");
+})->name("page.century20.america");
+Route::get('/21stcentury', function (){
+    return view('lessons/History/American/21st-Century');
+})->name("page.century21.america");
 
-Route::get('/forgot-password', function () {
-    return view('auth.forgot-password');
-})->middleware('guest')->name('password.request');
+Route::get('/1stcentury-world', function (){
+    return view('lessons/History/World/1st-Century');
+})->name("page.century1.world");
+Route::get('/2ndcentury-world', function (){
+    return view('lessons/History/World/2nd-Century');
+})->name("page.century2.world");
+Route::get('/3rdcentury-world', function (){
+    return view('lessons/History/World/3rd-Century');
+})->name("page.century3.world");
+Route::get('/4thcentury-world', function (){
+    return view('lessons/History/World/4th-Century');
+})->name("page.century4.world");
+Route::get('/5thcentury-world', function (){
+    return view('lessons/History/World/5th-Century');
+})->name("page.century5.world");
+Route::get('/6thcentury-world', function (){
+    return view('lessons/History/World/6th-Century');
+})->name("page.century6.world");
+Route::get('/7thcentury-world', function (){
+    return view('lessons/History/World/7th-Century');
+})->name("page.century7.world");
+Route::get('/8thcentury-world', function (){
+    return view('lessons/History/World/8th-Century');
+})->name("page.century8.world");
+Route::get('/9thcentury-world', function (){
+    return view('lessons/History/World/9th-Century');
+})->name("page.century9.world");
+Route::get('/10thcentury-world', function (){
+    return view('lessons/History/World/10th-Century');
+})->name("page.century10.world");
+Route::get('/11thcentury-world', function (){
+    return view('lessons/History/World/11th-Century');
+})->name("page.century11.world");
+Route::get('/12thcentury-world', function (){
+    return view('lessons/History/World/12th-Century');
+})->name("page.century12.world");
+Route::get('/13thcentury-world', function (){
+    return view('lessons/History/World/13th-Century');
+})->name("page.century13.world");
+Route::get('/14thcentury-world', function (){
+    return view('lessons/History/World/14th-Century');
+})->name("page.century14.world");
+Route::get('/15thcentury-world', function (){
+    return view('lessons/History/World/15th-Century');
+})->name("page.century15.world");
+Route::get('/16thcentury-world', function (){
+    return view('lessons/History/World/16th-Century');
+})->name("page.century16.world");
+Route::get('/17thcentury-world', function (){
+    return view('lessons/History/World/17th-Century');
+})->name("page.century17.world");
+Route::get('/18thcentury-world', function (){
+    return view('lessons/History/World/18th-Century');
+})->name("page.century18.world");
+Route::get('/19thcentury-world', function (){
+    return view('lessons/History/World/19th-Century');
+})->name("page.century19.world");
+Route::get('/20thcentury-world', function (){
+    return view('lessons/History/World/20th-Century');
+})->name("page.century20.world");
+Route::get('/21stcentury-world', function (){
+    return view('lessons/History/World/21st-Century');
+})->name("page.century21.world");
+
+// Route::get('/forgot-password', function () {
+//     return view('auth.forgot-password');
+// })->middleware('guest')->name('password.request');
