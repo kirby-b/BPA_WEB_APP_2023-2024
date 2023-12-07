@@ -20,27 +20,27 @@
                         </div>
                         <div class="flex flex-col"> 
                             <div class="font-sans w-50/100 float-right">
-                                <div><a href="{{ route('page.holidays') }}" class="hover:text-purple-300">Holidays Around the World</a></div>
+                                <a href="{{ route('page.holidays') }}" class="hover:text-purple-300">Holidays Around the World</a>
                                 <br>
-                                <div><a href="{{ route('page.contenents.oceans') }}" class="hover:text-purple-300">Contenents/Oceans</a></div>
+                                <a href="{{ route('page.contenents.oceans') }}" class="hover:text-purple-300">Contenents/Oceans</a>
                                 <br>
-                                <div><a href="{{ route('page.states') }}" class="hover:text-purple-300">States in the U.S.</a></div>
+                                <a href="{{ route('page.states') }}" class="hover:text-purple-300">States in the U.S.</a>
                                 <br>
-                                <div><a href="{{ route('page.branches.of.gov') }}" class="hover:text-purple-300">Branches of the U.S. Government</a></div>
+                                <a href="{{ route('page.branches.of.gov') }}" class="hover:text-purple-300">Branches of the U.S. Government</a>
                                 <br>
-                                <div><a href="{{ route('page.ancient.history') }}" class="hover:text-purple-300">Ancient History</a></div>
+                                <a href="{{ route('page.ancient.history') }}" class="hover:text-purple-300">Ancient History</a>
                                 <br>
                             </div> 
                             <div class="font-sans w-50/100 float-left">
-                                <div><a href="{{ route('page.american.history') }}" class="hover:text-purple-300">American History</a></div>
+                                <a href="{{ route('page.american.history') }}" class="hover:text-purple-300">American History</a>
                                 <br>
-                                <div><a href="{{ route('page.world.history') }}" class="hover:text-purple-300">World History</a></div>
+                                <a href="{{ route('page.world.history') }}" class="hover:text-purple-300">World History</a>
                                 <br>
-                                <div><a href="{{ route('page.economy') }}" class="hover:text-purple-300">Economics</a></div>
+                                <a href="{{ route('page.economy') }}" class="hover:text-purple-300">Economics</a>
                                 <br>
-                                <div><a href="{{ route('page.civics') }}" class="hover:text-purple-300">Civics</a></div>
+                                <a href="{{ route('page.civics') }}" class="hover:text-purple-300">Civics</a>
                                 <br>
-                                <div><a href="{{ route('page.politics') }}" class="hover:text-purple-300">Politics</a></div>
+                                <a href="{{ route('page.politics') }}" class="hover:text-purple-300">Politics</a>
                                 <br>
                             </div>
                         </div>

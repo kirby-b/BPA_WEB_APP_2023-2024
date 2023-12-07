@@ -20,27 +20,27 @@
                         <div class="flex flex-col"> 
                             <div class="font-sans w-50/100 float-right">
                                 <br>
-                                <div><a href="{{ route('page.lettersandsounds') }}" class="hover:text-purple-300">Letters & Sounds</a></div>
+                                <a href="{{ route('page.lettersandsounds') }}" class="hover:text-purple-300">Letters & Sounds</a>
                                 <br>
-                                <div><a href="{{ route('page.vsandcs') }}" class="hover:text-purple-300">Vowels & Consentents</a></div>
+                                <a href="{{ route('page.vsandcs') }}" class="hover:text-purple-300">Vowels & Consentents</a>
                                 <br>
-                                <div><a href="{{ route('page.partsofspeech') }}" class="hover:text-purple-300">Nous, Verbs, etc.</a></div><!--link to choose-->
+                                <a href="{{ route('page.partsofspeech') }}" class="hover:text-purple-300">Nous, Verbs, etc.</a><!--link to choose-->
                                 <br>
-                                <div><a href="{{ route('page.small.spelling') }}" class="hover:text-purple-300">Small Spelling</a></div>
+                                <a href="{{ route('page.small.spelling') }}" class="hover:text-purple-300">Small Spelling</a>
                                 <br>
-                                <div><a href="{{ route('page.contractions') }}" class="hover:text-purple-300">Contractions</a></div>
+                                <a href="{{ route('page.contractions') }}" class="hover:text-purple-300">Contractions</a>
                                 <br>
                             </div> 
                             <div class="font-sans w-50/100 float-left">
-                                <div><a href="{{ route('page.punctuation') }}" class="hover:text-purple-300">Puntuaction</a></div>
+                                <a href="{{ route('page.punctuation') }}" class="hover:text-purple-300">Puntuaction</a>
                                 <br> 
-                                <div><a href="{{ route('page.definitions') }}" class="hover:text-purple-300">Definitions</a></div>
+                                <a href="{{ route('page.definitions') }}" class="hover:text-purple-300">Definitions</a>
                                 <br>
-                                <div><a href="{{ route('page.essays') }}" class="hover:text-purple-300">Essays</a></div>
+                                <a href="{{ route('page.essays') }}" class="hover:text-purple-300">Essays</a>
                                 <br>
-                                <div><a href="{{ route('page.research.citations') }}" class="hover:text-purple-300">Reaseach/Citations</a></div>
+                                <a href="{{ route('page.research.citations') }}" class="hover:text-purple-300">Reaseach/Citations</a>
                                 <br>
-                                <div><a href="{{ route('page.storytelling') }}" class="hover:text-purple-300">Story Telling</a></div>
+                                <a href="{{ route('page.storytelling') }}" class="hover:text-purple-300">Story Telling</a>
                                 <br>
                             </div>
                         </div>
