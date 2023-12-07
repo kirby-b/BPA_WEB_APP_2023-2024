@@ -101,37 +101,37 @@ Route::post('/users/authenticate', [UserController::class, 'authenticate']);
 //Give new routes name 
 
 Route::get('/contractions', function (){
-    return view('lessons/Contractions');
+    return view('lessons/English/Contractions');
 })->name("page.contractions");
 Route::get('/lettersandsounds', function (){
-    return view('lessons/Letters-And-Sounds');
+    return view('lessons/English/Letters-And-Sounds');
 })->name("page.lettersandsounds");
 Route::get('/partsofspeech', function (){
-    return view('lessons/Parts-Of-Speech');
+    return view('lessons/English/Parts-Of-Speech');
 })->name("page.partsofspeech");
 Route::get('/punctuation', function (){
-    return view('lessons/Puntuations');
+    return view('lessons/English/Puntuations');
 })->name("page.punctuation");
 Route::get('/reasearch-citations', function (){
-    return view('lessons/Reasearch-Citations');
+    return view('lessons/English/Reasearch-Citations');
 })->name("page.reasearch.citations");
 Route::get('/definitions', function (){
-    return view('lessons/Definitions');
+    return view('lessons/English/Definitions');
 })->name("page.definitions");
 Route::get('/essays', function (){
-    return view('lessons/Essays');
+    return view('lessons/English/Essays');
 })->name("page.essays");
 Route::get('/small-reading', function (){
-    return view('lessons/Small-Reading');
+    return view('lessons/English/Small-Reading');
 })->name("page.small.reading");
 Route::get('/small-spelling', function (){
-    return view('lessons/Small-Spelling');
+    return view('lessons/English/Small-Spelling');
 })->name("page.small.spelling");
 Route::get('/storytelling', function (){
-    return view('lessons/Storytelling');
+    return view('lessons/English/Storytelling');
 })->name("page.storytelling");
 Route::get('/vowelsandconsenents', function (){
-    return view('lessons/Vowels-And-Consenents');
+    return view('lessons/English/Vowels-And-Consenents');
 })->name("page.vsandcs");
 
 Route::get('/holidays', function (){
