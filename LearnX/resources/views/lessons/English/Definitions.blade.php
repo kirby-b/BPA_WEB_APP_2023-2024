@@ -9,35 +9,35 @@
                     </p>
                     <p class="text-xl font-sans m-4">
                         <br>
-                        <a href="{{ route('page.lettersandsounds') }}" class="hover:text-purple-300">Letters & Sounds</a>
+                        <a href="{{ route('page.lettersandsounds') }}" class="hover:text-purple-300">Letters & Sounds</a><br>
                         <br>
-                        <a href="{{ route('page.vsandcs') }}" class="hover:text-purple-300">Vowels & Consentents</a>
+                        <a href="{{ route('page.vsandcs') }}" class="hover:text-purple-300">Vowels & Consentents</a><br>
                         <br>
-                        <a href="{{ route('page.partsofspeech') }}" class="hover:text-purple-300">Nous, Verbs, etc.</a><!--link to choose-->
+                        <a href="{{ route('page.partsofspeech') }}" class="hover:text-purple-300">Nous, Verbs, etc.</a><br><!--link to choose-->
                         <br>
-                        <a href="{{ route('page.small.spelling') }}" class="hover:text-purple-300">Small Spelling</a>
+                        <a href="{{ route('page.small.spelling') }}" class="hover:text-purple-300">Small Spelling</a><br>
                         <br>
-                        <a href="{{ route('page.contractions') }}" class="hover:text-purple-300">Contractions</a>
+                        <a href="{{ route('page.contractions') }}" class="hover:text-purple-300">Contractions</a><br>
                         <br>
-                        <a href="{{ route('page.punctuation') }}" class="hover:text-purple-300">Puntuaction</a>
+                        <a href="{{ route('page.punctuation') }}" class="hover:text-purple-300">Puntuaction</a><br>
                         <br> 
-                        <a href="{{ route('page.definitions') }}" class="hover:text-purple-300">Definitions</a>
+                        <a href="{{ route('page.definitions') }}" class="hover:text-purple-300">Definitions</a><br>
                         <br>
-                        <a href="{{ route('page.essays') }}" class="hover:text-purple-300">Essays</a>
+                        <a href="{{ route('page.essays') }}" class="hover:text-purple-300">Essays</a><br>
                         <br>
-                        <a href="{{ route('page.research.citations') }}" class="hover:text-purple-300">Reaseach/Citations</a>
+                        <a href="{{ route('page.research.citations') }}" class="hover:text-purple-300">Research/Citations</a><br>
                         <br>
-                        <a href="{{ route('page.storytelling') }}" class="hover:text-purple-300">Story Telling</a>
+                        <a href="{{ route('page.storytelling') }}" class="hover:text-purple-300">Story Telling</a><br>
                         <br>
                     </p>
                 </div>
                 <!-- Text Section -->
                 <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
-                    <p class="text-xl font-sans m-4">
-                        <div class="font-Preahvihear items-center text-2xl">
-                            <b>DEFINITIONS</b>
-                        </div>
-                        Ocean:A massive body of salt water.<br>
+                    <div class="font-Preahvihear items-center text-2xl">
+                        <b>DEFINITIONS</b>
+                    </div>
+                    <p class="text-2xl font-sans m-4">
+                        Ocean: A massive body of salt water.<br>
                         Law: A rule written for society to keep it in order.<br>
                         Election: When a society decides who is the leader.<br>
                         Hieroglyphic: A form of language written with small pictures and symbols meant to represent sounds and words.<br>
@@ -54,7 +54,7 @@
                         Settlement: When a group of people move somewhere else and build a new society.<br>
                     </p>
                 </div>
-            </div>
+            </div> 
         </div>
     </div>
 </x-partials.UserLayout>
