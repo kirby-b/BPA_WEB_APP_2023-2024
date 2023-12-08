@@ -113,7 +113,7 @@ Route::get('/punctuation', function (){
     return view('lessons/English/Puntuations');
 })->name("page.punctuation");
 Route::get('/research-citations', function (){
-    return view('lessons/English/Reaserch-Citations');
+    return view('lessons/English/Research-Citations');
 })->name("page.research.citations");
 Route::get('/definitions', function (){
     return view('lessons/English/Definitions');
