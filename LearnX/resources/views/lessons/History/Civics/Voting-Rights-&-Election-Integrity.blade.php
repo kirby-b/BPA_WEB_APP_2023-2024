@@ -37,11 +37,9 @@
                         Civics:<br>
                         Voting Rights & Election Ingegrity:<br>
                         <br>
-                        Universal Suffrage - All citizens 
-Voter Registration:
-
-Laws and procedures regarding how citizens register to vote. This can include registration deadlines, requirements for identification, and processes for updating voter information.
-Voter Identification:
+                        Universal Suffrage - All citizens are able to vote<br>
+                        Voter Registration - Procedures for how to vote<br>
+                        Voter Identification - 
 
 Requirements for presenting identification when voting. Some jurisdictions may have strict ID requirements, while others may have more lenient rules.
 Accessibility:
