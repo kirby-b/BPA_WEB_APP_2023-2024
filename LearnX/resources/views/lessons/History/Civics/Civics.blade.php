@@ -36,9 +36,9 @@
                         History:<br>
                         Civics:<br>
                         <br>
-                        <a href="{{ route('page.lettersandsounds') }}" class="hover:text-purple-300">Voting Rights and Election Integrity</a><br>
+                        <a href="{{ route('page.voting.rights') }}" class="hover:text-purple-300">Voting Rights and Election Integrity</a><br>
                         <br>
-                        Civic Engagement and Participation<br>
+                        <a href="{{ route('page.civics.engagement') }}" class="hover:text-purple-300">Civic Engagement and Participation</a><br>
                         <br>
                         Government Transparency<br>
                         <br>
