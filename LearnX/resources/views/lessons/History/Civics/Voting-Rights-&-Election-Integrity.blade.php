@@ -33,7 +33,38 @@
                 <!-- Text Section -->
                 <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
                     <p class="text-xl font-sans m-4">
-                        
+                        History:<br>
+                        Civics:<br>
+                        Voting Rights & Election Ingegrity:<br>
+                        <br>
+                        Universal Suffrage - All citizens 
+Voter Registration:
+
+Laws and procedures regarding how citizens register to vote. This can include registration deadlines, requirements for identification, and processes for updating voter information.
+Voter Identification:
+
+Requirements for presenting identification when voting. Some jurisdictions may have strict ID requirements, while others may have more lenient rules.
+Accessibility:
+
+Laws aimed at ensuring that the electoral process is accessible to all citizens, including those with disabilities. This may involve providing accessible polling places, accommodations, or alternative voting methods.
+Early Voting and Absentee Voting:
+
+Laws governing early voting periods and procedures for voting by mail (absentee voting). These measures are designed to provide flexibility for individuals who may be unable to vote in person on Election Day.
+Voting Machines and Technology:
+
+Regulations on the use of voting machines and electronic voting systems, including security measures to protect the integrity of the voting process.
+Gerrymandering:
+
+Laws regarding the drawing of electoral district boundaries. Gerrymandering, the manipulation of district boundaries for political advantage, can impact the fairness of elections.
+Felony Disenfranchisement:
+
+Laws determining whether individuals with felony convictions lose their right to vote and under what conditions they may regain that right.
+Voter Suppression:
+
+Measures aimed at preventing voter suppression, including laws addressing tactics such as intimidation, misinformation, or restrictions that disproportionately affect certain groups.
+Campaign Finance Laws:
+
+Regulations on political campaign financing to ensure transparency and fairness in the electoral process.
                     </p>
                 </div>
             </div>
