@@ -147,8 +147,14 @@ Route::get('/branches-of-gov', function (){
     return view('lessons/History/Branches-Of-Government');
 })->name("page.branches.of.gov");
 Route::get('/civics', function (){
-    return view('lessons/History/Civics');
+    return view('lessons/History/Civics/Civics');
 })->name("page.civics");
+Route::get('/civics-engagment', function (){
+    return view('lessons/History/Civics/Civic-Engagment-&-Participation');
+})->name("page.civics.engagment");
+Route::get('/voting-rights', function (){
+    return view('lessons/History/Civics/Voting-Rights-&-Election-Integrity');
+})->name("page.voting.rights");
 Route::get('/contenents-and-oceans', function (){
     return view('lessons/History/Contenents-And-Oceans');
 })->name("page.contenents.oceans");
