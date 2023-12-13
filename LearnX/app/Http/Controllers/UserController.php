@@ -59,7 +59,7 @@ class UserController extends Controller
         ]);
 
         $user = User::where('email', '=', $request->email)->first();
-        if(!$user->deleted){
+        if($user->deleted){
             return back()->withErrors(['email' => 'Account Deactivated'])->onlyInput('email'); 
         }
 
@@ -86,13 +86,21 @@ class UserController extends Controller
     public function deleteUser(Request $request)
     {
         $formFields = $request->validate([
-            'name' => ['required'], //Requires you put in an email and gets it
             'email' => ['required', 'email'], //Requires you put in an email and gets it
+            'password' => 'required' // Requires you put something in for the password and gets it
         ]);
-
+        //dd($request);
         if(auth()->attempt($formFields)) { // Checks to see if credentials are right
+            
             $user = User::where('email', '=', $request->email )->first();
-            $user->deleted = 'true';
+            $user->deleted = true;
+            $user->save();
+            $request->session()->invalidate(); //Invalidates session
+            $request->session()->regenerateToken(); // Regenerates the session token/cookie.
         }
+        else{
+            return back()->withErrors(['email' => 'Invalid Credentials'])->onlyInput('email'); 
+        }
+        return redirect('/')->with('message', 'You have delete your account!');
     }
 }
