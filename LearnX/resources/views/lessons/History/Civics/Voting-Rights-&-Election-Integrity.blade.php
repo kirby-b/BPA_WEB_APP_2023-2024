@@ -37,32 +37,25 @@
                         Civics:<br>
                         Voting Rights & Election Ingegrity:<br>
                         <br>
-                        Universal Suffrage - All citizens are able to vote<br>
-                        Voter Registration - Procedures for how to vote<br>
-                        Voter Identification - 
-
-Requirements for presenting identification when voting. Some jurisdictions may have strict ID requirements, while others may have more lenient rules.
-Accessibility:
-
-Laws aimed at ensuring that the electoral process is accessible to all citizens, including those with disabilities. This may involve providing accessible polling places, accommodations, or alternative voting methods.
-Early Voting and Absentee Voting:
-
-Laws governing early voting periods and procedures for voting by mail (absentee voting). These measures are designed to provide flexibility for individuals who may be unable to vote in person on Election Day.
-Voting Machines and Technology:
-
-Regulations on the use of voting machines and electronic voting systems, including security measures to protect the integrity of the voting process.
-Gerrymandering:
-
-Laws regarding the drawing of electoral district boundaries. Gerrymandering, the manipulation of district boundaries for political advantage, can impact the fairness of elections.
-Felony Disenfranchisement:
-
-Laws determining whether individuals with felony convictions lose their right to vote and under what conditions they may regain that right.
-Voter Suppression:
-
-Measures aimed at preventing voter suppression, including laws addressing tactics such as intimidation, misinformation, or restrictions that disproportionately affect certain groups.
-Campaign Finance Laws:
-
-Regulations on political campaign financing to ensure transparency and fairness in the electoral process.
+                        Universal Suffrage - All citizens are able to vote.<br>
+                        <br>
+                        Voter Registration - Procedures for how to vote.<br>
+                        <br>
+                        Voter Identification - Requirements for presenting identification when voting.<br>
+                        <br>
+                        Accessibility - Laws aimed at ensuring that the electoral process is accessible to all citizens, including those with disabilities.<br>
+                        <br>
+                        Early Voting and Absentee Voting - Laws governing early voting periods and procedures for voting by mail (absentee voting). These measures are designed to provide flexibility for individuals who may be unable to vote in person on Election Day.<br>
+                        <br>
+                        Voting Machines and Technology - Regulations on the use of voting machines and electronic voting systems, including security measures to protect the integrity of the voting process.<br>
+                        <br>
+                        Gerrymandering - The manipulation of district boundaries for political advantage, can impact the fairness of elections.<br>
+                        <br>
+                        Felony Disenfranchisement - Laws determining whether individuals with felony convictions lose their right to vote and under what conditions they may regain that right.<br>
+                        <br>
+                        Voter Suppression - Laws addressing tactics such as intimidation, misinformation, or restrictions that disproportionately affect certain groups.<br>
+                        <br>
+                        Campaign Finance Laws - Regulations on political campaign financing to ensure transparency and fairness in the electoral process.
                     </p>
                 </div>
             </div>
