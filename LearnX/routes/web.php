@@ -82,22 +82,6 @@ Route::get('/profile', function (){
     return view('Profile');
 })->name("page.profile");
 
-// Show Register/Create Form through create function in UserController
-Route::get('/SignUp', [UserController::class, 'create'])->name('signup')->middleware('guest');
-
-// Create New User through store function in UserController
-Route::post('/users', [UserController::class, 'store']);
-
-// Log User Out through log out function in UserController
-Route::post('/logout', [UserController::class, 'logout'])->name('logout')->middleware('auth');
-
-// Show Login Form login function in UserController
-Route::get('/SignIn', [UserController::class, 'login'])->name('signin')->middleware('guest');
-
-// Log In User through authenticate function in UserController
-Route::post('/users/authenticate', [UserController::class, 'authenticate']);
-   
-
 //Give new routes name 
 
 Route::get('/contractions', function (){
@@ -149,9 +133,9 @@ Route::get('/branches-of-gov', function (){
 Route::get('/civics', function (){
     return view('lessons/History/Civics/Civics');
 })->name("page.civics");
-Route::get('/civics-engagment', function (){
-    return view('lessons/History/Civics/Civic-Engagment-&-Participation');
-})->name("page.civics.engagment");
+Route::get('/civics-engagement', function (){
+    return view('lessons/History/Civics/Civic-Engagement-&-Participation');
+})->name("page.civics.engagement");
 Route::get('/voting-rights', function (){
     return view('lessons/History/Civics/Voting-Rights-&-Election-Integrity');
 })->name("page.voting.rights");
@@ -317,6 +301,25 @@ Route::get('/deleteAccount', function(){
     return view('users/DeleteAccount');
 })->name("page.accountTermination");
 
+
+// Show Register/Create Form through create function in UserController
+Route::get('/SignUp', [UserController::class, 'create'])->name('signup')->middleware('guest');
+
+// Create New User through store function in UserController
+Route::post('/users', [UserController::class, 'store']);
+
+// Log User Out through log out function in UserController
+Route::post('/logout', [UserController::class, 'logout'])->name('logout')->middleware('auth');
+
+// Show Login Form login function in UserController
+Route::get('/SignIn', [UserController::class, 'login'])->name('signin')->middleware('guest');
+
+// Log In User through authenticate function in UserController
+Route::post('/users/authenticate', [UserController::class, 'authenticate']);
+
+// Log User Out through log out function in UserController
+Route::post('/delete', [UserController::class, 'deleteUser'])->name('deleteUser')->middleware('auth');
+   
 // Route::get('/forgot-password', function () {
 //     return view('auth.forgot-password');
 // })->middleware('guest')->name('password.request');
