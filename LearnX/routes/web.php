@@ -130,6 +130,7 @@ Route::get('/ancient-history', function (){
 Route::get('/branches-of-gov', function (){
     return view('lessons/History/Branches-Of-Government');
 })->name("page.branches.of.gov");
+
 Route::get('/civics', function (){
     return view('lessons/History/Civics/Civics');
 })->name("page.civics");
@@ -139,6 +140,19 @@ Route::get('/civics-engagement', function (){
 Route::get('/voting-rights', function (){
     return view('lessons/History/Civics/Voting-Rights-&-Election-Integrity');
 })->name("page.voting.rights");
+Route::get('/climate', function (){
+    return view('lessons/History/Civics/Climate-Change-&-Environmental-Sustainability');
+})->name("page.climate");
+Route::get('/government-transparency', function (){
+    return view('lessons/History/Civics/Government-Trasparency');
+})->name("page.governmentTrans");
+Route::get('/social-justice', function (){
+    return view('lessons/History/Civics/Social-Justice-&-Equality');
+})->name("page.social.justice");
+Route::get('/education-reform', function (){
+    return view('lessons/History/Civics/Education-Reform');
+})->name("page.education.reform");
+
 Route::get('/contenents-and-oceans', function (){
     return view('lessons/History/Contenents-And-Oceans');
 })->name("page.contenents.oceans");
@@ -296,6 +310,7 @@ Route::get('/roleOfGov', function (){
 Route::get('/basic', function (){
     return view('lessons/History/Econ/Basic');
 })->name("page.basic");
+
 
 Route::get('/deleteAccount', function(){
     return view('users/DeleteAccount');
