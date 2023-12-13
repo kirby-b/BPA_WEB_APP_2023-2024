@@ -40,13 +40,13 @@
                         <br>
                         <a href="{{ route('page.civics.engagement') }}" class="hover:text-purple-300">Civic Engagement and Participation</a><br>
                         <br>
-                        Government Transparency<br>
+                        <a href="{{ route('page.governmentTrans') }}" class="hover:text-purple-300">Government Transparency</a><br>
                         <br>
-                        Social Justice and Equity<br>
+                        <a href="{{ route('page.social.justice') }}" class="hover:text-purple-300">Social Justice and Equity</a><br>
                         <br>
-                        Climate Change and Environmental Sustainability<br>
+                        <a href="{{ route('page.climate') }}" class="hover:text-purple-300">Climate Change and Environmental Sustainability</a><br>
                         <br>
-                        Education Reform<br>
+                        <a href="{{ route('page.education.reform') }}" class="hover:text-purple-300">>Education Reform</a><br>
                         <br>
                         Healthcare Access and Policy<br>
                         <br>
