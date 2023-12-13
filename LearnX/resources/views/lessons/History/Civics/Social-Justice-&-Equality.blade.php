@@ -37,34 +37,25 @@
                         Civics:<br>
                         Government Tranparency:<br>
                         <br>
-                        Racial Justice - Examining systemic racism, racial disparities, and initiatives aimed at achieving racial equality in areas such as education, employment, and criminal justice.
-Gender Equality:
-
-Addressing gender-based discrimination, advocating for equal opportunities for all genders, and promoting gender inclusivity in various spheres of life.
-LGBTQ+ Rights:
-
-Advocating for the rights and well-being of the lesbian, gay, bisexual, transgender, and queer (LGBTQ+) community, including issues such as anti-discrimination laws and marriage equality.
-Economic Inequality:
-
-Analyzing the causes and consequences of economic disparities, exploring policies to reduce income inequality, and promoting economic justice.
-Access to Education:
-
-Ensuring equal access to quality education for all, addressing disparities in educational outcomes, and promoting inclusive educational environments.
-Criminal Justice Reform:
-
-Examining issues related to mass incarceration, police brutality, and advocating for reforms to create a fair and equitable criminal justice system.
-Healthcare Equity:
-
-Addressing disparities in healthcare access, outcomes, and quality, and advocating for policies that promote health equity.
-Environmental Justice:
-
-Investigating how marginalized communities are disproportionately affected by environmental issues and advocating for fair and sustainable environmental policies.
-Immigrant and Refugee Rights:
-
-Advocating for the rights of immigrants and refugees, addressing issues such as fair immigration policies, asylum, and protection from discrimination.
-Disability Rights:
-
-Promoting equal opportunities and accessibility for individuals with disabilities, addressing discrimination, and advocating for inclusive policies.
+                        Racial Justice - Examining systemic racism, racial disparities, and initiatives aimed at achieving racial equality in areas such as education, employment, and criminal justice.<br>
+                        <br>
+                        Gender Equality - Addressing gender-based discrimination, advocating for equal opportunities for all genders, and promoting gender inclusivity in various spheres of life.<br>
+                        <br>
+                        LGBTQ+ Rights - Advocating for the rights and well-being of the lesbian, gay, bisexual, transgender, and queer (LGBTQ+) community, including issues such as anti-discrimination laws and marriage equality.<br>
+                        <br>
+                        Economic Inequality - Analyzing the causes and consequences of economic disparities, exploring policies to reduce income inequality, and promoting economic justice.<br>
+                        <br>
+                        Access to Education - Ensuring equal access to quality education for all, addressing disparities in educational outcomes, and promoting inclusive educational environments.<br>
+                        <br>
+                        Criminal Justice Reform - Examining issues related to mass incarceration, police brutality, and advocating for reforms to create a fair and equitable criminal justice system.<br>
+                        <br>
+                        Healthcare Equity - Addressing disparities in healthcare access, outcomes, and quality, and advocating for policies that promote health equity.<br>
+                        <br>
+                        Environmental Justice - Investigating how marginalized communities are disproportionately affected by environmental issues and advocating for fair and sustainable environmental policies.<br>
+                        <br>
+                        Immigrant and Refugee Rights - Advocating for the rights of immigrants and refugees, addressing issues such as fair immigration policies, asylum, and protection from discrimination.<br>
+                        <br>
+                        Disability Rights - Promoting equal opportunities and accessibility for individuals with disabilities, addressing discrimination, and advocating for inclusive policies.
                     </p>
                 </div>
             </div>
