@@ -274,32 +274,32 @@ Route::get('/21stcentury-world', function (){
 
 Route::get('/typesOfEcon', function (){
     return view('lessons/History/Econ/Types-Of-Economy');
-})->name("page.typesOfEcon")->middleware('auth');
+})->name("page.typesOfEcon");
 Route::get('/econIndicators', function (){
     return view('lessons/History/Econ/Economy-Indicators');
-})->name("page.econIndicators")->middleware('auth');
+})->name("page.econIndicators");
 Route::get('/international', function (){
     return view('lessons/History/Econ/International-Trade');
-})->name("page.internatTrade")->middleware('auth');
+})->name("page.internatTrade");
 Route::get('/laborMarket', function (){
     return view('lessons/History/Econ/Labor-Market');
-})->name("page.laborMarket")->middleware('auth');
+})->name("page.laborMarket");
 Route::get('/marketStructures', function (){
     return view('lessons/History/Econ/Market-Structures');
-})->name("page.marketStructures")->middleware('auth');
+})->name("page.marketStructures");
 Route::get('/personalFinance', function (){
     return view('lessons/History/Econ/Personal-Finance');
-})->name("page.personalFinance")->middleware('auth');
+})->name("page.personalFinance");
 Route::get('/roleOfGov', function (){
     return view('lessons/History/Econ/Role-Of-Government');
-})->name("page.roleOfGov")->middleware('auth');
+})->name("page.roleOfGov");
 Route::get('/basic', function (){
     return view('lessons/History/Econ/Basic');
-})->name("page.basic")->middleware('auth');
+})->name("page.basic");
 
 Route::get('/deleteAccount', function(){
     return view('users/DeleteAccount');
-})->name("page.accountTermination")->middleware('auth');
+})->name("page.accountTermination");
 
 
 // Show Register/Create Form through create function in UserController
