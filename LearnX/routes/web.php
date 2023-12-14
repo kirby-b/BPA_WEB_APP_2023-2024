@@ -323,11 +323,40 @@ Route::get('/basic', function (){
     return view('lessons/History/Econ/Basic');
 })->name("page.basic");
 
+Route::get('/animals', function (){
+    return view('lessons/Science/Animals');
+})->name("page.animals");
+Route::get('/chemistry', function (){
+    return view('lessons/Science/Chemistry');
+})->name("page.chemistry");
+Route::get('/earth', function (){
+    return view('lessons/Science/Earth');
+})->name("page.earth");
+Route::get('/life', function (){
+    return view('lessons/Science/Life');
+})->name("page.life");
+Route::get('/oceans', function (){
+    return view('lessons/Science/Oceans');
+})->name("page.oceans");
+Route::get('/genetics', function (){
+    return view('lessons/Science/Genetics');
+})->name("page.genes");
+Route::get('/geology', function (){
+    return view('lessons/Science/Geology');
+})->name("page.rocks");
+Route::get('/psychology', function (){
+    return view('lessons/Science/Psychology');
+})->name("page.psycho");
+Route::get('/physics', function (){
+    return view('lessons/Science/Physics');
+})->name("page.physics");
+Route::get('/space', function (){
+    return view('lessons/Science/Space');
+})->name("page.space");
 
 Route::get('/deleteAccount', function(){
     return view('users/DeleteAccount');
 })->name("page.accountTermination");
-
 
 // Show Register/Create Form through create function in UserController
 Route::get('/SignUp', [UserController::class, 'create'])->name('signup')->middleware('guest');
