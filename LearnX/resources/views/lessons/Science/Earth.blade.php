@@ -33,8 +33,8 @@
                 <!-- Text Section -->
                 <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
                     <p class="text-xl font-sans m-4">
-                        Science:<br>
-                        Earth:<br>
+                        <span class="font-black">Science:</span><br>
+                        <span class="font-bold">Earth:</span><br>
                     </p>
                 </div>
             </div>
