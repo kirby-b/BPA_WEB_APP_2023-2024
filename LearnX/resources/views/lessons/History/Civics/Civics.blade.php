@@ -46,15 +46,15 @@
                         <br>
                         <a href="{{ route('page.climate') }}" class="hover:text-purple-300">Climate Change and Environmental Sustainability</a><br>
                         <br>
-                        <a href="{{ route('page.education.reform') }}" class="hover:text-purple-300">>Education Reform</a><br>
+                        <a href="{{ route('page.education.reform') }}" class="hover:text-purple-300">Education Reform</a><br>
                         <br>
-                        Healthcare Access and Policy<br>
+                        <a href="{{ route('page.health.access') }}" class="hover:text-purple-300">Healthcare Access and Policy</a><br>
                         <br>
-                        Technology and Privacy<br>
+                        <a href="{{ route('page.tech.privacy') }}" class="hover:text-purple-300">Technology and Privacy</a><br>
                         <br>
-                        Crisis Response and Emergency Management<br>
+                        <a href="{{ route('page.emergency.management') }}" class="hover:text-purple-300">Crisis Response and Emergency Management</a><br>
                         <br>
-                        Civic Infrastructure and Urban Planning
+                        <a href="{{ route('page.civic.urban') }}" class="hover:text-purple-300">Civic Infrastructure and Urban Planning</a>
                     </p>
                 </div>
             </div>
