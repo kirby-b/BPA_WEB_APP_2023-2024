@@ -33,28 +33,28 @@
                 <!-- Text Section -->
                 <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
                     <p class="text-xl font-sans m-4">
-                        History:<br>
-                        Politics:<br>
+                        <span class="font-black">History:</span><br>
+                        <span class="font-bold">Politics:</span><br>
                         <br>
-                        Global Governance and International Relations - Examining the relationships between countries, international organizations, and the role of diplomacy in addressing global challenges.<br>
+                        <span class="font-semibold">Global Governance and International Relations</span> - Examining the relationships between countries, international organizations, and the role of diplomacy in addressing global challenges.<br>
                         <br>
-                        Political Ideologies - Analyzing various political ideologies, such as liberalism, conservatism, socialism, and nationalism, and their impact on political thought and policy.<br>
+                        <span class="font-semibold">Political Ideologies</span> - Analyzing various political ideologies, such as liberalism, conservatism, socialism, and nationalism, and their impact on political thought and policy.<br>
                         <br>
-                        Elections and Electoral Systems:Studying the electoral processes, including voting systems, campaign strategies, and the impact of elections on political landscapes.<br>
+                        <span class="font-semibold">Elections and Electoral Systems</span> - Studying the electoral processes, including voting systems, campaign strategies, and the impact of elections on political landscapes.<br>
                         <br>
-                        Political Economy:Exploring the intersection of politics and economics, including policies related to taxation, trade, and economic development.<br>
+                        <span class="font-semibold">Political Economy</span> - Exploring the intersection of politics and economics, including policies related to taxation, trade, and economic development.<br>
                         <br>
-                        Policy Analysis and Public Administration:Investigating the development, implementation, and evaluation of public policies and the role of public administration in governance.<br>
+                        <span class="font-semibold">Policy Analysis and Public Administration</span> - Investigating the development, implementation, and evaluation of public policies and the role of public administration in governance.<br>
                         <br>
-                        Human Rights and Social Justice:Addressing issues related to human rights, social justice, and equality, and exploring policies aimed at promoting inclusivity and addressing discrimination.<br>
+                        <span class="font-semibold">Human Rights and Social Justice</span> - Addressing issues related to human rights, social justice, and equality, and exploring policies aimed at promoting inclusivity and addressing discrimination.<br>
                         <br>
-                        Political Communication:Examining the role of media, propaganda, and political communication strategies in shaping public opinion and influencing political outcomes.<br>
+                        <span class="font-semibold">Political Communication</span> - Examining the role of media, propaganda, and political communication strategies in shaping public opinion and influencing political outcomes.<br>
                         <br>
-                        Political Parties and Party Systems:Analyzing the structure and dynamics of political parties, coalition building, and the role of political parties in representative democracies.<br>
+                        <span class="font-semibold">Political Parties and Party Systems</span> - Analyzing the structure and dynamics of political parties, coalition building, and the role of political parties in representative democracies.<br>
                         <br>
-                        Political Institutions:Studying the structures and functions of political institutions, including legislatures, executives, and judiciaries, and their role in governance.<br>
+                        <span class="font-semibold">Political Institutions</span> - Studying the structures and functions of political institutions, including legislatures, executives, and judiciaries, and their role in governance.<br>
                         <br>
-                        Political Philosophy and Political Theory:Exploring foundational ideas and theories in political philosophy, including works by political thinkers such as Plato, Aristotle, John Locke, and others.
+                        <span class="font-semibold">Political Philosophy and Political Theory</span> - Exploring foundational ideas and theories in political philosophy, including works by political thinkers such as Plato, Aristotle, John Locke, and others.
                     </p>
                 </div>
             </div>
