@@ -20,28 +20,27 @@
                         </div>
                         <div class="flex flex-col"> 
                             <div class="font-sans w-50/100 float-right">
+                                <a href="{{ route('page.earth') }}" class="hover:text-purple-300">Earth</a><br>
                                 <br>
-                                <div>Earth</div>
+                                <a href="{{ route('page.space') }}" class="hover:text-purple-300">Space</a><br>
                                 <br>
-                                <div>Space</div>
+                                <a href="{{ route('page.life') }}" class="hover:text-purple-300">Life</a><br>
                                 <br>
-                                <div>Life</div>
+                                <a href="{{ route('page.animals') }}" class="hover:text-purple-300">Animals</a><br>
                                 <br>
-                                <div>Animals</div>
-                                <br>
-                                <div>Oceans</div>
+                                <a href="{{ route('page.oceans') }}" class="hover:text-purple-300">Oceans</a><br>
                                 <br>
                             </div> 
                             <div class="font-sans w-50/100 float-left">
-                                <div>Chemistry</div>
-                                <br> 
-                                <div>Physics</div>
+                                <a href="{{ route('page.chemistry') }}" class="hover:text-purple-300">Chemistry</a><br>
                                 <br>
-                                <div>Psycology</div>
+                                <a href="{{ route('page.physics') }}" class="hover:text-purple-300">Physics</a><br>
                                 <br>
-                                <div>Geology</div>
+                                <a href="{{ route('page.psycho') }}" class="hover:text-purple-300">Psycology</a><br>
                                 <br>
-                                <div>Genetics</div>
+                                <a href="{{ route('page.rocks') }}" class="hover:text-purple-300">Geology</a><br>
+                                <br>
+                                <a href="{{ route('page.genes') }}" class="hover:text-purple-300">Genetics</a><br>
                                 <br>
                             </div>
                         </div>
