@@ -5,8 +5,8 @@
                 <!-- Links Section -->
                 <div class="md:w-1/4 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg md:items-start md:self-start">
                     <p class="text-xl font-sans m-4">
-                        History:<br>
-                        Economy:<br>
+                        <span class="font-black">History:</span><br>
+                        <span class="font-bold">Economy:</span><br>
                     </p>
                     <p class="text-xl font-sans m-4">
                         <a href="{{ route('page.basic') }}" class="hover:text-purple-300">Basic</a><br>
