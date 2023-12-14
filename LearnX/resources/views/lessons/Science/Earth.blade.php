@@ -14,7 +14,7 @@
                         <br>
                         <a href="{{ route('page.life') }}" class="hover:text-purple-300">Life</a><br>
                         <br>
-                        <a href="{{ route('page.animals') }}" class="hover:text-purple-300">Animaks</a><br>
+                        <a href="{{ route('page.animals') }}" class="hover:text-purple-300">Animals</a><br>
                         <br>
                         <a href="{{ route('page.oceans') }}" class="hover:text-purple-300">Oceans</a><br>
                         <br>
