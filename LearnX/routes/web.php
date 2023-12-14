@@ -152,6 +152,18 @@ Route::get('/social-justice', function (){
 Route::get('/education-reform', function (){
     return view('lessons/History/Civics/Education-Reform');
 })->name("page.education.reform");
+Route::get('/crisis-response-and-emergency', function (){
+    return view('lessons/History/Civics/Crisis-Response-&-Emergency-Managment');
+})->name("page.emergency.management");
+Route::get('/healthcare-access-policy', function (){
+    return view('lessons/History/Civics/Healthcare-Access-&-Policy');
+})->name("page.health.access");
+Route::get('/tech-and-privacy', function (){
+    return view('lessons/History/Civics/Technology-&-Privacy');
+})->name("page.tech.privacy");
+Route::get('/civic-urban-planning', function (){
+    return view('lessons/History/Civics/Civic-Infrastructure-&-Urban-Planning');
+})->name("page.civic.urban");
 
 Route::get('/contenents-and-oceans', function (){
     return view('lessons/History/Contenents-And-Oceans');
