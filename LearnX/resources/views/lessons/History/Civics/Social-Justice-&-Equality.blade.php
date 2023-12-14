@@ -35,7 +35,7 @@
                     <p class="text-xl font-sans m-4">
                         History:<br>
                         Civics:<br>
-                        Government Tranparency:<br>
+                        Social Justice and Equality:<br>
                         <br>
                         Racial Justice - Examining systemic racism, racial disparities, and initiatives aimed at achieving racial equality in areas such as education, employment, and criminal justice.<br>
                         <br>
