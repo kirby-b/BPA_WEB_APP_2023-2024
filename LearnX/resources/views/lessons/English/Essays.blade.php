@@ -35,14 +35,38 @@
                 <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
                     <p class="text-xl font-sans m-4">
                         <div class="font-Preahvihear items-center text-2xl">
-                            <b>ESSAYS</b>
+                            <b>ESSAYS:</b>
                         </div>
+                        <br><br><br>
+                        Introduction:<br>
+                        Hook - An attention-grabbing sentence or statement to engage the reader.<br>
+                        Background Information - Relevant context or information to provide a foundation for the essay.<br>
+                        Thesis Statement - A concise statement that presents the main argument or purpose of the essay.<br>
+                        <br>
+                        Body Paragraphs:<br>
+                        Topic Sentence - The main idea of the paragraph, often the first sentence.<br>
+                        Supporting Details - Evidence, examples, facts, or quotes that support the topic sentence.<br>
+                        Analysis - Explanation and interpretation of the evidence, demonstrating its relevance to the thesis.<br>
+                        <br>
+                        Transitions:<br>
+                        Transitional Phrases - Words or phrases that connect ideas and paragraphs, ensuring a smooth flow of the essay.<br>
+                        <br>
+                        Conclusion:<br>
+                        Restatement of Thesis - A rephrased version of the thesis statement to remind the reader of the main argument.<br>
+                        Summary of Key Points - A concise recap of the main points discussed in the essay.<br>
+                        <br>
+                        Closing Thoughts: A concluding statement that leaves a lasting impression or suggests further implications.<br>
+                        <br>
+                        Counterargument (optional):<br>
+                        Acknowledgment of Counterargument - Recognition of opposing views or counterarguments.<br>
+Refutation or Rebuttal: Response to counterarguments, demonstrating why the thesis is still valid.
+Conclusion:
 
-                        <!--intro
+Final Thoughts: A reflection on the significance of the essay's argument or a call to action.
+Closing Statement: A memorable closing remark that leaves an impact.
+References or Works Cited (if applicable):
 
-                        middle 3
-
-                        conclusion-->
+Citations: Properly formatted citations for any external sources used in the essay.
                     </p>
                 </div>
             </div>
