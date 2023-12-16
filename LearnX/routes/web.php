@@ -358,6 +358,49 @@ Route::get('/space', function (){
     return view('lessons/Science/Space');
 })->name("page.space");
 
+//Interactive-History
+Route::get('/History-LearningFun', function (){
+    return view('lessons/History/LearnFun-History');
+})->name("page.learnfun.hist");
+Route::get('/History-Timeline', function (){
+    return view('lessons/History/Timeline-History');
+})->name("page.timeline.hist");
+Route::get('/History-Write', function (){
+    return view('lessons/History/WriteItOut-History');
+})->name("page.writeout.hist");
+
+//Interactive-Science
+Route::get('/Science-FlashCards', function (){
+    return view('lessons/Science/FlashCards-Science');
+})->name("page.flashcards.science");
+Route::get('/Science-LearningFun', function (){
+    return view('lessons/Science/LearnFun-Science');
+})->name("page.learnfun.science");
+Route::get('/Science-Write', function (){
+    return view('lessons/Science/WriteItOut-Science');
+})->name("page.writeout.science");
+
+//Interactive-English
+Route::get('/English-Write', function (){
+    return view('lessons/English/WriteItOut-English');
+})->name("page.writeout.english");
+Route::get('/English-LearningFun', function (){
+    return view('lessons/English/LearnFun-English');
+})->name("page.learnfun.english");
+Route::get('/English-FlashCards', function (){
+    return view('lessons/English/FlashCards-English');
+})->name("page.flashcards.english");
+
+//Interactive-Math
+Route::get('/Math-LearningFun', function (){
+    return view('lessons/Math/LearnFun-Math');
+})->name("page.learnfun.math");
+Route::get('/Math-FlashCards', function (){
+    return view('lessons/Math/FlashCards-Math');
+})->name("page.flashcards.math");
+Route::get('/Math-Solve', function (){
+    return view('lessons/Math/SolveIt-Math');
+})->name("page.solveit.math");
 
 
 //Goes to delete account page
