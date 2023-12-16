@@ -87,6 +87,7 @@ class UserController extends Controller
         $user->save();
 
     }
+
     public function deleteUser(Request $request)
     {
         $formFields = $request->validate([
@@ -107,27 +108,29 @@ class UserController extends Controller
         }
         return redirect('/')->with('message', 'You have delete your account!');
     }
+
     public function requestReset(Request $request)
     {
-        $request->validate(['email' => 'required|email']);
+        $request->validate(['email' => 'required|email']);//Takes email
  
-        $status = Password::sendResetLink(
+        $status = Password::sendResetLink(//Sends link
             $request->only('email')
         );
     
         return $status === Password::RESET_LINK_SENT
                     ? back()->with(['status' => __($status)])
-                    : back()->withErrors(['email' => __($status)]);
+                    : back()->withErrors(['email' => __($status)]);//Checks to see if it works
     }
+
     public function resetPass(Request $request)
     {
-        $request->validate([
+        $request->validate([//Makes sure the params are right
             'token' => 'required',
             'email' => 'required|email',
             'password' => 'required|min:8|confirmed',
         ]);
      
-        $status = Password::reset(
+        $status = Password::reset(//Saves new info
             $request->only('email', 'password', 'password_confirmation', 'token'),
             function (User $user, string $password) {
                 $user->forceFill([
