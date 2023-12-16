@@ -374,15 +374,25 @@ Route::post('/users/authenticate', [UserController::class, 'authenticate']);
 
 // Log User Out through log out function in UserController
 Route::post('/delete', [UserController::class, 'deleteUser'])->name('deleteUser')->middleware('auth');
-   
-Route::get('/forgot-password', function () {
-    return view('auth.forgot-password');
-})->middleware('guest')->name('password.request');
 
+//Goes to forgot password page
+Route::get('/forgot-password', function () {
+    return view('users/RequestPasswordReset');
+})->middleware('guest')->name('password.request');
+// Route::get('/forgot-password', function () {
+//     return view('auth.forgot-password');
+// })->middleware('guest')->name('password.request');
+
+//Sends the email with token
 Route::post('/forgot-password', [UserController::class, 'requestReset'])->name('password.email')->middleware('guest');
 
+//Goes to reset page using view+token
 Route::get('/reset-password/{token}', function (string $token) {
-    return view('auth.reset-password', ['token' => $token]);
+    return view('users/ResetPassword', ['token' => $token]);
 })->middleware('guest')->name('password.reset');
+// Route::get('/reset-password/{token}', function (string $token) {
+//     return view('auth.reset-password', ['token' => $token]);
+// })->middleware('guest')->name('password.reset');
 
+//Updates the password with new value
 Route::post('/reset-password', [UserController::class, 'resetPass'])->name('password.update')->middleware('guest');
