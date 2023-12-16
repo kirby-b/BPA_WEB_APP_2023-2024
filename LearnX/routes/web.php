@@ -81,8 +81,7 @@ Route::get('/profile', function (){
     return view('Profile');
 })->name("page.profile");
 
-//Give new routes name 
-
+//English
 Route::get('/contractions', function (){
     return view('lessons/English/Contractions');
 })->name("page.contractions");
@@ -117,6 +116,22 @@ Route::get('/vowelsandconsenents', function (){
     return view('lessons/English/Vowels-And-Consenents');
 })->name("page.vsandcs");
 
+//History
+Route::get('/contenents-and-oceans', function (){
+    return view('lessons/History/Contenents-And-Oceans');
+})->name("page.contenents.oceans");
+Route::get('/economy', function (){
+    return view('lessons/History/Econ/Economy');
+})->name("page.economy");
+Route::get('/politics', function (){
+    return view('lessons/History/Politics');
+})->name("page.politics");
+Route::get('/states', function (){
+    return view('lessons/History/States');
+})->name("page.states");
+Route::get('/world-history', function (){
+    return view('lessons/History/World/World-History');
+})->name("page.world.history");
 Route::get('/holidays', function (){
     return view('lessons/History/Holidays/Holidays');
 })->name("page.holidays");
@@ -130,6 +145,7 @@ Route::get('/branches-of-gov', function (){
     return view('lessons/History/Branches-Of-Government');
 })->name("page.branches.of.gov");
 
+//Civics
 Route::get('/civics', function (){
     return view('lessons/History/Civics/Civics');
 })->name("page.civics");
@@ -164,22 +180,7 @@ Route::get('/civic-urban-planning', function (){
     return view('lessons/History/Civics/Civic-Infrastructure-&-Urban-Planning');
 })->name("page.civic.urban");
 
-Route::get('/contenents-and-oceans', function (){
-    return view('lessons/History/Contenents-And-Oceans');
-})->name("page.contenents.oceans");
-Route::get('/economy', function (){
-    return view('lessons/History/Econ/Economy');
-})->name("page.economy");
-Route::get('/politics', function (){
-    return view('lessons/History/Politics');
-})->name("page.politics");
-Route::get('/states', function (){
-    return view('lessons/History/States');
-})->name("page.states");
-Route::get('/world-history', function (){
-    return view('lessons/History/World/World-History');
-})->name("page.world.history");
-
+//Holidays
 Route::get('/china', function (){
     return view('lessons/History/Holidays/China');
 })->name("page.china");
@@ -211,6 +212,7 @@ Route::get('/brazil', function (){
     return view('lessons/History/Holidays/Brazil');
 })->name("page.brazil");
 
+//American Historys
 Route::get('/15thcentury', function (){
     return view('lessons/History/American/15th-Century');
 })->name("page.century15.america");
@@ -233,6 +235,7 @@ Route::get('/21stcentury', function (){
     return view('lessons/History/American/21st-Century');
 })->name("page.century21.america");
 
+//World History
 Route::get('/1stcentury-world', function (){
     return view('lessons/History/World/1st-Century');
 })->name("page.century1.world");
@@ -297,6 +300,7 @@ Route::get('/21stcentury-world', function (){
     return view('lessons/History/World/21st-Century');
 })->name("page.century21.world");
 
+//Economy
 Route::get('/typesOfEcon', function (){
     return view('lessons/History/Econ/Types-Of-Economy');
 })->name("page.typesOfEcon");
@@ -322,6 +326,7 @@ Route::get('/basic', function (){
     return view('lessons/History/Econ/Basic');
 })->name("page.basic");
 
+//Science
 Route::get('/animals', function (){
     return view('lessons/Science/Animals');
 })->name("page.animals");
@@ -353,6 +358,9 @@ Route::get('/space', function (){
     return view('lessons/Science/Space');
 })->name("page.space");
 
+
+
+//Goes to delete account page
 Route::get('/deleteAccount', function(){
     return view('users/DeleteAccount');
 })->name("page.accountTermination");
