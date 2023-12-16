@@ -3,7 +3,6 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\UserController;
 use Illuminate\Http\Request;
-
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -376,6 +375,14 @@ Route::post('/users/authenticate', [UserController::class, 'authenticate']);
 // Log User Out through log out function in UserController
 Route::post('/delete', [UserController::class, 'deleteUser'])->name('deleteUser')->middleware('auth');
    
-// Route::get('/forgot-password', function () {
-//     return view('auth.forgot-password');
-// })->middleware('guest')->name('password.request');
+Route::get('/forgot-password', function () {
+    return view('auth.forgot-password');
+})->middleware('guest')->name('password.request');
+
+Route::post('/forgot-password', [UserController::class, 'requestReset'])->name('password.email')->middleware('guest');
+
+Route::get('/reset-password/{token}', function (string $token) {
+    return view('auth.reset-password', ['token' => $token]);
+})->middleware('guest')->name('password.reset');
+
+Route::post('/reset-password', [UserController::class, 'resetPass'])->name('password.update')->middleware('guest');
