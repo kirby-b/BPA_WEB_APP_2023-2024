@@ -79,14 +79,14 @@ class UserController extends Controller
         // Returns error for only under email so it says only "Invalid Credentials". This is for security reasons
     }
 
-    public function getUserByEmail(Request $request)
-    {
-        $user = User::where('email', '=', $request->email)->first();
+    // public function getUserByEmail(Request $request)
+    // {
+    //     $user = User::where('email', '=', $request->email)->first();
 
-        $user->password = bcrypt($request->password);
-        $user->save();
+    //     $user->password = bcrypt($request->password);
+    //     $user->save();
 
-    }
+    // }
 
     public function deleteUser(Request $request)
     {
