@@ -6,10 +6,9 @@
                 <!-- Text Section -->
                 <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg flex justify-center items-center">
                     <div class="text-xl font-sans m-4">
-                        <p class="text-xl mb-1">Account Termination</p>
-                        <p class="text-base mb-1">To confirm please put in your name, username, and password</p>
+                        <p class="text-xl mb-1">Reset Password</p>
                         <!--Goes to the authenticate route and then to the UserController-->
-                        <form method="POST" action="/delete">
+                        <form method="POST" action="/reset-password">
                             @csrf <!--Makes it so people cant use scripts against your site-->
                             <div class="items-center">
                                 <label class="text-lg" for="passord2">Password:</label><br>
@@ -29,6 +28,9 @@
                                     <p class="text-red-500 text-xs mt-2">{{$message}}</p>
                                 @enderror
                                 <br>
+                                <div class= "">
+                                    <input class="font-Preahvihear text-xl no-underline border-none cursor-pointer text-red-600 hover:text-blue-800" type="submit" id="submit" name="submit" value="Save New Password">
+                                </div>
                                 <!--Gets your input and tries to verify your account info. endError sections determine what will happen if they input the
                                 wrong info -->
                             </div>
