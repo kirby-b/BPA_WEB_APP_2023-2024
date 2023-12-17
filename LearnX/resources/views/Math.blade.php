@@ -24,7 +24,7 @@
                                 <br>
                                 <div>Shapes & Colors</div>
                                 <br>
-                                <div>Probability</div>
+                                <div>Probability & Patterns</div>
                                 <br>
                                 <div>Elementary Math</div>
                                 <br>
@@ -34,9 +34,9 @@
                                 <br>
                                 <div>Staticstics</div>
                                 <br> 
-                                <div>Fractions, Decimals, and Precentages</div>
+                                <div>Fractions, Decimals, & Precentages</div>
                                 <br>
-                                <div>Algebra(I and II)</div><!--make link to a page where they choose-->
+                                <div>Algebra(I & II)</div><!--make link to a page where they choose-->
                                 <br>
                                 <div>Geometry</div>
                                 <br>
