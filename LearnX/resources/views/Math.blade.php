@@ -36,7 +36,7 @@
                                 <br> 
                                 <div>Fractions, Decimals, and Precentages</div>
                                 <br>
-                                <div>Alagrbra(I and II)</div><!--make link to a page where they choose-->
+                                <div>Algebra(I and II)</div><!--make link to a page where they choose-->
                                 <br>
                                 <div>Geometry</div>
                                 <br>
