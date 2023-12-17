@@ -24,8 +24,13 @@
                             <span class="font-black">History:</span><br>
                             <b>Timeline</b>
                         </div>
-
-                        <!--you, me, dog, etc-->
+                         {{-- Drag boxes to correct place on timeline
+                            Links for help:
+                            https://www.w3schools.com/howto/howto_js_draggable.asp
+                            https://stackoverflow.com/questions/49113948/create-box-that-allows-draggable-elements-to-be-dropped-in-it-using-js
+                            https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/draggable
+                            https://mdbootstrap.com/docs/standard/plugins/drag-and-drop/
+                            https://www.w3schools.com/TAGS/att_draggable.asp --}}
                     </p>
                 </div>
             </div>
