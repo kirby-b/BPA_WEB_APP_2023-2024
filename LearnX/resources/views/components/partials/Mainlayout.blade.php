@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="LearnX About">
     <meta name="keywords" content="Laravel">
-    <meta name="author" content="Brodie Kirby And Adelaide Meisel">
+    <meta name="author" content="Brodie Kirby & Adelaide Meisel">
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
     @vite('resources/css/app.css')
 </head>
