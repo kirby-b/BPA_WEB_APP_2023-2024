@@ -32,11 +32,6 @@ Route::get('/GradeBook', function () {
     return view('Gradebook');
 })->name("page.gradebook");
 
-//Goes to the Password Reset Page
-Route::get('/forgotPassword', function () {
-    return view('ForgotPassword');
-})->name("page.reset.pas");
-
 //Goes to the Donations Page
 Route::get('/donations', function () {
     return view('donate');
