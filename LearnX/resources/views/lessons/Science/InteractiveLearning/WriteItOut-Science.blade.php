@@ -24,8 +24,7 @@
                             <span class="font-black">Science:</span><br>
                             <b>Write It Out</b>
                         </div>
-
-                        <!--you, me, dog, etc-->
+                        {{-- Fill in the blanks and short answers --}}
                     </p>
                 </div>
             </div>

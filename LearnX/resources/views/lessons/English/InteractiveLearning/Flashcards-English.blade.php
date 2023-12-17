@@ -24,8 +24,7 @@
                             <span class="font-black">English:</span><br>
                             <b>Flash Cards</b>
                         </div>
-
-                        <!--you, me, dog, etc-->
+                        {{-- Generate a quizlet essentially --}}
                     </p>
                 </div>
             </div>

@@ -24,8 +24,7 @@
                             <span class="font-black">Math:</span><br>
                             <b>Learning Fun</b>
                         </div>
-
-                        <!--you, me, dog, etc-->
+                        {{-- Put questions here in mutiple choice format --}}
                     </p>
                 </div>
             </div>
