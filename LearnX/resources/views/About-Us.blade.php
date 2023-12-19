@@ -1,7 +1,8 @@
-<x-partials.Baselayout>
+<x-partials.Baselayout><!--Calls the layout to render top and bottom of page-->
     <div class="bg-gray-100 py-10">
         <div class="container mx-auto px-4">
             <div class="flex flex-col justify-center items-center md:space-x-6">
+                <!-- Scarletts Section-->
                 <div class="flex flex-col md:flex-row justify-center items-center md:space-x-6">
                     <!-- Image Section -->
                     <div class="md:w-1/2 p-4">
@@ -28,6 +29,7 @@
                         </p>
                     </div>
                 </div>
+                <!-- Brodies Section-->
                 <div class="flex flex-col md:flex-row justify-center items-center md:space-x-6">
                     <!-- Image Section -->
                     <div class="md:w-1/2 p-4">
@@ -55,6 +57,7 @@
                         </p>
                     </div>
                 </div>
+                <!-- Camerons Section-->
                 <div class="flex flex-col md:flex-row justify-center items-center md:space-x-6">
                     <!-- Image Section -->
                     <div class="md:w-1/2 p-4">
@@ -81,6 +84,7 @@
                         </p>
                     </div>
                 </div>
+                <!-- Thomas Section-->
                 <div class="flex flex-col md:flex-row justify-center items-center md:space-x-6">
                     <!-- Image Section -->
                     <div class="md:w-1/2 p-4">

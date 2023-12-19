@@ -1,4 +1,4 @@
-<x-partials.UserLayout>
+<x-partials.UserLayout><!--Calls the layout to render top and bottom of page-->
     <h1>This is temporarily how all views will be accessed. In time a way to render based on permissions will be used.</h1>
     <form method="POST" action="/logout">
         @csrf
