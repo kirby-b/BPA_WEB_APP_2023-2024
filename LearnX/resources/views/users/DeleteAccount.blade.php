@@ -1,4 +1,4 @@
-<x-partials.Baselayout>
+<x-partials.Baselayout><!--Calls the layout to render top and bottom of page-->
     <div class="bg-gray-100 py-10">
         <div class="container mx-auto px-4">
             <div class="flex flex-col md:flex-row justify-center items-center md:space-x-6">
@@ -8,18 +8,18 @@
                     <div class="text-xl font-sans m-4">
                         <p class="text-xl mb-1">Account Termination</p>
                         <p class="text-base mb-1">To confirm please put in your name, username, and password</p>
-                        <!--Goes to the authenticate route and then to the UserController-->
+                        <!--Goes to the delete route and then to the UserController-->
                         <form method="POST" action="/delete">
                             @csrf <!--Makes it so people cant use scripts against your site-->
                             <div class="items-center">
-                                <div>
+                                <div><!--Gets email-->
                                     <input class="w-75 h-15 border-black border-solid border-2 p-3 text-lg" type="text" id="email" name="email" placeholder="Email" value="{{old('email')}}">
                                     @error('email')
                                         <p class="text-red-500 text-xs mt-2">{{$message}}</p>
                                     @enderror
                                 </div>
                                 <br>
-                                <div>
+                                <div><!--Gets password-->
                                     <input class="w-75 h-15 border-black border-solid border-2 p-3 text-lg" type="password" id="password" name="password" placeholder="Password" value="{{old('password')}}">
                                     @error('password')
                                         <p class="text-red-500 text-xs mt-2">{{$message}}</p>

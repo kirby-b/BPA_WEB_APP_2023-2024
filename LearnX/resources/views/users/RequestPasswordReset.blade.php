@@ -1,4 +1,4 @@
-<x-partials.Baselayout>
+<x-partials.Baselayout><!--Calls the layout to render top and bottom of page-->
     <div class="bg-gray-100 py-10">
         <div class="container mx-auto px-4">
             <div class="flex flex-col md:flex-row justify-center items-center md:space-x-6">
@@ -8,13 +8,13 @@
                     <div class="text-xl font-sans m-4">
                         <p class="text-xl mb-1">Password Reset</p>
                         <p class="text-base mb-1">Please input your email</p>
-                        <!--Goes to the authenticate route and then to the UserController-->
+                        <!--Goes to the reset route and then to the UserController-->
                         <form method="POST" action="/forgot-password">
                             @csrf <!--Makes it so people cant use scripts against your site-->
                             <div class="items-center">
                                 <div>
                                     <input class="w-75 h-15 border-black border-solid border-2 p-3 text-lg" type="text" id="email" name="email" placeholder="Email" value="{{old('email')}}">
-                                    @error('email')
+                                    @error('email')<!--Email and sends link for password-->
                                         <p class="text-red-500 text-xs mt-2">{{$message}}</p>
                                     @enderror
                                 </div>

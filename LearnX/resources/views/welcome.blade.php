@@ -1,4 +1,4 @@
-<x-partials.Mainlayout>
+<x-partials.Mainlayout><!--Calls the layout to render top and bottom of page-->
     <div class="bg-gray-100 py-10">
         <div class="container mx-auto px-4">
             <!--Main Section-->
@@ -22,7 +22,7 @@
                         out of their learning. We make our system user-friendly so you can get the most out of our site.
                         <br><br>
                         We hope you enjoy LearnX!
-                        <a href="{{ route('signin') }}" class="text-blue-600 hover:text-blue-800">Click here</a>
+                        <a href="{{ route('signin') }}" class="text-blue-600 hover:text-blue-800">Click here</a> <!--Goes to sign in page-->
                         to make a new account.
                     </p>
                 </div>
@@ -46,7 +46,6 @@
                             <!-- Testimonial image -->
                             <div class="relative h-32 [mask-image:_linear-gradient(0deg,transparent,theme(colors.white)_40%,theme(colors.white))]">
                                 <div class="absolute top-0 left-1/2 -translate-x-1/2 w-[480px] h-[480px] -z-10 pointer-events-none before:rounded-full rounded-full before:absolute before:inset-0 before:bg-gradient-to-b before:from-slate-400/20 before:to-transparent before:to-20% after:rounded-full after:absolute after:inset-0 after:bg-slate-900 after:m-px before:-z-20 after:-z-20">
-                                    <!-- Alpine.js template for testimonial images: https://github.com/alpinejs/alpine#x-for -->
                                     <template x-for="(item, index) in items" :key="index">
                                         <div
                                             x-show="active === index"
@@ -66,7 +65,6 @@
                             <!-- Text -->
                             <div class="mb-10">
                                 <div class="relative flex flex-col transition-all duration-150 delay-300 ease-in-out" x-ref="testimonials">
-                                    <!-- Alpine.js template for testimonials: https://github.com/alpinejs/alpine#x-for -->
                                     <template x-for="(item, index) in items" :key="index">
                                         <div
                                             x-show="active === index"
@@ -84,7 +82,6 @@
                             </div>
                             <!-- Buttons -->
                             <div class="flex flex-wrap justify-center -m-1.5">
-                                <!-- Alpine.js template for buttons: https://github.com/alpinejs/alpine#x-for -->
                                 <template x-for="(item, index) in items" :key="index">
                                     <button
                                         class="btn-sm m-1.5 text-xs py-1.5 text-slate-300 transition duration-150 ease-in-out [background:linear-gradient(theme(colors.slate.900),_theme(colors.slate.900))_padding-box,_conic-gradient(theme(colors.slate.400),_theme(colors.slate.700)_25%,_theme(colors.slate.700)_75%,_theme(colors.slate.400)_100%)_border-box] relative before:absolute before:inset-0 before:bg-slate-800/30 before:rounded-full before:pointer-events-none"
@@ -98,7 +95,7 @@
                                 </template>
                             </div>
                         </div>
-                        <!-- Carousel data and functionality: https://github.com/alpinejs/alpine -->
+                        <!-- Carousel data and functionality -->
                         <script>
                             document.addEventListener('alpine:init', () => {
                                 Alpine.data('carousel', () => ({

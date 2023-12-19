@@ -1,4 +1,4 @@
-<x-partials.UserLayout>
+<x-partials.UserLayout><!--Calls the layout to render top and bottom of page-->
     <div class="bg-gray-100 py-10">
         <div class="container mx-auto px-4">
             <div class="flex flex-col md:flex-row justify-center items-center md:space-x-6"><!--Makes it a flex so the page is responsive-->
@@ -19,6 +19,7 @@
                             <b>SCIENCE</b>
                         </div>
                         <div class="flex flex-col"> 
+                            <!--Route links for related pages-->
                             <div class="font-sans w-50/100 float-right">
                                 <a href="{{ route('page.earth') }}" class="hover:text-purple-300">Earth</a><br>
                                 <br>
