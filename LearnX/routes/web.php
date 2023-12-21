@@ -422,7 +422,7 @@ Route::post('/users/authenticate', [UserController::class, 'authenticate']);
 Route::post('/delete', [UserController::class, 'deleteUser'])->name('deleteUser')->middleware('auth');
 
 //Goes to forgot password page
-Route::get('/forgot-password', function () {
+Route::get('/forgotpassword', function () {
     return view('users/RequestPasswordReset');
 })->middleware('guest')->name('password.request');
 // Route::get('/forgot-password', function () {

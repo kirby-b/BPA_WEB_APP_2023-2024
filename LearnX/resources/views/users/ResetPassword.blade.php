@@ -19,9 +19,6 @@
                                     @enderror
                                 </div>
                                 <br>
-                                <div class= "">
-                                    <input class="font-Preahvihear text-xl no-underline border-none cursor-pointer text-red-600 hover:text-blue-800" type="submit" id="submit" name="submit" value="Terminate Account">
-                                </div>
                                 <label class="text-lg" for="passord2">Confirm Password:</label><br><!--Confirms password with special name type-->
                                 <input class="max-w-75 max-h-15 border-black border-solid border-2 p-3 text-2xl" type="password" id="password2" name="password_confirmation" placeholder="Password123456!" value="{{old('password_confirmation')}}"><br>
                                 @error('password_confirmation')
