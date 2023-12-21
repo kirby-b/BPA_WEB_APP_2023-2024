@@ -45,7 +45,7 @@
                         <div class="text-center" x-data="carousel">
                             <!-- Testimonial image -->
                             <div class="relative h-32 [mask-image:_linear-gradient(0deg,transparent,theme(colors.white)_40%,theme(colors.white))]">
-                                <div class="absolute top-0 left-1/2 -translate-x-1/2 w-[480px] h-[480px] -z-10 pointer-events-none before:rounded-full rounded-full before:absolute before:inset-0 before:bg-gradient-to-b before:from-slate-400/20 before:to-transparent before:to-20% after:rounded-full after:absolute after:inset-0 after:bg-slate-900 after:m-px before:-z-20 after:-z-20">
+                                <div class="absolute top-0 left-1/2 -translate-x-1/2 w-[480px] h-[480px] -z-10 pointer-events-none before:rounded-full rounded-full before:absolute before:inset-0 before:bg-gradient-to-b before:from-violet-400/20 before:to-transparent before:to-20% after:rounded-full after:absolute after:inset-0 after:bg-violet-900 after:m-px before:-z-20 after:-z-20">
                                     <template x-for="(item, index) in items" :key="index">
                                         <div
                                             x-show="active === index"
