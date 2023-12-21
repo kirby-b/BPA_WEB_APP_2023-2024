@@ -355,46 +355,46 @@ Route::get('/space', function (){
 
 //Interactive-History
 Route::get('/History-LearningFun', function (){
-    return view('lessons/History/LearnFun-History');
+    return view('lessons/History/InteractiveLearning/LearnFun-History');
 })->name("page.learnfun.hist");
 Route::get('/History-Timeline', function (){
-    return view('lessons/History/Timeline-History');
+    return view('lessons/History/InteractiveLearning/Timeline-History');
 })->name("page.timeline.hist");
 Route::get('/History-Write', function (){
-    return view('lessons/History/WriteItOut-History');
+    return view('lessons/History/InteractiveLearning/WriteItOut-History');
 })->name("page.writeout.hist");
 
 //Interactive-Science
 Route::get('/Science-FlashCards', function (){
-    return view('lessons/Science/FlashCards-Science');
+    return view('lessons/Science/InteractiveLearning/Flashcards-Science');
 })->name("page.flashcards.science");
 Route::get('/Science-LearningFun', function (){
-    return view('lessons/Science/LearnFun-Science');
+    return view('lessons/Science/InteractiveLearning/LearnFun-Science');
 })->name("page.learnfun.science");
 Route::get('/Science-Write', function (){
-    return view('lessons/Science/WriteItOut-Science');
+    return view('lessons/Science/InteractiveLearning/WriteItOut-Science');
 })->name("page.writeout.science");
 
 //Interactive-English
 Route::get('/English-Write', function (){
-    return view('lessons/English/WriteItOut-English');
+    return view('lessons/English/InteractiveLearning/WriteItOut-English');
 })->name("page.writeout.english");
 Route::get('/English-LearningFun', function (){
-    return view('lessons/English/LearnFun-English');
+    return view('lessons/English/InteractiveLearning/LearnFun-English');
 })->name("page.learnfun.english");
 Route::get('/English-FlashCards', function (){
-    return view('lessons/English/FlashCards-English');
+    return view('lessons/English/InteractiveLearning/Flashcards-English');
 })->name("page.flashcards.english");
 
 //Interactive-Math
 Route::get('/Math-LearningFun', function (){
-    return view('lessons/Math/LearnFun-Math');
+    return view('lessons/Math/InteractiveLearning/LearnFun-Math');
 })->name("page.learnfun.math");
 Route::get('/Math-FlashCards', function (){
-    return view('lessons/Math/FlashCards-Math');
+    return view('lessons/Math/InteractiveLearning/Flashcards-Math');
 })->name("page.flashcards.math");
 Route::get('/Math-Solve', function (){
-    return view('lessons/Math/SolveIt-Math');
+    return view('lessons/Math/InteractiveLearning/SolveIt-Math');
 })->name("page.solveit.math");
 
 
