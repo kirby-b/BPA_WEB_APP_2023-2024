@@ -35,6 +35,19 @@
                     <p class="text-xl font-sans m-4">
                         <span class="font-black">Science:</span><br>
                         <span class="font-bold">Animals:</span><br>
+                        Anatomy and Physiology: This branch delves into the structure and function of animals' bodies, studying organs, tissues, and systems. Understanding how different body parts function allows scientists to comprehend how animals adapt to their environments.<br>
+
+                        Behavioral Ecology: Investigates how animals interact with each other and their environment, examining behaviors such as mating rituals, communication, migration, and foraging strategies. This field also explores the adaptive significance of behavior.<br>
+
+                        Evolutionary Biology: Explores the origins and changes in animal species over time. Evolutionary biologists study how species evolve, diversify, and adapt to their changing environments.<br>
+
+                        Taxonomy and Systematics: Focuses on classifying and categorizing organisms based on their evolutionary relationships. Taxonomists classify animals into groups to understand their diversity and evolutionary history.<br>
+
+                        Ecology: Studies the interactions between animals and their environment, including their relationships with other organisms, their habitats, and the impact of environmental changes on their survival.<br>
+
+                        Conservation Biology: Aims to understand and protect endangered species and ecosystems. Conservation biologists work to preserve biodiversity and prevent species extinction.<br>
+
+                        Ethology: Investigates animal behavior in a natural environment, focusing on instincts, learning, and communication. Ethologists study animal behavior without manipulating their surroundings.<br>
                     </p>
                 </div>
             </div>
