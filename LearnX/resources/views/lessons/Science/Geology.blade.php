@@ -35,6 +35,21 @@
                     <p class="text-xl font-sans m-4">
                         <span class="font-black">Science:</span><br>
                         <span class="font-bold">Geology:</span><br>
+                        Physical Geology: This branch examines the Earth's materials, including minerals and rocks, and studies the processes that form and modify the Earth's surface, such as plate tectonics, erosion, and deposition.<br>
+
+                        Mineralogy: Mineralogy focuses on the study of minerals—their properties, compositions, structures, and occurrences in nature. Minerals are the building blocks of rocks and play a crucial role in understanding Earth's processes.<br>
+
+                        Petrology: Petrology studies the origin, composition, and classification of rocks. It delves into how rocks form, the conditions under which they are created, and the processes that transform them over time.<br>
+
+                        Structural Geology: This field examines the deformation of rocks and the forces that cause them. It involves studying folds, faults, and other structural features to understand the Earth's crustal movements.<br>
+
+                        Geomorphology: Geomorphologists study the landforms and the processes that shape the Earth's surface, including erosion, weathering, rivers, glaciers, and tectonic activity.<br>
+
+                        Paleontology: Paleontology is the study of ancient life forms through fossils. It helps in understanding the history of life on Earth and how life has evolved over millions of years.<br>
+
+                        Sedimentology and Stratigraphy: These disciplines deal with the study of sedimentary rocks, their formation, the processes involved in their deposition, and the interpretation of rock layers (strata) to understand Earth's history.<br>
+
+                        Geological Time Scale: Geologists use various dating techniques to establish the geological time scale, which helps in understanding the sequence of events and the relative ages of rocks and geological formations.<br>
                     </p>
                 </div>
             </div>
