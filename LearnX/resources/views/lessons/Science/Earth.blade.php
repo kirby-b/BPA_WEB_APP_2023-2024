@@ -35,6 +35,19 @@
                     <p class="text-xl font-sans m-4">
                         <span class="font-black">Science:</span><br>
                         <span class="font-bold">Earth:</span><br>
+                        Geology: Geology is the study of the Earth's solid materials, its structure, composition, and the processes that shape it. This field examines rocks, minerals, fossils, and the forces, such as plate tectonics, that shape the Earth's surface.<br>
+
+                        Meteorology: Meteorology focuses on the study of the Earth's atmosphere, weather patterns, and atmospheric phenomena. Meteorologists analyze weather processes, climate patterns, atmospheric circulation, and the factors influencing weather changes.<br>
+
+                        Oceanography: Oceanography is the study of the Earth's oceans and seas, including their physical and biological properties, movements, currents, marine life, and the interactions between oceans and the atmosphere, land, and life.<br>
+
+                        Environmental Science: This interdisciplinary field examines the interactions between the Earth's various systems and the impact of human activities on the environment. It includes the study of pollution, conservation, ecosystems, and sustainability.<br>
+
+                        Geophysics: Geophysics applies principles of physics to study the Earth's physical properties, such as its magnetic and gravitational fields, seismic activities, and the internal structure of the planet.<br>
+
+                        Hydrology: Hydrology deals with the study of water distribution, movement, and properties on Earth. It involves analyzing the water cycle, groundwater, surface water, and the influence of water on landscapes and ecosystems.<br>
+
+                        Geomorphology: This field studies the formation and evolution of landforms, such as mountains, valleys, rivers, and glaciers, and the processes that shape the Earth's surface over time.<br>
                     </p>
                 </div>
             </div>
