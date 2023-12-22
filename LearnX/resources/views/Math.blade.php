@@ -21,27 +21,27 @@
                             <!--Route links for related pages-->
                             <div class="font-sans w-50/100 float-right">
                                 <br>
-                                <div>Numbers</div>
+                                <a href="{{ route('page.numbers') }}" class="hover:text-purple-300">Numbers</a><br>
                                 <br>
-                                <div>Shapes & Colors</div>
+                                <a href="{{ route('page.shapesncolors') }}" class="hover:text-purple-300">Shapes & Colors</a><br>
                                 <br>
-                                <div>Probability & Patterns</div>
+                                <a href="{{ route('page.probNstats') }}" class="hover:text-purple-300">Probability & Statistics</a><br>
                                 <br>
-                                <div>Elementary Math</div>
+                                <a href="{{ route('page.elementary') }}" class="hover:text-purple-300">Elementary Math</a><br>
                                 <br>
-                                <div>Graphing</div>
+                                <a href="{{ route('page.graphing') }}" class="hover:text-purple-300">Graphing</a><br>
                             </div> 
                             <div class="font-sans w-50/100 float-left">
                                 <br>
-                                <div>Staticstics</div>
+                                <a href="{{ route('page.patterns') }}" class="hover:text-purple-300">Patterns</a><br>
                                 <br> 
-                                <div>Fractions, Decimals, & Precentages</div>
+                                <a href="{{ route('page.FDP') }}" class="hover:text-purple-300">Fractions, Decimals, & Precentages</a><br>
                                 <br>
-                                <div>Algebra(I & II)</div><!--make link to a page where they choose-->
+                                <a href="{{ route('page.algebra') }}" class="hover:text-purple-300">Algebra</a><br>
                                 <br>
-                                <div>Geometry</div>
+                                <a href="{{ route('page.geometry') }}" class="hover:text-purple-300">Geometry</a><br>
                                 <br>
-                                <div>Calculus</div>
+                                <a href="{{ route('page.calculus') }}" class="hover:text-purple-300">Calculus</a><br>
                                 <br>
                             </div>
                         </div>
