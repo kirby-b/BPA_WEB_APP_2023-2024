@@ -12,7 +12,7 @@
                         <br>
                         <a href="{{ route('page.space') }}" class="hover:text-purple-300">Space</a><br>
                         <br>
-                        <a href="{{ route('page.life') }}" class="hover:text-purple-300">Life</a><br>
+                        <a href="{{ route('page.biology') }}" class="hover:text-purple-300">Biology</a><br>
                         <br>
                         <a href="{{ route('page.animals') }}" class="hover:text-purple-300">Animals</a><br>
                         <br>
@@ -35,6 +35,21 @@
                     <p class="text-xl font-sans m-4">
                         <span class="font-black">Science:</span><br>
                         <span class="font-bold">Psychology:</span><br>
+                        Clinical Psychology: Clinical psychology focuses on understanding, diagnosing, and treating mental health disorders. Clinical psychologists work with individuals to address issues such as depression, anxiety, schizophrenia, and other psychological conditions.<br>
+
+                        Cognitive Psychology: Cognitive psychology explores mental processes such as perception, memory, thinking, problem-solving, language, and decision-making. It investigates how humans acquire, process, store, and use information.<br>
+
+                        Developmental Psychology: Developmental psychology studies human development across the lifespan, examining physical, cognitive, social, and emotional changes from infancy to old age. It explores how individuals grow, learn, and adapt over time.<br>
+
+                        Social Psychology: Social psychology investigates how individuals' thoughts, feelings, and behaviors are influenced by social interactions, group dynamics, attitudes, conformity, persuasion, and prejudice.<br>
+
+                        Biological Psychology: Biological psychology, also known as biopsychology or neuroscience, explores the biological basis of behavior, studying how the brain, nervous system, hormones, and genetics influence thoughts, emotions, and actions.<br>
+
+                        Industrial-Organizational Psychology: This field applies psychological principles to workplace settings, focusing on topics like employee motivation, leadership, team dynamics, organizational behavior, and human resource management.<br>
+
+                        Educational Psychology: Educational psychology studies learning processes, teaching methods, educational interventions, and the psychological factors that influence learning and academic performance.<br>
+
+                        Forensic Psychology: Forensic psychology applies psychological principles within the legal and criminal justice systems, assessing mental health, evaluating witnesses, profiling criminals, and offering expertise in legal cases.<br>
                     </p>
                 </div>
             </div>
