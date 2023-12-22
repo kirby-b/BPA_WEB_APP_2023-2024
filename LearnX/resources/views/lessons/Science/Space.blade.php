@@ -12,7 +12,7 @@
                         <br>
                         <a href="{{ route('page.space') }}" class="hover:text-purple-300">Space</a><br>
                         <br>
-                        <a href="{{ route('page.life') }}" class="hover:text-purple-300">Life</a><br>
+                        <a href="{{ route('page.biology') }}" class="hover:text-purple-300">Biology</a><br>
                         <br>
                         <a href="{{ route('page.animals') }}" class="hover:text-purple-300">Animals</a><br>
                         <br>
@@ -35,6 +35,19 @@
                     <p class="text-xl font-sans m-4">
                         <span class="font-black">Science:</span><br>
                         <span class="font-bold">Space:</span><br>
+                        Observational Astronomy: Observational astronomy involves the direct observation and study of celestial objects using telescopes and other instruments. It includes observing visible light, radio waves, infrared, ultraviolet, X-rays, and gamma rays emitted by objects in space.<br>
+
+                        Planetary Science: Planetary science focuses on the study of planets, moons, asteroids, comets, and other objects within our solar system. It explores their compositions, structures, surfaces, atmospheres, and potential for hosting life.<br>
+
+                        Stellar Astronomy: Stellar astronomy examines stars, their life cycles, properties, classifications, and evolution. It explores how stars form, shine, and eventually transform into various types, such as white dwarfs, neutron stars, or black holes.<br>
+
+                        Galactic Astronomy: Galactic astronomy studies galaxies, including their structures, compositions, movements, and interactions. It explores the formation and evolution of galaxies, from small dwarf galaxies to massive spiral and elliptical galaxies.<br>
+
+                        Cosmology: Cosmology investigates the origins, structure, evolution, and fate of the universe as a whole. It addresses questions about the Big Bang theory, the nature of dark matter and dark energy, the large-scale structure of the cosmos, and the possibility of other universes.<br>
+
+                        Astrobiology: Astrobiology explores the possibility of life beyond Earth, examining the conditions required for life to exist on other planets or moons. It investigates extremophiles on Earth and searches for habitable environments in the universe.<br>
+
+                        Space Exploration: Space exploration involves sending probes, telescopes, and spacecraft to explore celestial objects, gather data, and conduct experiments. It includes missions to other planets, moons, asteroids, and the study of cosmic phenomena through space telescopes.<br>
                     </p>
                 </div>
             </div>
