@@ -331,9 +331,9 @@ Route::get('/chemistry', function (){
 Route::get('/earth', function (){
     return view('lessons/Science/Earth');
 })->name("page.earth");
-Route::get('/life', function (){
-    return view('lessons/Science/Life');
-})->name("page.life");
+Route::get('/biology', function (){
+    return view('lessons/Science/Biology');
+})->name("page.biology");
 Route::get('/oceans', function (){
     return view('lessons/Science/Oceans');
 })->name("page.oceans");
