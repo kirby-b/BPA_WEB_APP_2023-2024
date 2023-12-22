@@ -12,7 +12,7 @@
                         <br>
                         <a href="{{ route('page.space') }}" class="hover:text-purple-300">Space</a><br>
                         <br>
-                        <a href="{{ route('page.life') }}" class="hover:text-purple-300">Life</a><br>
+                        <a href="{{ route('page.biology') }}" class="hover:text-purple-300">Biology</a><br>
                         <br>
                         <a href="{{ route('page.animals') }}" class="hover:text-purple-300">Animals</a><br>
                         <br>
