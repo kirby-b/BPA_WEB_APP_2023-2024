@@ -35,6 +35,23 @@
                     <p class="text-xl font-sans m-4">
                         <span class="font-black">Science:</span><br>
                         <span class="font-bold">Chemistry:</span><br>
+                        Matter: Everything around us is made up of matter, which comprises atoms and molecules. Chemistry explores the properties of matter and how different substances interact.<br>
+
+                        Elements and Compounds: Elements are the simplest forms of matter, consisting of one type of atom. They combine to form compounds, which are substances made of two or more elements in fixed proportions.<br>
+
+                        Atoms and Molecules: Atoms are the basic units of matter. Chemistry studies their structure, behavior, and how they bond together to form molecules. Understanding atomic and molecular interactions helps explain various chemical phenomena.<br>
+
+                        Chemical Reactions: Chemical reactions involve the transformation of substances into different ones by breaking and forming chemical bonds. Chemistry explains the mechanisms, rates, and energy changes associated with these reactions.<br>
+
+                        States of Matter: Chemistry explores the different states of matter—solid, liquid, gas, and plasma—and the transitions between them. It studies their properties and how they behave under various conditions.<br>
+
+                        Acids and Bases: Acids and bases are important chemical substances with distinct properties. Understanding their behavior helps explain phenomena like pH, corrosion, and reactions in living organisms.<br>
+
+                        Thermodynamics: Focuses on the relationship between heat, energy, and work in chemical reactions and physical processes. It explains the principles governing energy transfer and transformation.<br>
+
+                        Analytical Chemistry: Involves techniques and methods to analyze and identify the composition of substances, determining their quantities and properties.<br>
+
+                        Organic and Inorganic Chemistry: Organic chemistry studies carbon-containing compounds, including those found in living organisms, while inorganic chemistry focuses on non-carbon compounds.<br>
                     </p>
                 </div>
             </div>
