@@ -353,6 +353,38 @@ Route::get('/space', function (){
     return view('lessons/Science/Space');
 })->name("page.space");
 
+//Math
+Route::get('/algebra', function (){
+    return view('lessons/Math/Algebra');
+})->name("page.algebra");
+Route::get('/calculus', function (){
+    return view('lessons/Math/Calculus');
+})->name("page.calculus");
+Route::get('/elementary', function (){
+    return view('lessons/Math/ElementaryMath');
+})->name("page.elementary");
+Route::get('/fractions-decimals-and-percentages', function (){
+    return view('lessons/Math/FractionsDecimalsNPercentages');
+})->name("page.FDP");
+Route::get('/geometry', function (){
+    return view('lessons/Math/Geology');
+})->name("page.geology");
+Route::get('/graphing', function (){
+    return view('lessons/Math/Graphing');
+})->name("page.graphing");
+Route::get('/number', function (){
+    return view('lessons/Math/Number');
+})->name("page.number");
+Route::get('/patterns', function (){
+    return view('lessons/Math/Patterns');
+})->name("page.patterns");
+Route::get('/probability-and-statistics', function (){
+    return view('lessons/Math/ProbabilityNStats');
+})->name("page.probNstats");
+Route::get('/shapes-and-colors', function (){
+    return view('lessons/Math/ShapesNColors');
+})->name("page.shapesncolors");
+
 //Interactive-History
 Route::get('/History-LearningFun', function (){
     return view('lessons/History/InteractiveLearning/LearnFun-History');
