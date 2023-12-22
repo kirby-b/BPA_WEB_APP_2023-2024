@@ -37,21 +37,27 @@
                         <b>DEFINITIONS</b>
                     </div>
                     <p class="text-2xl font-sans m-4">
-                        Ocean: A massive body of salt water.<br>
-                        Law: A rule written for society to keep it in order.<br>
-                        Election: When a society decides who is the leader.<br>
-                        Hieroglyphic: A form of language written with small pictures and symbols meant to represent sounds and words.<br>
-                        Civilization: A society that has become advanced in one way or another.<br>
                         Agriculture: Harvesting and growing plants and/or animals for food and other needs.<br>
                         Astronomy: The study of stars and planets.<br>
-                        Hierarchy: The social order.One group will be on top and another will be on the bottom.<br>
+                        Biology: The study of organisms and how they work.<br>
+                        Chemistry: The study of how different elements interact with each other.<br>
+                        Century: 100 hundred years<br>
+                        Civilization: A society that has become advanced in one way or another.<br>
                         Colosseum: A large theater. Used as a place of entertainment.<br>
-                        Dynasty: A line of leaders who are related to each other.<br>
-                        Plague: A virus, bacteria, or other such thing that causes massive amounts of harm and death.<br>
-                        Revolution: When a society decides to over throw something and replace it(usually a leader)<br>
-                        Treaty: When a group of diplomats sit down and make a deal for a collective goal.<br>
                         Crisis: A very ergent and harmful thing/time.<br>
+                        Dynasty: A line of leaders who are related to each other.<br>
+                        Election: When a society decides who is the leader.<br>
+                        Genetics: The study of how genes effect reproduction.<br>
+                        Hierarchy: The social order.One group will be on top and another will be on the bottom.<br>
+                        Hieroglyphic: A form of language written with small pictures and symbols meant to represent sounds and words.<br>
+                        Law: A rule written for society to keep it in order.<br>
+                        Ocean: A massive body of salt water.<br>
+                        Physics: The scientific study of matter, energy, and the fundamental forces that govern the universe.<br>
+                        Plague: A virus, bacteria, or other such thing that causes massive amounts of harm and death.<br>
+                        Psychology: The scientific study of the human mind and behavior.<br>
+                        Revolution: When a society decides to over throw something and replace it(usually a leader)<br>
                         Settlement: When a group of people move somewhere else and build a new society.<br>
+                        Treaty: When a group of diplomats sit down and make a deal for a collective goal.<br>
                     </p>
                 </div>
             </div> 
