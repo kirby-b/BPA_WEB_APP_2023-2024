@@ -49,7 +49,7 @@
                         <ul>
                             <li>Addition (+): Combining numbers.</li>
                             <li>Subtraction (-): Taking away one number from another.</li>
-                            <li>Multiplication (×): Repeated addition or grouping.</li>
+                            <li>Multiplication (x): Repeated addition or grouping.</li>
                             <li>Division (÷): Sharing or splitting into equal parts.</li>
                             <li>Exponents and Roots: Representing repeated multiplication or inverse operations of raising to a power.</li>
                         </ul>
