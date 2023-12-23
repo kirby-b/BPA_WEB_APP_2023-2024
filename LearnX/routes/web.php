@@ -381,8 +381,10 @@ Route::get('/patterns', function (){
 Route::get('/probability-and-statistics', function (){
     return view('lessons/Math/ProbabilityNStats');
 })->name("page.probNstats");
+
+//Other?
 Route::get('/shapes-and-colors', function (){
-    return view('lessons/Math/ShapesNColors');
+    return view('lessons/ShapesNColors');
 })->name("page.shapesncolors");
 
 //Interactive-History
