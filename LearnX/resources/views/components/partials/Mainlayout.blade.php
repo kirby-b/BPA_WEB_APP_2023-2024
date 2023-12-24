@@ -20,17 +20,18 @@
             </div>
 
             <!-- Links on the right -->
-            <nav class="flex space-x-4">
-                <a href="#reviews" class="hover:text-purple-300">REVIEWS</a>
-                <a href="#whyus" class="hover:text-purple-300">WHY US</a>
-                <a href="#faq" class="hover:text-purple-300">FAQ</a>
-            </nav>
-
-            <nav class="flex space-x-4">
-                <a href="{{ route('signin') }}" class="text-lg hover:text-purple-300">Sign-In</a>
-                <a href="{{ route('signup') }}" class="text-lg hover:text-purple-300">Create New Account</a>
-                <a href="{{ route('password.request') }}" class="text-lg hover:text-purple-300">Reset Password</a>
-            </nav>
+            <div class="flex md:flex-row flex-col space-x-4">
+                <nav class="flex space-x-4">
+                    <a href="#reviews" class="md:text-base text-xs hover:text-purple-300">REVIEWS</a>
+                    <a href="#whyus" class="md:text-base text-xs hover:text-purple-300">WHY US</a>
+                    <a href="#faq" class="md:text-base text-xs hover:text-purple-300">FAQ</a>
+                </nav>
+                <nav class="flex space-x-4">
+                    <a href="{{ route('signin') }}" class="md:text-base text-xs hover:text-purple-300">Sign-In</a>
+                    <a href="{{ route('signup') }}" class="md:text-base text-xs hover:text-purple-300">Create New Account</a>
+                    <a href="{{ route('password.request') }}" class="md:text-base text-xs hover:text-purple-300">Reset Password</a>
+                </nav>
+            </div>
         </div>
     </header>
 
