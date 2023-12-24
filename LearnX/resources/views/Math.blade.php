@@ -21,7 +21,7 @@
                             <!--Route links for related pages-->
                             <div class="font-sans w-50/100 float-right">
                                 <br>
-                                <a href="{{ route('page.numbers') }}" class="hover:text-purple-300">Numbers</a><br>
+                                <a href="{{ route('page.number') }}" class="hover:text-purple-300">Numbers</a><br>
                                 <br>
                                 {{-- <a href="{{ route('page.shapesncolors') }}" class="hover:text-purple-300">Shapes & Colors</a><br>
                                 <br> --}}

@@ -367,13 +367,13 @@ Route::get('/fractions-decimals-and-percentages', function (){
     return view('lessons/Math/FractionsDecimalsNPercentages');
 })->name("page.FDP");
 Route::get('/geometry', function (){
-    return view('lessons/Math/Geology');
-})->name("page.geology");
+    return view('lessons/Math/Geometry');
+})->name("page.geometry");
 Route::get('/graphing', function (){
     return view('lessons/Math/Graphing');
 })->name("page.graphing");
 Route::get('/number', function (){
-    return view('lessons/Math/Number');
+    return view('lessons/Math/Numbers');
 })->name("page.number");
 Route::get('/patterns', function (){
     return view('lessons/Math/Patterns');

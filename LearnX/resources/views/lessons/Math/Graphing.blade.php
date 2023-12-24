@@ -8,10 +8,10 @@
                         Math:<br>
                     </p>
                     <p class="text-xl font-sans m-4">
-                        <a href="{{ route('page.numbers') }}" class="hover:text-purple-300">Numbers</a><br>
+                        <a href="{{ route('page.number') }}" class="hover:text-purple-300">Numbers</a><br>
                         <br>
-                        <a href="{{ route('page.shapesncolors') }}" class="hover:text-purple-300">Shapes & Colors</a><br>
-                        <br>
+                        {{-- <a href="{{ route('page.shapesncolors') }}" class="hover:text-purple-300">Shapes & Colors</a><br>
+                        <br> --}}
                         <a href="{{ route('page.probNstats') }}" class="hover:text-purple-300">Probability & Statistics</a><br>
                         <br>
                         <a href="{{ route('page.elementary') }}" class="hover:text-purple-300">Elementary Math</a><br>
