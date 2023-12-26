@@ -33,8 +33,31 @@
                 <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
                     <p class="text-xl font-sans m-4">
                         <span class="font-black">Math:</span><br>
-                        <span class="font-bold">Fractions, Decimals, & Precentages:</span><br>
-                        
+                        <span class="font-bold">Fractions, Decimals, & Percentages:</span><br>
+                        Fractions:
+                        Example: 3/4
+                        The numerator, 3, represents the number of equal parts being considered.
+                        The denominator, 4, represents the total number of equal parts that make up the whole.
+                        Addition and Subtraction: To add or subtract fractions, the denominators need to be the same. If they aren't, you'll need to find a common denominator. Once the denominators are the same, you can add or subtract the numerators while keeping the denominator unchanged.
+                        Multiplication: To multiply fractions, simply multiply the numerators together to get the new numerator and multiply the denominators together to get the new denominator.
+                        Division: To divide one fraction by another, you can multiply the first fraction by the reciprocal (flipped version) of the second fraction.
+
+                        Decimals:
+                        Example: 2.55
+                        The whole number part is 2.
+                        The decimal part is .55.
+                        Addition and Subtraction: Align the decimal points and perform addition or subtraction as you would with whole numbers.
+                        Multiplication: Multiply the numbers as if they were whole numbers and then adjust the decimal point in the product. The total number of decimal places in the product is the sum of the decimal places in the factors.
+                        Division: Perform division as if it were with whole numbers, and then adjust the decimal point in the quotient.
+
+                        Percentages:                   
+                        Percentages are a way of expressing a fraction or a ratio as a portion of 100. The term "percent" means "per hundred" or "out of 100." It's denoted by the symbol "%".
+                        Example: 68% or 39%
+                        Calculations: Percentages are used for calculations involving increases, decreases, discounts, taxes, tips, and interest rates
+                        Comparisons: They're useful for comparing quantities relative to a whole. For instance, if there are 80 boys in a class of 200 students, the percentage of boys is 80/200 x 100% = 40%.
+                        Conversions: Converting between percentages, fractions, and decimals is common. For example, 25% is equivalent to 25/100 as a fraction and 0.25 as a decimal.
+                        Calculating Percentages: To find a percentage of a number, you multiply the number by the percentage written as a decimal. For example, 20% of 150 is 0.20 x 150 = 30.
+                        Percentage Increase or Decrease: When a quantity increases or decreases by a certain percentage, you can calculate the new value by adding or subtracting the appropriate percentage. For instance, a 20% increase in 100 is 100 + (0.20 x 100) = 120
                     </p>
                 </div>
             </div>
