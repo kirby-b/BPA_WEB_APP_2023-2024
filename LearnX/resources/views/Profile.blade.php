@@ -6,7 +6,11 @@
                 <!-- Text Section -->
                 <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
                     <p class="text-xl font-sans m-4">
-                        
+                        Permissions:
+                        Email:
+                        Name:
+                        Joined:
+                        {{-- Put database query values here for the specific user --}}
                     </p>
                 </div>
             </div>
