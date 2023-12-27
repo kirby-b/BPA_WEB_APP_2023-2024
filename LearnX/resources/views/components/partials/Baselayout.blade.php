@@ -37,7 +37,7 @@
                 <a href="{{ route('page.donate') }}" class="hover:text-purple-300">DONATE</a>
             </div><!--Links to other pages-->
     
-            <p class="mt-6 text-sm">© 2023 LearnX. All rights reserved.</p>
+            <p class="mt-6 text-sm">© 2023 LearnX, BAISD Career Center Region 7. All rights reserved. </p>
         </div>
     </footer>
 </body>

@@ -38,7 +38,7 @@
 
     <footer class="bg-gradient-to-r from-green-500 to-purple-500 text-white text-center py-6">
         <div class="max-w-6xl mx-auto px-4">
-            <p class="mt-6 text-sm">© 2023 LearnX. All rights reserved.</p>
+            <p class="mt-6 text-sm">© 2023 LearnX, BAISD Career Center Region 7. All rights reserved.</p>
         </div>
     </footer>
 </body>
