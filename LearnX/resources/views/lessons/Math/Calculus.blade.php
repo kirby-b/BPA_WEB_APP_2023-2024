@@ -34,19 +34,19 @@
                     <p class="text-xl font-sans m-4">
                         <span class="font-black">Math:</span><br>
                         <span class="font-bold">Calculus:</span><br>
-                        Differentiation: This involves the study of rates at which quantities change. It's about finding derivatives, which represent the rate of change of one quantity with respect to another. Derivatives are fundamental in calculus and are used to analyze functions, describe motion, solve optimization problems, and understand the behavior of graphs. For instance, the derivative of a function f(x) gives us the slope of the tangent line to the graph of f(x) at any point.
+                        <span class="font-semibold">Differentiation:</span> This involves the study of rates at which quantities change. It's about finding derivatives, which represent the rate of change of one quantity with respect to another. Derivatives are fundamental in calculus and are used to analyze functions, describe motion, solve optimization problems, and understand the behavior of graphs. For instance, the derivative of a function f(x) gives us the slope of the tangent line to the graph of f(x) at any point.<br>
 
-                        Integration: Integration is the reverse process of differentiation. It involves finding antiderivatives and definite integrals. Integrals represent the accumulation of quantities and are used to compute areas under curves, calculate total quantities, solve problems related to motion, and much more. Definite integrals provide the exact accumulation of a quantity over a specific interval.
+                        <span class="font-semibold">Integration:</span> Integration is the reverse process of differentiation. It involves finding antiderivatives and definite integrals. Integrals represent the accumulation of quantities and are used to compute areas under curves, calculate total quantities, solve problems related to motion, and much more. Definite integrals provide the exact accumulation of a quantity over a specific interval.<br>
 
-                        Calculus has several important concepts and tools:
+                        Calculus has several important concepts and tools:<br>
 
-                        Limits: The foundational concept of calculus. Limits describe the behavior of functions as inputs approach certain values, such as infinity or specific points. They're used in defining derivatives and integrals.
+                        <span class="font-semibold">Limits:</span> The foundational concept of calculus. Limits describe the behavior of functions as inputs approach certain values, such as infinity or specific points. They're used in defining derivatives and integrals.<br>
 
-                        Derivatives: Calculating the rate of change of a function at a given point. The derivative of a function f(x) is denoted as f'(x) or dx/df.
+                        <span class="font-semibold">Derivatives:</span> Calculating the rate of change of a function at a given point. The derivative of a function f(x) is denoted as f'(x) or dx/df.<br>
 
-                        Integrals: The accumulation of quantities or finding the area under a curve. The integral of a function f(x) is denoted as ∫f(x)dx.
+                        <span class="font-semibold">Integrals:</span> The accumulation of quantities or finding the area under a curve. The integral of a function f(x) is denoted as ∫f(x)dx.<br>
 
-                        Applications: Calculus has a wide range of applications in various fields, including physics, engineering, economics, biology, and more. It's used to model and solve problems related to motion, optimization, growth and decay, and many other real-world scenarios.
+                        <span class="font-semibold">Applications:</span> Calculus has a wide range of applications in various fields, including physics, engineering, economics, biology, and more. It's used to model and solve problems related to motion, optimization, growth and decay, and many other real-world scenarios.<br>
                     </p>
                 </div>
             </div>
