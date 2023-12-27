@@ -146,6 +146,11 @@ class UserController extends Controller
                     ? redirect()->route('login')->with('status', __($status))
                     : back()->withErrors(['email' => [__($status)]]);
     }
+
+    public function getProfileInfo(Request $request) {
+    // Get user info by Auth ID
+    }
+    
     //Put a controller here for a page that changes based on whether you are teacher, student, or admin
     // public function getUserPermissions(Request $request)
     // {
