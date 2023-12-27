@@ -147,4 +147,16 @@ class UserController extends Controller
                     ? redirect()->route('login')->with('status', __($status))
                     : back()->withErrors(['email' => [__($status)]]);
     }
+    //Put a controller here for a page that changes based on whether you are teacher, student, or admin
+    // public function getUserPermissions(Request $request)
+    // {
+    //     $user = User:: something to query what they are
+    //
+    //      if user = student:
+    //          return student page(only has the files they added and lesson pdfs)
+    //      if user = teacher:
+    //          return teacher page(student + upload assignments)
+    //      if user = admin:
+    //          return admin page(teacher + deleting stuff that isnt theirs )
+    // }
 }
