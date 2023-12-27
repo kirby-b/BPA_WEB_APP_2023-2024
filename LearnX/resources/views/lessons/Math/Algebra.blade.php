@@ -34,10 +34,10 @@
                     <p class="text-xl font-sans m-4">
                         <span class="font-black">Math:</span><br>
                         <span class="font-bold">Algebra:</span><br>
-                        <span class="font-semibold">Variables and Constants:</span> In algebra, letters (like x, y, z) are used to represent unknown quantities called variables. Constants are known values. Equations combine variables, constants, and mathematical operations (like addition, subtraction, multiplication, division, exponentiation) to express relationships.
-                        <span class="font-semibold">Expressions:</span> Algebraic expressions are combinations of variables, constants, and operators.
-                        <span class="font-semibold">Equations:</span> Equations are statements that assert the equality of two expressions, separated by an equal sign. Solving equations involves finding the values of the variables that make the equation true.
-                        <span class="font-semibold">Graphing:</span>  Algebraic equations and functions can be graphed on coordinate planes, representing relationships visually. This helps in understanding patterns, solutions, and behaviors of functions.
+                        <span class="font-semibold">Variables and Constants:</span> In algebra, letters (like x, y, z) are used to represent unknown quantities called variables. Constants are known values. Equations combine variables, constants, and mathematical operations (like addition, subtraction, multiplication, division, exponentiation) to express relationships.<br>
+                        <span class="font-semibold">Expressions:</span> Algebraic expressions are combinations of variables, constants, and operators.<br>
+                        <span class="font-semibold">Equations:</span> Equations are statements that assert the equality of two expressions, separated by an equal sign. Solving equations involves finding the values of the variables that make the equation true.<br>
+                        <span class="font-semibold">Graphing:</span>  Algebraic equations and functions can be graphed on coordinate planes, representing relationships visually. This helps in understanding patterns, solutions, and behaviors of functions.<br>
                     </p>
                 </div>
             </div>
