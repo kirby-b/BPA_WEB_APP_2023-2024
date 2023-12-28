@@ -36,21 +36,21 @@
                         <span class="font-black">Science:</span><br>
                         <span class="font-bold">Biology:</span><br>
                         <span class="underline">Cell Biology:</span> Cell biology focuses on the structure, function, and behavior of cells—the basic units of life. It explores organelles, cellular processes, and how cells interact to form tissues and organisms.<br>
-
+                        <br>
                         <span class="underline">Genetics:</span> Genetics studies heredity and variation in living organisms. It examines genes, DNA, inheritance patterns, genetic mutations, and how traits are passed from one generation to the next.<br>
-
+                        <br>
                         <span class="underline">Evolutionary Biology:</span> Evolutionary biology explores the processes of evolution, including natural selection, adaptation, speciation, and the history of life on Earth. It investigates the diversity of species and how they change over time.<br>
-
+                        <br>
                         <span class="underline">Ecology:</span> Ecology studies the interactions between organisms and their environments. It examines ecosystems, populations, communities, and the flow of energy and nutrients within ecological systems.<br>
-
+                        <br>
                         <span class="underline">Physiology:</span> Physiology focuses on the functions and mechanisms of living organisms. It explores how organisms function at the molecular, cellular, tissue, and organ levels, including processes like metabolism, respiration, and reproduction.<br>
-
+                        <br>
                         <span class="underline">Botany:</span> Botany is the study of plants, including their structure, growth, reproduction, physiology, and ecological relationships. It covers everything from algae and mosses to flowering plants.<br>
-
+                        <br>
                         <span class="underline">Zoology:</span> Zoology is the study of animals, encompassing their behavior, anatomy, physiology, evolution, classification, and interactions with ecosystems. It covers a vast range of species, from invertebrates to mammals.<br>
-
+                        <br>
                         <span class="underline">Microbiology:</span> Microbiology focuses on microscopic organisms such as bacteria, viruses, fungi, and protists. It explores their structure, function, behavior, and their roles in disease, industry, and the environment.<br>
-
+                        <br>
                         <span class="underline">Molecular Biology:</span> Molecular biology examines biological processes at the molecular level, including DNA, RNA, protein synthesis, gene regulation, and the molecular basis of diseases.<br>
                     </p>
                 </div>

@@ -36,21 +36,21 @@
                         <span class="font-black">Science:</span><br>
                         <span class="font-bold">Chemistry:</span><br>
                         <span class="underline">Matter:</span> Everything around us is made up of matter, which comprises atoms and molecules. Chemistry explores the properties of matter and how different substances interact.<br>
-
+                        <br>
                         <span class="underline">Elements and Compounds:</span> Elements are the simplest forms of matter, consisting of one type of atom. They combine to form compounds, which are substances made of two or more elements in fixed proportions.<br>
-
+                        <br>
                         <span class="underline">Atoms and Molecules:</span> Atoms are the basic units of matter. Chemistry studies their structure, behavior, and how they bond together to form molecules. Understanding atomic and molecular interactions helps explain various chemical phenomena.<br>
-
+                        <br>
                         <span class="underline">Chemical Reactions:</span> Chemical reactions involve the transformation of substances into different ones by breaking and forming chemical bonds. Chemistry explains the mechanisms, rates, and energy changes associated with these reactions.<br>
-
+                        <br>
                         <span class="underline">States of Matter:</span> Chemistry explores the different states of matter—solid, liquid, gas, and plasma—and the transitions between them. It studies their properties and how they behave under various conditions.<br>
-
+                        <br>
                         <span class="underline">Acids and Bases:</span> Acids and bases are important chemical substances with distinct properties. Understanding their behavior helps explain phenomena like pH, corrosion, and reactions in living organisms.<br>
-
+                        <br>
                         <span class="underline">Thermodynamics:</span> Focuses on the relationship between heat, energy, and work in chemical reactions and physical processes. It explains the principles governing energy transfer and transformation.<br>
-
+                        <br>
                         <span class="underline">Analytical Chemistry:</span> Involves techniques and methods to analyze and identify the composition of substances, determining their quantities and properties.<br>
-
+                        <br>
                         <span class="underline">Organic and Inorganic Chemistry:</span> Organic chemistry studies carbon-containing compounds, including those found in living organisms, while inorganic chemistry focuses on non-carbon compounds.<br>
                     </p>
                 </div>

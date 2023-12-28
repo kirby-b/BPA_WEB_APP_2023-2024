@@ -36,17 +36,17 @@
                         <span class="font-black">Science:</span><br>
                         <span class="font-bold">Genetics:</span><br>
                         <span class="underline">Genes and DNA:</span> Genes are segments of DNA that contain instructions for building proteins, which are essential for the structure and function of cells. DNA, or deoxyribonucleic acid, is the molecule that carries genetic information in all living organisms.<br>
-
+                        <br>
                         <span class="underline">Inheritance:</span> Genetics investigates how traits are inherited from parents to offspring. Traits can be influenced by a single gene (simple traits) or multiple genes and environmental factors (complex traits).<br>
-
+                        <br>
                         <span class="underline">Genetic Variation:</span> Genetic variation refers to the differences in genes among individuals of the same species. This variation is responsible for the diversity observed in populations and contributes to differences in traits.<br>
-
+                        <br>
                         <span class="underline">Mendelian Genetics:</span> Gregor Mendel, often considered the father of genetics, discovered the basic principles of inheritance through his work with pea plants. His laws, such as the law of segregation and the law of independent assortment, laid the foundation for understanding how traits are passed down through generations.<br>
-
+                        <br>
                         <span class="underline">Genetic Disorders:</span> Genetics also examines inherited disorders caused by mutations or alterations in genes. These disorders can be inherited in different ways, such as autosomal dominant, autosomal recessive, or sex-linked inheritance.<br>
-
+                        <br>
                         <span class="underline">Genetic Engineering and Biotechnology:</span> Genetic technologies allow scientists to manipulate and modify genes for various purposes, including creating genetically modified organisms (GMOs), gene therapy for treating genetic diseases, and producing pharmaceuticals.<br>
-
+                        <br>
                         <span class="underline">Population Genetics:</span> This field studies the distribution of genetic variation within populations and how factors like natural selection, genetic drift, migration, and mutation shape the genetic makeup of populations over time.<br>
                     </p>
                 </div>

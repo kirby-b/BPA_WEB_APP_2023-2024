@@ -36,15 +36,15 @@
                         <span class="font-black">Science:</span><br>
                         <span class="font-bold">Oceans:</span><br>
                         <span class="underline">Physical Oceanography:</span> This branch focuses on the physical properties and processes of the oceans, including currents, waves, tides, and the circulation of seawater. Physical oceanographers study the movement of water masses, the interaction between oceans and the atmosphere, and the impact of these processes on climate and weather patterns.<br>
-
+                        <br>
                         <span class="underline">Chemical Oceanography:</span> Chemical oceanographers investigate the composition of seawater, the distribution of chemical elements and compounds, nutrient cycles, acidity (pH), and the chemical reactions occurring in the ocean. They study how these factors influence marine life and global biogeochemical cycles.<br>
-
+                        <br>
                         <span class="underline">Biological Oceanography:</span> This field explores the diverse life forms in the oceans, from microscopic plankton to large marine mammals. Biological oceanographers study marine ecosystems, food webs, biodiversity, behavior, reproduction, and the adaptations of organisms to various ocean conditions.<br>
-
+                        <br>
                         <span class="underline">Geological Oceanography:</span> Geological oceanographers examine the ocean floor, including its topography, sediments, and geological formations. They study the processes of plate tectonics, underwater volcanoes, seafloor spreading, and the history of Earth's geology recorded in marine sediments and rocks.<br>
-
+                        <br>
                         <span class="underline">Marine Ecology:</span> Marine ecologists focus on the relationships between organisms and their environments in the ocean. They study how factors like temperature, salinity, nutrient availability, and human impacts affect marine ecosystems and biodiversity.<br>
-
+                        <br>
                         <span class="underline">Paleoceanography:</span> This branch involves studying the history of the oceans, including past climate changes, ocean circulation patterns, and ancient marine life, often using sediment cores and fossil records to understand long-term changes in the oceans.<br>
                     </p>
                 </div>
