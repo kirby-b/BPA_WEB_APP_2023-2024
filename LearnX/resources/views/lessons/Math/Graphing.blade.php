@@ -39,19 +39,21 @@
                         There are various types of graphs used in mathematics, but some of the most common ones include:<br> 
 
                         <span class="font-semibold">Cartesian Coordinate System:</span> This is the foundation for most types of graphs. It consists of an x-axis and a y-axis that intersect at a point called the origin. Points on the plane are represented by ordered pairs (x, y), where x is the value along the horizontal x-axis and y is the value along the vertical y-axis.<br> 
-
+                        <br>
                         <span class="font-semibold">Linear Graphs:</span> These graphs show linear relationships between two variables. The equation of a line in the form y = mx + b represents a linear function, where m is the slope of the line and b is the y-intercept.<br> 
-
+                        <br>
                         <span class="font-semibold">Quadratic Graphs:</span> Quadratic equations produce parabolic graphs. The standard form of a quadratic equation is y = ax^2 + bx + c, where 'a' determines the direction and width of the parabola.<br> 
-
+                        <br>
                         <span class="font-semibold">Exponential and Logarithmic Graphs:</span> Exponential functions (y = a * b^x) and logarithmic functions (y = log_b(x)) create distinct curves on graphs. Exponential functions often exhibit rapid growth or decay, while logarithmic functions display a characteristic curve that increases slowly after an initial rapid increase.<br> 
-
+                        <br>
                         <span class="font-semibold">Trigonometric Graphs:</span> Functions like sine, cosine, and tangent generate periodic graphs due to their cyclic nature. These functions oscillate between certain values as the input (angle) changes.<br> 
-
+                        <br>
                         Graphs are beneficial for several reasons:<br> 
-
-                        <span class="font-semibold">Visual Representation:</span> They provide a clear visual representation of data or mathematical relationships.<br> 
+                        <br>
+                        <span class="font-semibold">Visual Representation:</span> They provide a clear visual representation of data or mathematical relationships.<br>
+                        <br> 
                         <span class="font-semibold">Analysis and Interpretation:</span> Graphs help in analyzing trends, identifying patterns, and making predictions based on the data.<br> 
+                        <br>
                         <span class="font-semibold">Problem-solving:</span> They assist in solving equations, finding intersections, determining maximum or minimum points, and more.<br> 
                     </p>
                 </div>

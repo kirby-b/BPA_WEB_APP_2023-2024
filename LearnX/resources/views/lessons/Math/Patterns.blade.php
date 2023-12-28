@@ -40,19 +40,21 @@
                         <span class="underline">Arithmetic Sequence:</span> A sequence where the difference between consecutive terms is constant (e.g., 2, 4, 6, 8...).<br>
                         <span class="underline">Geometric Sequence:</span> A sequence where each term is obtained by multiplying the previous term by a fixed number (e.g., 2, 6, 18, 54...).<br>
                         <span class="underline">Fibonacci Sequence:</span> A sequence where each term is the sum of the two preceding ones (e.g., 1, 1, 2, 3, 5, 8...).<br>
+                        <br>
                         <span class="font-semibold">Visual Patterns:</span> These involve shapes, designs, or arrangements that follow a specific visual rule or repetition. For example:<br>
 
                         <span class="underline">Symmetry:</span> Reflective symmetry, rotational symmetry, or patterns that repeat in specific ways.<br>
                         <span class="underline">Tesselations:</span> Repetitive patterns formed by fitting together shapes without any gaps or overlaps.<br>
                         <span class="font-semibold">Algebraic Patterns:</span> Patterns that involve algebraic expressions or equations, often represented by formulas or rules. For instance:<br>
-
                         <span class="underline">Quadratic Patterns:</span> Patterns that follow a quadratic equation (e.g., y = x^2).<br>
                         <span class="underline">Linear Patterns:</span> Patterns that follow a linear equation (e.g., y = mx + b).<br>
+                        <br>
                         <span class="font-semibold underline">Importance of Patterns in Math:</span><br>
                         <span class="underline">Problem Solving:</span> Recognizing patterns helps in solving problems by identifying regularities and predicting subsequent elements in a sequence or structure.<br>
                         <span class="underline">Generalization:</span> Understanding patterns allows mathematicians to make generalizations about rules or properties that apply to various situations.<br>
                         <span class="underline">Mathematical Thinking:</span> Analyzing patterns fosters critical thinking and logical reasoning skills.<br>
                         <span class="underline">Real-World Applications:</span> Patterns in math are found in nature, art, architecture, and many other fields. Understanding them helps in understanding and describing natural phenomena or designing structures.<br>
+                        <br>
                         <span class="font-semibold underline">How Patterns Are Explored:</span><br>
                         <span class="underline">Observation:</span> Recognizing patterns often starts with observing sequences, shapes, or data.<br>
                         <span class="underline">Rule Identification:</span> Once a pattern is observed, the goal is to identify the underlying rule or relationship that governs the sequence.<br>
