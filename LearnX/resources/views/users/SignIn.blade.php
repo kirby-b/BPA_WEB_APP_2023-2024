@@ -32,7 +32,7 @@
                             </div>
                         </form>
                         <br>
-                        <a class="text-blue-600 hover:text-blue-800" href="{{ route("page.reset.pas") }}">I forgot my password</a>
+                        <a class="text-blue-600 hover:text-blue-800" href="{{ route("password.request") }}">I forgot my password</a>
                     </div>
                 </div>
             </div>
