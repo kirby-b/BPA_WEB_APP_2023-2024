@@ -40,11 +40,11 @@
                             <br>
                             <!--Confirms password with a custom confirmation name. Errors if you dont put it in or it is incorrect-->
                             
-                            <input type="radio" id="choice1" name="permissions" value="ADMIN">
+                            <input type="radio" name="permissions" value="ADMIN">
                             <label for="choice1"> I am an administrator</label><br>
-                            <input type="radio" id="choice2" name="permissions" value="TEACHER">
+                            <input type="radio" name="permissions" value="TEACHER">
                             <label for="choice2"> I am a teacher</label><br>
-                            <input type="radio" id="choice3" name="permissions" value="STUDENT">
+                            <input type="radio" name="permissions" value="STUDENT">
                             <label for="choice3"> I am a student</label><br>
                             @error('radio')
                                 <p class="text-red-500 text-xs mt-2">{{$message}}</p>

@@ -25,13 +25,11 @@ class UserController extends Controller
             'password' => 'required|confirmed|min:6', //Gets password and makes sure it is Confirmed and 6 Characters long. Also declares it required
             'permissions' => ['required'], //Gets the permissions of the user
         ]);
-
         // Hash Password
         $formFields['password'] = bcrypt($formFields['password']);
 
         // Create User
         $user = User::create($formFields);
-
         // Login 
         auth()->login($user);
 
