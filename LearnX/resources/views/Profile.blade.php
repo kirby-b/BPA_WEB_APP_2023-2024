@@ -8,7 +8,7 @@
                     <p class="text-xl font-sans m-4">
                         Permissions:
                         Email:
-                        Name:
+                        Name:{{auth()->users()->name}}
                         Joined:
                         {{-- Put database query values here for the specific user --}}
                     </p>
