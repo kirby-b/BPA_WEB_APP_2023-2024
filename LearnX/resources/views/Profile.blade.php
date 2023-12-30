@@ -10,8 +10,13 @@
                         Email: {{auth()->user()->email}}<br>
                         Name: {{auth()->user()->name}}<br>
                         Joined: {{auth()->user()->created_at}}<br>
-                        {{-- Put database query values here for the specific user --}}
+                        {{-- Database query values for the specific user --}}
                     </p>
+                    <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.accountTermination") }}>Delete Account</a> <br>
+                    <form method="POST" action="/logout">
+                        @csrf
+                        <input class="text-black border-none no-underline cursor-pointer" type="submit" id="submit" name="submit" value="Logout">
+                    </form>
                 </div>
             </div>
         </div>
