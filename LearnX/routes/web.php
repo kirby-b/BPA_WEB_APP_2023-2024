@@ -51,10 +51,6 @@ Route::get('/whyUs', function () {
 Route::get('/whatPeopleSay', function () {
     return view('whatPeopleSay');
 })->name("page.reviews");
-//Goes to student page
-Route::get('/student', function (){
-    return view('Student-View');
-})->name("page.student");
 //Goes to the math page
 Route::get('/math', function (){
     return view('Math');
