@@ -13,6 +13,7 @@
                         {{-- Database query values for the specific user --}}
                     </p>
                     <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.accountTermination") }}>Delete Account</a> <br>
+                    {{-- <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.gradebook") }}>Grades</a> <br> --}}
                 </div>
             </div>
         </div>
