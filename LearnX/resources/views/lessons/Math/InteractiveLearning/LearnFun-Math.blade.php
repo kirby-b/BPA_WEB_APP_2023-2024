@@ -24,6 +24,14 @@
                             <span class="font-black">Math:</span><br>
                             <b>Learning Fun</b>
                         </div>
+                        <form>
+                            <input type="radio" id="ans1" name="question1" value="ans1">
+                            <label for="ans1">ans1</label><br>
+                            <input type="radio" id="ans2" name="question1" value="ans2">
+                            <label for="ans2">ans2</label><br>
+                            <input type="radio" id="ans3" name="question1" value="ans3">
+                            <label for="ans3">ans3</label>
+                        </form>
                         {{-- Put questions here in mutiple choice format --}}
                     </p>
                 </div>
