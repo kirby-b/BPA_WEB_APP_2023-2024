@@ -101,61 +101,61 @@
                                                 items: [
                                                     {
                                                         img: './images/testimonial-06.jpg', // cottonbro studios on pexels
-                                                        quote: "I like the colorful pictures and fun stories on LearnX. It makes learning so much fun!",
+                                                        quote: "",
                                                         name: 'Olivia Smith',
                                                         role: 'K-Student'
                                                     },
                                                     {
                                                         img: './images/testimonial-02.jpg', // Andrea Piacquadio on pexels
-                                                        quote: "LearnX provides a variety of teaching resources and lesson plans that make my job as a teacher easier. It helps me keep my students engaged.",
+                                                        quote: "",
                                                         name: 'Sarah Anderson',
                                                         role: 'Teacher'
                                                     },
                                                     {
                                                         img: './images/testimonial-05.jpg', //credit: bukharova on istock
-                                                        quote: "LearnX has interactive quizzes that help me understand the lessons better. It's not boring like some other stuff.",
+                                                        quote: "",
                                                         name: 'Ethan Davis',
                                                         role: '3rd Grader'
                                                     },
                                                     {
                                                         img: './images/testimonial-01.jpg', //Came with the code for this
-                                                        quote: "I appreciate the flexibility of LearnX in adapting to different learning styles. It allows me to tailor lessons to meet the unique needs of my students.",
+                                                        quote: "",
                                                         name: 'James Mitchell',
                                                         role: 'Teacher'
                                                     },
                                                     {
                                                         img: './images/testimonial-04.jpg', //Pexels.
-                                                        quote: "LearnX has a lot of great study materials and practice tests that help me prepare for my exams. It's a huge help for high school.",
+                                                        quote: "",
                                                         name: 'Sophia Roberts',
                                                         role: 'High Schooler'
                                                     },
                                                     {
                                                         img: './images/testimonial-08.jpg', //Max Fischer on pexels
-                                                        quote: "LearnX offers a wide range of educational tools and assessments that help me track my students' progress and adjust my teaching methods accordingly.",
+                                                        quote: "",
                                                         name: 'Emily Parker',
                                                         role: 'Teacher'
                                                     },
                                                     {
                                                         img: './images/testimonial-09.jpg', // From Anastasiya Gepp on pexels
-                                                        quote: "LearnX is my go-to resource for test preparation and self-study. It offers a wide range of study materials and practice tests that are helping me excel in high school.",
+                                                        quote: "",
                                                         name: 'Ryan Lewis',
                                                         role: 'High Schooler'
                                                     },
                                                     {
                                                         img: './images/testimonial-03.jpg', //Came with this
-                                                        quote: "The professional development resources on LearnX are invaluable. They keep me updated with the latest teaching strategies and techniques.",
+                                                        quote: "",
                                                         name: 'Michael Turner',
                                                         role: 'Teacher'
                                                     },
                                                     {
                                                         img: './images/testimonial-10.jpg', //From Zen Chung on pexels
-                                                        quote: "LearnX is user-friendly and helps me manage my assignments and deadlines. It makes my high school life less stressful.",
+                                                        quote: "",
                                                         name: 'Ava Wilson',
                                                         role: 'High Schooler'
                                                     },
                                                     {
                                                         img: './images/testimonial-07.jpg', //ThisIsEngineering on pexels
-                                                        quote: "LearnX has a fantastic platform for creating and sharing educational content. It's a great tool for collaborating with other educators and sharing resources, making my teaching job more efficient.",
+                                                        quote: "",
                                                         name: 'Lisa Johnson',
                                                         role: 'Teacher'
                                                     },
