@@ -24,6 +24,12 @@
                             <span class="font-black">History:</span><br>
                             <b>Write It Out</b>
                         </div>
+                        <form>
+                            <label for="q1">Fill in blank:</label><br>
+                            <input type="text" id="q1" name="q1"><br>
+                            <label for="q2">Short Answer:</label><br>
+                            <input type="text" id="q2" name="q2">
+                        </form> 
                          {{-- Fill in the blanks and short answers --}}
                     </p>
                 </div>
