@@ -14,6 +14,11 @@ use Illuminate\Http\Request;
 |
 */
 
+// Each route gets a page with a get or post request. It is formatted like this
+// Route:get/post('/nametodisplayinsearchbar',function(
+//     return view('nameOfTheFile'); -- The name is the name of the Blade or php file without the extensions( .blade.php or .php)
+// ))->name("specific.name.for.page");
+
 //Goes to index
 Route::get('/', function () {
     return view('welcome');
