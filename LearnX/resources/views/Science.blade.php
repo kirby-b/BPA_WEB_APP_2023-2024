@@ -6,9 +6,9 @@
                 <!-- Activity Section -->
                 <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
                     <div class="font-Preahvihear text-3xl">
-                        <div class="text-center bg-purple-400">Flashcards</div>
-                        <div class="text-center bg-green-400">Learning Fun</div>
-                        <div class="text-center bg-purple-400">Write it Out</div>
+                        <div class="text-center bg-purple-400"><a href="{{ route('page.flashcards.science') }}" class="hover:text-purple-300">Flashcards</a></div>
+                        <div class="text-center bg-green-400"><a href="{{ route('page.learnfun.science') }}" class="hover:text-purple-300">Learning Fun</a></div>
+                        <div class="text-center bg-purple-400"><a href="{{ route('page.writeout.science') }}" class="hover:text-purple-300">Write it Out</a></div>
                     </div>
                 </div>
 
