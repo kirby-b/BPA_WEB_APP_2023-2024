@@ -9,11 +9,11 @@
                         Interactive Learning:<br>
                     </p>
                     <p class="text-xl font-sans m-4">
-                        <a href="{{ route('page.lettersandsounds') }}" class="hover:text-purple-300">Letters & Sounds</a><br>
+                        <a href="{{ route('page.solveit.math') }}" class="hover:text-purple-300">Solve It</a><br>
                         <br>
-                        <a href="{{ route('page.vsandcs') }}" class="hover:text-purple-300">Vowels & Consentents</a><br>
+                        <a href="{{ route('page.learnfun.math') }}" class="hover:text-purple-300">Learning Fun</a><br>
                         <br>
-                        <a href="{{ route('page.partsofspeech') }}" class="hover:text-purple-300">Nous, Verbs, etc.</a><br><!--link to choose-->
+                        <a href="{{ route('page.flashcards.math') }}" class="hover:text-purple-300">Flashcards</a><br>
                         <br>
                     </p>
                 </div>
