@@ -24,6 +24,16 @@
                             <span class="font-black">Science:</span><br>
                             <b>Write It Out</b>
                         </div>
+                        <form>
+                            <label for="q1">Fill in blank:</label><br>
+                            <input type="text" id="q1" name="q1"><br>
+                            <input type="radio" id="ans1" name="question1" value="ans1">
+                            <label for="ans1">ans1</label><br>
+                            <input type="radio" id="ans2" name="question1" value="ans2">
+                            <label for="ans2">ans2</label><br>
+                            <input type="radio" id="ans3" name="question1" value="ans3">
+                            <label for="ans3">ans3</label>
+                        </form> 
                          {{-- Fill in the blanks for math questions, maybe multiple choice --}}
                     </p>
                 </div>
