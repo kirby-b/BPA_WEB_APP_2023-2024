@@ -35,19 +35,19 @@
                     <p class="text-xl font-sans m-4">
                         <span class="font-black">Science:</span><br>
                         <span class="font-bold">Earth:</span><br>
-                        <span class="underline">Geology:</span> Geology is the study of the Earth's solid materials, its structure, composition, and the processes that shape it. This field examines rocks, minerals, fossils, and the forces, such as plate tectonics, that shape the Earth's surface.<br>
+                        <span class="font-semibold">Geology:</span> The study of the Earth's solid materials, structure, composition, and the processes that shapes it. This field examines rocks, minerals, fossils, and the forces, such as plate tectonics, that shape the Earth's surface.<br>
                         <br>
-                        <span class="underline">Meteorology:</span> Meteorology focuses on the study of the Earth's atmosphere, weather patterns, and atmospheric phenomena. Meteorologists analyze weather processes, climate patterns, atmospheric circulation, and the factors influencing weather changes.<br>
+                        <span class="font-semibold">Meteorology:</span> The study of the Earth's atmosphere, weather patterns, and atmospheric phenomena. Meteorologists analyze weather processes, climate patterns, atmospheric circulation, and the factors influencing weather changes.<br>
                         <br>
-                        <span class="underline">Oceanography:</span> Oceanography is the study of the Earth's oceans and seas, including their physical and biological properties, movements, currents, marine life, and the interactions between oceans and the atmosphere, land, and life.<br>
+                        <span class="font-semibold">Oceanography:</span> The study of the Earth's oceans and seas, including their physical and biological properties, movements, currents, marine life, and the interactions between oceans and the atmosphere, land, and life.<br>
                         <br>
-                        <span class="underline">Environmental Science:</span> This interdisciplinary field examines the interactions between the Earth's various systems and the impact of human activities on the environment. It includes the study of pollution, conservation, ecosystems, and sustainability.<br>
+                        <span class="font-semibold">Environmental Science:</span> This field examines the interactions between the Earth's various systems and the impact of human activities on the environment. It includes the study of pollution, conservation, ecosystems, and sustainability.<br>
                         <br>
-                        <span class="underline">Geophysics:</span> Geophysics applies principles of physics to study the Earth's physical properties, such as its magnetic and gravitational fields, seismic activities, and the internal structure of the planet.<br>
+                        <span class="font-semibold">Geophysics:</span> Appling the principles of physics to study the Earth's physical properties, such as its magnetic and gravitational fields, seismic activities, and the internal structure of the planet.<br>
                         <br>
-                        <span class="underline">Hydrology:</span> Hydrology deals with the study of water distribution, movement, and properties on Earth. It involves analyzing the water cycle, groundwater, surface water, and the influence of water on landscapes and ecosystems.<br>
+                        <span class="font-semibold">Hydrology:</span> The study of water distribution, movement, and properties on Earth. It involves analyzing the water cycle, groundwater, surface water, and the influence of water on landscapes and ecosystems.<br>
                         <br>
-                        <span class="underline">Geomorphology:</span> This field studies the formation and evolution of landforms, such as mountains, valleys, rivers, and glaciers, and the processes that shape the Earth's surface over time.<br>
+                        <span class="font-semibold">Geomorphology:</span> This field studies the formation and evolution of landforms, such as mountains, valleys, rivers, and glaciers, and the processes that shape the Earth's surface over time.<br>
                     </p>
                 </div>
             </div>
