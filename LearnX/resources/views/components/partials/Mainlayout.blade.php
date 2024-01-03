@@ -29,7 +29,6 @@
                 <nav class="flex space-x-4">
                     <a href="{{ route('signin') }}" class="md:text-base text-xs hover:text-purple-300">Sign-In</a>
                     <a href="{{ route('signup') }}" class="md:text-base text-xs hover:text-purple-300">Create New Account</a>
-                    <a href="{{ route('password.request') }}" class="md:text-base text-xs hover:text-purple-300">Reset Password</a>
                 </nav>
             </div>
         </div>
