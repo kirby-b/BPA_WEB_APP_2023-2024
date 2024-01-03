@@ -445,7 +445,7 @@ Route::get('/SignUp', [UserController::class, 'create'])->name('signup')->middle
 Route::post('/users', [UserController::class, 'store']);
 
 // Log User Out through log out function in UserController
-Route::post('/logout', [UserController::class, 'logout'])->name('logout')->middleware('auth');
+Route::get('/logout', [UserController::class, 'logout'])->name('logout')->middleware('auth');
 
 // Show Login Form login function in UserController
 Route::get('/SignIn', [UserController::class, 'login'])->name('signin')->middleware('guest');
