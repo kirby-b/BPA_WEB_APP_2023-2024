@@ -36,7 +36,7 @@
                         <span class="font-bold">Calculus:</span><br>
                         <span class="font-semibold">Differentiation:</span> This involves the study of rates at which quantities change. It's about finding derivatives, which represent the rate of change of one quantity with respect to another. Derivatives are fundamental in calculus and are used to analyze functions, describe motion, solve optimization problems, and understand the behavior of graphs. For instance, the derivative of a function f(x) gives us the slope of the tangent line to the graph of f(x) at any point.<br>
                         <br>
-                        <span class="font-semibold">Integration:</span> Integration is the reverse process of differentiation. It involves finding antiderivatives and definite integrals. Integrals represent the accumulation of quantities and are used to compute areas under curves, calculate total quantities, solve problems related to motion, and much more. Definite integrals provide the exact accumulation of a quantity over a specific interval.<br>
+                        <span class="font-semibold">Integration:</span> The reverse process of differentiation. It involves finding antiderivatives and definite integrals. Integrals represent the accumulation of quantities and are used to compute areas under curves, calculate total quantities, solve problems related to motion, and much more. Definite integrals provide the exact accumulation of a quantity over a specific interval.<br>
                         <br>
                         <span>Calculus has several important concepts and tools:</span><br>
                         <br>
