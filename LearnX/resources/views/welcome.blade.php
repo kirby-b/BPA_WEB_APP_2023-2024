@@ -30,7 +30,7 @@
             <br>
             <br>
             <!-- Testimonials -->
-            <section>
+            <section id="reviews" >
                 <div class="max-w-3xl mx-auto px-4 sm:px-6">
                     <div class="relative pb-12 md:pb-20">
 
