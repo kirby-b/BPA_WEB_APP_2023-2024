@@ -45,7 +45,7 @@
                         <div class="text-center" x-data="carousel">
                             <!-- Testimonial image -->
                             <div class="relative h-32 [mask-image:_linear-gradient(0deg,transparent,theme(colors.white)_40%,theme(colors.white))]">
-                                <div class="absolute top-0 left-1/2 -translate-x-1/2 w-[480px] h-[480px] -z-10 pointer-events-none before:rounded-full rounded-full before:absolute before:inset-0 before:bg-gradient-to-b before:from-violet-400/20 before:to-transparent before:to-20% after:rounded-full after:absolute after:inset-0 after:bg-violet-900 after:m-px before:-z-20 after:-z-20">
+                                <div class="absolute top-0 left-1/2 -translate-x-1/2 w-[480px] h-[480px] -z-10 pointer-events-none before:rounded-full rounded-full before:absolute before:inset-0 before:to-transparent before:to-20% after:rounded-full after:absolute after:inset-0 after:m-px before:-z-20 after:-z-20">
                                     <template x-for="(item, index) in items" :key="index">
                                         <div
                                             x-show="active === index"
@@ -57,7 +57,7 @@
                                             x-transition:leave-start="opacity-100 rotate-0"
                                             x-transition:leave-end="opacity-0 rotate-[60deg]"
                                         >
-                                            <img class="relative top-11 left-1/2 -translate-x-1/2 rounded-full" :src="item.img" width="56" height="56" :alt="item.name">
+                                            <img class="relative left-1/2 -translate-x-1/2 rounded-full" :src="item.img" width="106" height="`106" :alt="item.name">
                                         </div>
                                     </template>                                
                                 </div>
@@ -194,15 +194,13 @@
                     </div>
                 </div>
             </section>
-            <br>
-            <br>
             <!--Why Us Section-->
             <div class="flex flex-col md:flex-row justify-center items-center md:space-x-6" id="whyus">
                 <div class="md:w-1/2 flex flex-col justify-center items-center md:space-x-6">
                     <!-- Quotes Section -->
                     <div class="p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
                         <p class="text-xl font-sans m-4">                        
-                            <p class="text-center underline text-3xl">What Parents Say</p>
+                            <p class="text-center font-semibold text-3xl">What Parents Say</p>
                         </p>
                     </div><br><br>
                     <div class="w-full p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
@@ -236,7 +234,7 @@
                 <!-- Text Section -->
                 <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
                     <p class="font-sans m-4">                        
-                        <p class="text-center underline text-3xl">Why Us?</p>
+                        <p class="text-center font-semibold text-3xl">Why Us?</p><br>
                         <p class="text-2xl">
                         We offer revelent courses to suit the students needs. Our flashcards and small assignments will fit
                         what the student would learn during the course of that year. We run our assignments through our
