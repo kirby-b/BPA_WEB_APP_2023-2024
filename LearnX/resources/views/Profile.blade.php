@@ -11,8 +11,8 @@
                         Name: {{auth()->user()->name}}<br>
                         Joined: {{auth()->user()->created_at}}<br>
                         {{-- Database query values for the specific user --}}
+                        <a class="no-underline text-blue-600" type="button" value ="Yes" class href={{ route("page.accountTermination") }}>Delete Account</a> <br>
                     </p>
-                    <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.accountTermination") }}>Delete Account</a> <br>
                     {{-- <a class="no-underline text-black" type="button" value ="Yes" class href={{ route("page.gradebook") }}>Grades</a> <br> --}}
                 </div>
             </div>
