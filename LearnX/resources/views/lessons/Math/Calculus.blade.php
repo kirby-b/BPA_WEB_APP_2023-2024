@@ -38,7 +38,7 @@
                         <br>
                         <span class="font-semibold">Integration:</span> Integration is the reverse process of differentiation. It involves finding antiderivatives and definite integrals. Integrals represent the accumulation of quantities and are used to compute areas under curves, calculate total quantities, solve problems related to motion, and much more. Definite integrals provide the exact accumulation of a quantity over a specific interval.<br>
                         <br>
-                        <span class="underline">Calculus has several important concepts and tools:</span><br>
+                        <span>Calculus has several important concepts and tools:</span><br>
                         <br>
                         <span class="font-semibold">Limits:</span> The foundational concept of calculus. Limits describe the behavior of functions as inputs approach certain values, such as infinity or specific points. They're used in defining derivatives and integrals.<br>
                         <br>

@@ -35,19 +35,19 @@
                     <p class="text-xl font-sans m-4">
                         <span class="font-black">Science:</span><br>
                         <span class="font-bold">Space:</span><br>
-                        <span class="underline">Observational Astronomy:</span> Observational astronomy involves the direct observation and study of celestial objects using telescopes and other instruments. It includes observing visible light, radio waves, infrared, ultraviolet, X-rays, and gamma rays emitted by objects in space.<br>
+                        <span class="font-semibold">Observational Astronomy:</span> Observational astronomy involves the direct observation and study of celestial objects using telescopes and other instruments. It includes observing visible light, radio waves, infrared, ultraviolet, X-rays, and gamma rays emitted by objects in space.<br>
                         <br>
-                        <span class="underline">Planetary Science:</span> Planetary science focuses on the study of planets, moons, asteroids, comets, and other objects within our solar system. It explores their compositions, structures, surfaces, atmospheres, and potential for hosting life.<br>
+                        <span class="font-semibold">Planetary Science:</span> Planetary science focuses on the study of planets, moons, asteroids, comets, and other objects within our solar system. It explores their compositions, structures, surfaces, atmospheres, and potential for hosting life.<br>
                         <br>
-                        <span class="underline">Stellar Astronomy:</span> Stellar astronomy examines stars, their life cycles, properties, classifications, and evolution. It explores how stars form, shine, and eventually transform into various types, such as white dwarfs, neutron stars, or black holes.<br>
+                        <span class="font-semibold">Stellar Astronomy:</span> Stellar astronomy examines stars, their life cycles, properties, classifications, and evolution. It explores how stars form, shine, and eventually transform into various types, such as white dwarfs, neutron stars, or black holes.<br>
                         <br>
-                        <span class="underline">Galactic Astronomy:</span> Galactic astronomy studies galaxies, including their structures, compositions, movements, and interactions. It explores the formation and evolution of galaxies, from small dwarf galaxies to massive spiral and elliptical galaxies.<br>
+                        <span class="font-semibold">Galactic Astronomy:</span> Galactic astronomy studies galaxies, including their structures, compositions, movements, and interactions. It explores the formation and evolution of galaxies, from small dwarf galaxies to massive spiral and elliptical galaxies.<br>
                         <br>
-                        <span class="underline">Cosmology:</span> Cosmology investigates the origins, structure, evolution, and fate of the universe as a whole. It addresses questions about the Big Bang theory, the nature of dark matter and dark energy, the large-scale structure of the cosmos, and the possibility of other universes.<br>
+                        <span class="font-semibold">Cosmology:</span> Cosmology investigates the origins, structure, evolution, and fate of the universe as a whole. It addresses questions about the Big Bang theory, the nature of dark matter and dark energy, the large-scale structure of the cosmos, and the possibility of other universes.<br>
                         <br>
-                        <span class="underline">Astrobiology:</span> Astrobiology explores the possibility of life beyond Earth, examining the conditions required for life to exist on other planets or moons. It investigates extremophiles on Earth and searches for habitable environments in the universe.<br>
+                        <span class="font-semibold">Astrobiology:</span> Astrobiology explores the possibility of life beyond Earth, examining the conditions required for life to exist on other planets or moons. It investigates extremophiles on Earth and searches for habitable environments in the universe.<br>
                         <br>
-                        <span class="underline">Space Exploration:</span> Space exploration involves sending probes, telescopes, and spacecraft to explore celestial objects, gather data, and conduct experiments. It includes missions to other planets, moons, asteroids, and the study of cosmic phenomena through space telescopes.<br>
+                        <span class="font-semibold">Space Exploration:</span> Space exploration involves sending probes, telescopes, and spacecraft to explore celestial objects, gather data, and conduct experiments. It includes missions to other planets, moons, asteroids, and the study of cosmic phenomena through space telescopes.<br>
                     </p>
                 </div>
             </div>
