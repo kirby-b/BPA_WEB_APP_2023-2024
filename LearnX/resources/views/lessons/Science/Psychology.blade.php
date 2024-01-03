@@ -35,21 +35,21 @@
                     <p class="text-xl font-sans m-4">
                         <span class="font-black">Science:</span><br>
                         <span class="font-bold">Psychology:</span><br>
-                        <span class="font-semibold">Clinical Psychology:</span> Clinical psychology focuses on understanding, diagnosing, and treating mental health disorders. Clinical psychologists work with individuals to address issues such as depression, anxiety, schizophrenia, and other psychological conditions.<br>
+                        <span class="font-semibold">Clinical Psychology:</span> Focuses on understanding, diagnosing, and treating mental health disorders. Clinical psychologists work with individuals to address issues such as depression, anxiety, schizophrenia, and other psychological conditions.<br>
                         <br>
-                        <span class="font-semibold">Cognitive Psychology:</span> Cognitive psychology explores mental processes such as perception, memory, thinking, problem-solving, language, and decision-making. It investigates how humans acquire, process, store, and use information.<br>
+                        <span class="font-semibold">Cognitive Psychology:</span> Explores mental processes such as perception, memory, thinking, problem-solving, language, and decision-making. It investigates how humans acquire, process, store, and use information.<br>
                         <br>
-                        <span class="font-semibold">Developmental Psychology:</span> Developmental psychology studies human development across the lifespan, examining physical, cognitive, social, and emotional changes from infancy to old age. It explores how individuals grow, learn, and adapt over time.<br>
+                        <span class="font-semibold">Developmental Psychology:</span> Studies human development across the lifespan, examining physical, cognitive, social, and emotional changes from infancy to old age. It explores how individuals grow, learn, and adapt over time.<br>
                         <br>
-                        <span class="font-semibold">Social Psychology:</span> Social psychology investigates how individuals' thoughts, feelings, and behaviors are influenced by social interactions, group dynamics, attitudes, conformity, persuasion, and prejudice.<br>
+                        <span class="font-semibold">Social Psychology:</span> Investigates how individuals' thoughts, feelings, and behaviors are influenced by social interactions, group dynamics, attitudes, conformity, persuasion, and prejudice.<br>
                         <br>
                         <span class="font-semibold">Biological Psychology:</span> Biological psychology, also known as biopsychology or neuroscience, explores the biological basis of behavior, studying how the brain, nervous system, hormones, and genetics influence thoughts, emotions, and actions.<br>
                         <br>
                         <span class="font-semibold">Industrial-Organizational Psychology:</span> This field applies psychological principles to workplace settings, focusing on topics like employee motivation, leadership, team dynamics, organizational behavior, and human resource management.<br>
                         <br>
-                        <span class="font-semibold">Educational Psychology:</span> Educational psychology studies learning processes, teaching methods, educational interventions, and the psychological factors that influence learning and academic performance.<br>
+                        <span class="font-semibold">Educational Psychology:</span> Studies learning processes, teaching methods, educational interventions, and the psychological factors that influence learning and academic performance.<br>
                         <br>
-                        <span class="font-semibold">Forensic Psychology:</span> Forensic psychology applies psychological principles within the legal and criminal justice systems, assessing mental health, evaluating witnesses, profiling criminals, and offering expertise in legal cases.<br>
+                        <span class="font-semibold">Forensic Psychology:</span> Applies psychological principles within the legal and criminal justice systems, assessing mental health, evaluating witnesses, profiling criminals, and offering expertise in legal cases.<br>
                     </p>
                 </div>
             </div>
