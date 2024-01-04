@@ -13,7 +13,7 @@
                         <br>
                         <a href="{{ route('page.vsandcs') }}" class="hover:text-purple-300">Vowels & Consentents</a><br>
                         <br>
-                        <a href="{{ route('page.partsofspeech') }}" class="hover:text-purple-300">Nous, Verbs, etc.</a><br><!--link to choose-->
+                        <a href="{{ route('page.partsofspeech') }}" class="hover:text-purple-300">Parts of Speech</a><br><!--link to choose-->
                         <br>
                         <a href="{{ route('page.small.spelling') }}" class="hover:text-purple-300">Small Spelling</a><br>
                         <br>
@@ -38,25 +38,25 @@
                             <b>PARTS OF SPEECH</b>
                         </div>
                         <div class="text-xl font-sans m-4">
-                            Nouns: Words that represent people, places, things, or ideas. <br>
+                            <b>Nouns:</b> Words that represent people, places, things, or ideas. <br>
                             Examples: dog, city, love<br>
                             <br>
-                            Verbs: Words that describe actions or states of being.<br>
+                            <b>Verbs:</b> Words that describe actions or states of being.<br>
                             Examples: run, eat, think<br>
                             <br>
-                            Adjectives: Words that modify or describe nouns, giving more information about them.<br>
+                            <b>Adjectives:</b> Words that modify or describe nouns, giving more information about them.<br>
                             Examples: happy, tall, blue<br>
                             <br>
-                            Adverbs: Words that modify or describe verbs, adjectives, or other adverbs, providing more details about how, when, where, or to what extent.<br>
+                            <b>Adverbs:</b> Words that modify or describe verbs, adjectives, or other adverbs, providing more details about how, when, where, or to what extent.<br>
                             Examples: quickly, very, often<br>
                             <br>
-                            Pronouns: Words that take the place of nouns.<br>
+                            <b>Pronouns:</b> Words that take the place of nouns.<br>
                             Examples: he, she, it, they<br>
                             <br>
-                            Conjunctions: Words that connect words, phrases, or clauses.<br>
+                            <b>Conjunctions:</b> Words that connect words, phrases, or clauses.<br>
                             Examples: and, but, or<br>
                             <br>
-                            Articles: The words "a," "an," and "the," which are used to specify or limit a noun<br>
+                            <b>Articles:</b> The words "a," "an," and "the," which are used to specify or limit a noun<br>
                             Examples: I saw a cat in the backyard./Can you please pass the salt?
                             <br>
                         </div>
