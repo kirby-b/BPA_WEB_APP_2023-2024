@@ -12,4 +12,4 @@ For the flashcard pages: Set up carousel by making the flashcards pop up if the 
 
 For file upload: There is a specific type of SQL input for files. Use this and then use the php query things to print out lists of assignments in a table or something.
 
-Make it so students can add themselves to classes. Teachers and administrators can delete students from classes and add them.
+Make it so students can add themselves to classes. Teachers and administrators can delete students from classes and add them(teachers can only edit students in their own class).
