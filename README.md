@@ -11,3 +11,5 @@
 For the flashcard pages: Set up carousel by making the flashcards pop up if the slide num is a certain number, else they are hidden.
 
 For file upload: There is a specific type of SQL input for files. Use this and then use the php query things to print out lists of assignments in a table or something.
+
+Make it so students can add themselves to classes. Teachers and administrators can delete students from classes and add them.
