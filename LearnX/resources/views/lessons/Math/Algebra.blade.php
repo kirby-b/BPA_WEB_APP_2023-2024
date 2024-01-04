@@ -33,7 +33,7 @@
                 <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
                     <p class="text-xl font-sans m-4">
                         <span class="font-black">Math:</span><br>
-                        <span class="font-bold">Algebra:</span><br>
+                        <span class="font-bold">Algebra:</span><br><br>
                         <span class="font-semibold">Variables and Constants:</span> In algebra, letters (like x, y, z) are used to represent unknown quantities called variables. Constants are known values. Equations combine variables, constants, and mathematical operations (like addition, subtraction, multiplication, division, exponentiation) to express relationships.<br>
                         <br>
                         <span class="font-semibold">Expressions:</span> Algebraic expressions are combinations of variables, constants, and operators.<br>
