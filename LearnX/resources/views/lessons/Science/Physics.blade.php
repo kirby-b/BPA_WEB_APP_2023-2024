@@ -35,7 +35,7 @@
                     <p class="text-xl font-sans m-4">
                         <span class="font-black">Science:</span><br>
                         <span class="font-bold">Physics:</span><br>
-                        <span class="font-semibold">Classical Mechanics:</span> Classical mechanics, formulated by Isaac Newton, describes the motion of objects and the forces acting upon them. It includes concepts such as Newton's laws of motion, gravity, and the study of motion in various contexts.<br>
+                        <span class="font-semibold">Classical Mechanics:</span> Formulated by Isaac Newton, this describes the motion of objects and the forces acting upon them. It includes concepts such as Newton's laws of motion, gravity, and the study of motion in various contexts.<br>
                         <br>
                         <span class="font-semibold">Thermodynamics:</span> Explores the relationship between heat, energy, and work. It includes the laws of thermodynamics, the behavior of gases, phase transitions, and the principles governing heat engines and refrigeration.<br>
                         <br>

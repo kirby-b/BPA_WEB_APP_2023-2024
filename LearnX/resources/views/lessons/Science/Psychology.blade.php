@@ -43,9 +43,9 @@
                         <br>
                         <span class="font-semibold">Social Psychology:</span> Investigates how individuals' thoughts, feelings, and behaviors are influenced by social interactions, group dynamics, attitudes, conformity, persuasion, and prejudice.<br>
                         <br>
-                        <span class="font-semibold">Biological Psychology:</span> Biological psychology, also known as biopsychology or neuroscience, explores the biological basis of behavior, studying how the brain, nervous system, hormones, and genetics influence thoughts, emotions, and actions.<br>
+                        <span class="font-semibold">Biological Psychology:</span> Also known as biopsychology or neuroscience, This field explores the biological basis of behavior, studying how the brain, nervous system, hormones, and genetics influence thoughts, emotions, and actions.<br>
                         <br>
-                        <span class="font-semibold">Industrial-Organizational Psychology:</span> This field applies psychological principles to workplace settings, focusing on topics like employee motivation, leadership, team dynamics, organizational behavior, and human resource management.<br>
+                        <span class="font-semibold">Industrial-Organizational Psychology:</span> Applies psychological principles to workplace settings, focusing on topics like employee motivation, leadership, team dynamics, organizational behavior, and human resource management.<br>
                         <br>
                         <span class="font-semibold">Educational Psychology:</span> Studies learning processes, teaching methods, educational interventions, and the psychological factors that influence learning and academic performance.<br>
                         <br>

@@ -35,7 +35,7 @@
                     <p class="text-xl font-sans m-4">
                         <span class="font-black">Science:</span><br>
                         <span class="font-bold">Animals:</span><br>
-                        <span class="font-semibold">Anatomy and Physiology:</span> This branch delves into the structure and function of animals' bodies, studying organs, tissues, and systems. Understanding how different body parts function allows scientists to comprehend how animals adapt to their environments.<br>
+                        <span class="font-semibold">Anatomy and Physiology:</span> The structure and function of animals' bodies, studying organs, tissues, and systems. Understanding how different body parts function allows scientists to comprehend how animals adapt to their environments.<br>
                         <br>
                         <span class="font-semibold">Behavioral Ecology:</span> Investigates how animals interact with each other and their environment, examining behaviors such as mating rituals, communication, migration, and foraging strategies. This field also explores the adaptive significance of behavior.<br>
                         <br>

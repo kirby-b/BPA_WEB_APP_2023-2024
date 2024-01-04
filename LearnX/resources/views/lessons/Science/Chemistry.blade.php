@@ -41,7 +41,7 @@
                         <br>
                         <span class="font-semibold">Atoms and Molecules:</span> Atoms are the basic units of matter. Chemistry studies their structure, behavior, and how they bond together to form molecules. Understanding atomic and molecular interactions helps explain various chemical phenomena.<br>
                         <br>
-                        <span class="font-semibold">Chemical Reactions:</span> Chemical reactions involve the transformation of substances into different ones by breaking and forming chemical bonds. Chemistry explains the mechanisms, rates, and energy changes associated with these reactions.<br>
+                        <span class="font-semibold">Chemical Reactions:</span> Involve the transformation of substances into different ones by breaking and forming chemical bonds. Chemistry explains the mechanisms, rates, and energy changes associated with these reactions.<br>
                         <br>
                         <span class="font-semibold">States of Matter:</span> Chemistry explores the different states of matter—solid, liquid, gas, and plasma—and the transitions between them. It studies their properties and how they behave under various conditions.<br>
                         <br>

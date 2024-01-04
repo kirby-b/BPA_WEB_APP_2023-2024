@@ -35,7 +35,7 @@
                     <p class="text-xl font-sans m-4">
                         <span class="font-black">Science:</span><br>
                         <span class="font-bold">Biology:</span><br>
-                        <span class="font-semibold">Cell Biology:</span> Focuses on the structure, function, and behavior of cells—the basic units of life. It explores organelles, cellular processes, and how cells interact to form tissues and organisms.<br>
+                        <span class="font-semibold">Cell Biology:</span> Focuses on the structure, function, and behavior of cells. It explores organelles, cellular processes, and how cells interact to form tissues and organisms.<br>
                         <br>
                         <span class="font-semibold">Genetics:</span> Study of heredity and variation in living organisms. It examines genes, DNA, inheritance patterns, genetic mutations, and how traits are passed from one generation to the next.<br>
                         <br>
