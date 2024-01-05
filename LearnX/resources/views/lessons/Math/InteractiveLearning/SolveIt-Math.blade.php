@@ -25,7 +25,7 @@
                             <b>Solve It</b>
                         </div>
                         <form>
-                            <label for="q1">Fill in blank:</label><br>
+                            <label for="q1">Fill in the blank:</label><br>
                             <input type="text" id="q1" name="q1"><br>
                             <input type="radio" id="ans1" name="question1" value="ans1">
                             <label for="ans1">ans1</label><br>
