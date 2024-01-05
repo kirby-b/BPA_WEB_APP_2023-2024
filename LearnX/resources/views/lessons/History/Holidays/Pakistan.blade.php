@@ -5,8 +5,8 @@
                 <!-- Links Section -->
                 <div class="md:w-1/4 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg md:items-start md:self-start">
                     <p class="text-xl font-sans m-4">
-                        History:<br>
-                        Holidays Around The World:<br>
+                        <a href="{{ route('page.history') }}" class="hover:text-purple-300">History:</a><br>
+                        <a href="{{ route('page.holidays') }}" class="hover:text-purple-300">Holidays Around The World:</a><br>
                     </p>
                     <p class="text-2xl font-sans m-4">
                         <br>
