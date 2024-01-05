@@ -5,8 +5,8 @@
                 <!-- Links Section -->
                 <div class="md:w-1/4 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg md:items-start md:self-start">
                     <p class="text-xl font-sans m-4">
-                        History:<br>
-                        World History:<br>
+                        <a href="{{ route('page.history') }}" class="hover:text-purple-300">History:</a><br>
+                        <a href="{{ route('page.world.history') }}" class="hover:text-purple-300">World History:</a><br>
                     </p>
                     <p class="text-lg font-sans m-4">
                         <a href="{{ route('page.century1.world') }}" class="hover:text-purple-300">1st Century</a><br>
