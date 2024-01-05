@@ -22,9 +22,18 @@
                     <p class="text-xl font-sans m-4">
                         <div class="font-Preahvihear items-center text-2xl">
                             <span class="font-black">Science:</span><br>
-                            <b>Learning Fun</b>
+                            <b>Learning Fun:</b>
                         </div>
                         <form>
+                            <p>What is Anatomy: </p>
+                            <input type="radio" id="anat1" name="question1" value="anat1">
+                            <label for="anat1">The study of the body and its fuctions.</label><br>
+                            <input type="radio" id="anat2" name="question1" value="anat2">
+                            <label for="anat2">The study of atoms in space</label><br>
+                            <input type="radio" id="anat3" name="question1" value="anat3">
+                            <label for="anat3">The study of chemical reactions</label>
+                            <br>
+                            <p>Q2</p>
                             <input type="radio" id="ans1" name="question1" value="ans1">
                             <label for="ans1">ans1</label><br>
                             <input type="radio" id="ans2" name="question1" value="ans2">
