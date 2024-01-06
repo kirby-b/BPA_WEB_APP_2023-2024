@@ -35,19 +35,25 @@
                     <p class="text-xl font-sans m-4">
                         <span class="font-black">Science:</span><br>
                         <span class="font-bold">Animals:</span><br>
-                        <span class="font-semibold">Anatomy and Physiology:</span> The structure and function of animals' bodies, studying organs, tissues, and systems. Understanding how different body parts function allows scientists to comprehend how animals adapt to their environments.<br>
+                        <span class="font-semibold">Animal Physiology:</span> Understanding the functions and processes within the bodies of animals, including topics like digestion, circulation, and reproduction.<br>
                         <br>
-                        <span class="font-semibold">Behavioral Ecology:</span> Investigates how animals interact with each other and their environment, examining behaviors such as mating rituals, communication, migration, and foraging strategies. This field also explores the adaptive significance of behavior.<br>
+                        <span class="font-semibold">Genetics in Animal Breeding:</span> Applying principles of genetics to selectively breed animals for desired traits such as increased productivity, disease resistance, or specific characteristics.<br>
                         <br>
-                        <span class="font-semibold">Evolutionary Biology:</span> Explores the origins and changes in animal species over time. Evolutionary biologists study how species evolve, diversify, and adapt to their changing environments.<br>
+                        <span class="font-semibold">Animal Behavior:</span> Investigating how animals behave in different environments and social structures, considering factors like communication, mating rituals, and migration patterns.<br>
                         <br>
-                        <span class="font-semibold">Taxonomy and Systematics:</span> Focuses on classifying and categorizing organisms based on their evolutionary relationships. Taxonomists classify animals into groups to understand their diversity and evolutionary history.<br>
+                        <span class="font-semibold">Nutrition and Feed Science:</span> Studying the nutritional requirements of animals and developing appropriate feed formulations for optimal health and productivity.<br>
                         <br>
-                        <span class="font-semibold">Ecology:</span> Studies the interactions between animals and their environment, including their relationships with other organisms, their habitats, and the impact of environmental changes on their survival.<br>
+                        <span class="font-semibold">Veterinary Medicine:</span> Diagnosing, treating, and preventing diseases in animals, including both domesticated and wild species.<br>
                         <br>
-                        <span class="font-semibold">Conservation Biology:</span> Aims to understand and protect endangered species and ecosystems. Conservation biologists work to preserve biodiversity and prevent species extinction.<br>
+                        <span class="font-semibold">Zoology:</span> Examining the classification, evolution, and characteristics of animals, encompassing a wide range of species and their interactions with ecosystems.<br>
                         <br>
-                        <span class="font-semibold">Ethology:</span> Investigates animal behavior in a natural environment, focusing on instincts, learning, and communication. Ethologists study animal behavior without manipulating their surroundings.<br>
+                        <span class="font-semibold">Animal Welfare and Ethics:</span> Addressing ethical considerations related to the treatment and use of animals, ensuring their well-being in various settings.<br>
+                        <br>
+                        <span class="font-semibold">Reproductive Physiology:</span> Investigating the reproductive processes of animals, including hormonal regulation, mating behavior, and assisted reproductive technologies.<br>
+                        <br>
+                        <span class="font-semibold">Wildlife Conservation:</span> Protecting and preserving wild animal species and their habitats to maintain biodiversity and ecological balance.<br>
+                        <br>
+                        <span class="font-semibold">Livestock Management:</span> Managing the care, breeding, and production of domesticated animals for agriculture, including cattle, poultry, swine, and sheep.<br>
                     </p>
                 </div>
             </div>
