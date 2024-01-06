@@ -48,6 +48,11 @@
                         <span class="font-semibold">Hydrology:</span> The study of water distribution, movement, and properties on Earth. It involves analyzing the water cycle, groundwater, surface water, and the influence of water on landscapes and ecosystems.<br>
                         <br>
                         <span class="font-semibold">Geomorphology:</span> This field studies the formation and evolution of landforms, such as mountains, valleys, rivers, and glaciers, and the processes that shape the Earth's surface over time.<br>
+                        <span class="font-semibold">Climatology:</span> Examines long-term weather patterns and trends, providing insights into climate change and its impact on ecosystems.<br>
+                        <br>
+                        <span class="font-semibold">Volcanology:</span> Studies volcanic activity, including the formation of volcanoes, eruption mechanisms, and the impact of volcanic events on the environment.<br>
+                        <br>
+                        <span class="font-semibold">Paleontology:</span> Explores the Earth's history through the study of fossils, providing insights into the evolution of life on our planet.<br>
                     </p>
                 </div>
             </div>
