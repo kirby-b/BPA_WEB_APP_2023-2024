@@ -48,6 +48,12 @@
                         <span class="font-semibold">Astrobiology:</span> Explores the possibility of life beyond Earth, examining the conditions required for life to exist on other planets or moons. It investigates extremophiles on Earth and searches for habitable environments in the universe.<br>
                         <br>
                         <span class="font-semibold">Space Exploration:</span> Involves sending probes, telescopes, and spacecraft to explore celestial objects, gather data, and conduct experiments. It includes missions to other planets, moons, asteroids, and the study of cosmic phenomena through space telescopes.<br>
+                        <br>
+                        <span class="font-semibold">High-Energy Astrophysics:</span> Focuses on the study of energetic phenomena in the universe, such as gamma-ray bursts, active galactic nuclei, and cosmic rays.<br>
+                        <br>
+                        <span class="font-semibold">Solar Physics:</span> Investigates the Sun and its behavior, including solar flares, sunspots, and the solar wind, to understand the processes that drive our star.<br>
+                        <br>
+                        <span class="font-semibold">Radio Astronomy:</span> Utilizes radio waves to study celestial objects, providing insights into phenomena such as pulsars, quasars, and cosmic microwave background radiation.<br>
                     </p>
                 </div>
             </div>
