@@ -35,17 +35,25 @@
                     <p class="text-xl font-sans m-4">
                         <span class="font-black">Science:</span><br>
                         <span class="font-bold">Oceans:</span><br>
-                        <span class="font-semibold">Physical Oceanography:</span> The physical properties and processes of the oceans, including currents, waves, tides, and the circulation of seawater. Physical oceanographers study the movement of water masses, the interaction between oceans and the atmosphere, and the impact of these processes on climate and weather patterns.<br>
+                        <span class="font-semibold">Physical Oceanography:</span> Examines the physical properties of seawater, including temperature, salinity, currents, and the interaction between the ocean and the atmosphere.<br>
                         <br>
-                        <span class="font-semibold">Chemical Oceanography:</span> Chemical oceanographers investigate the composition of seawater, the distribution of chemical elements and compounds, nutrient cycles, acidity (pH), and the chemical reactions occurring in the ocean. They study how these factors influence marine life and global biogeochemical cycles.<br>
+                        <span class="font-semibold">Chemical Oceanography:</span> Investigates the chemical composition of seawater, studying the distribution of elements and compounds and their role in oceanic processes.<br>
                         <br>
-                        <span class="font-semibold">Biological Oceanography:</span> Explores the diverse life forms in the oceans, from microscopic plankton to large marine mammals. Biological oceanographers study marine ecosystems, food webs, biodiversity, behavior, reproduction, and the adaptations of organisms to various ocean conditions.<br>
+                        <span class="font-semibold">Biological Oceanography (Marine Biology):</span> Focuses on the study of marine life, including the diversity, distribution, and behavior of organisms in the ocean ecosystem.<br>
                         <br>
-                        <span class="font-semibold">Geological Oceanography:</span> Examine the ocean floor, including its topography, sediments, and geological formations. They study the processes of plate tectonics, underwater volcanoes, seafloor spreading, and the history of Earth's geology recorded in marine sediments and rocks.<br>
+                        <span class="font-semibold">Marine Geology:</span> Explores the geological features of the ocean floor, including the study of underwater topography, seafloor sediments, and the processes shaping the ocean basins.<br>
                         <br>
-                        <span class="font-semibold">Marine Ecology:</span> The relationships between organisms and their environments in the ocean. They study how factors like temperature, salinity, nutrient availability, and human impacts affect marine ecosystems and biodiversity.<br>
+                        <span class="font-semibold">Ocean Acoustics:</span> Examines the behavior of sound in the ocean, including its propagation, reflection, and refraction. This field is crucial for studying marine life, mapping the seafloor, and communication.<br>
                         <br>
-                        <span class="font-semibold">Paleoceanography:</span> Involves studying the history of the oceans, including past climate changes, ocean circulation patterns, and ancient marine life, often using sediment cores and fossil records to understand long-term changes in the oceans.<br>
+                        <span class="font-semibold">Oceanography Remote Sensing:</span> Uses satellite and remote sensing technologies to collect data about the ocean's surface, including sea surface temperature, ocean color, and sea level.<br>
+                        <br>
+                        <span class="font-semibold">Paleoceanography:</span> Investigates the history of the oceans by studying sediment cores and other geological records to understand past climate variations and environmental changes.<br>
+                        <br>
+                        <span class="font-semibold">Marine Ecology:</span> Explores the interactions between organisms and their environment in marine ecosystems, including food webs, biodiversity, and the impact of human activities.<br>
+                        <br>
+                        <span class="font-semibold">Oceanography and Climate Change:</span> Examines the role of the oceans in climate regulation, the impact of climate change on ocean systems, and the feedback loops between the atmosphere and the ocean.<br>
+                        <br>
+                        <span class="font-semibold">Marine Biogeochemistry:</span> Studies the cycling of chemical elements and compounds in the ocean, including the processes that influence nutrient availability, carbon cycling, and ecosystem dynamics.<br>
                     </p>
                 </div>
             </div>
