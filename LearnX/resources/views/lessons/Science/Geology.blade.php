@@ -35,21 +35,25 @@
                     <p class="text-xl font-sans m-4">
                         <span class="font-black">Science:</span><br>
                         <span class="font-bold">Geology:</span><br>
-                        <span class="font-semibold">Physical Geology:</span> Examines the Earth's materials, including minerals and rocks, and studies the processes that form and modify the Earth's surface, such as plate tectonics, erosion, and deposition.<br>
+                        <span class="font-semibold">Petrology:</span> Focuses on the study of rocks, including their classification, origin, and composition. Petrologists examine the processes that lead to the formation of different rock types.<br>
                         <br>
-                        <span class="font-semibold">Mineralogy:</span> The focus on the study of minerals—their properties, compositions, structures, and occurrences in nature. Minerals are the building blocks of rocks and play a crucial role in understanding Earth's processes.<br>
+                        <span class="font-semibold">Mineralogy:</span> Examines minerals, their properties, and their distribution on Earth. Mineralogists study the composition, structure, and physical characteristics of minerals.<br>
                         <br>
-                        <span class="font-semibold">Petrology:</span> Studies the origin, composition, and classification of rocks. It delves into how rocks form, the conditions under which they are created, and the processes that transform them over time.<br>
+                        <span class="font-semibold">Stratigraphy:</span> Investigates the layering of rocks and the arrangement of rock units in time. Stratigraphers use principles of relative dating to understand the Earth's history.<br>
                         <br>
-                        <span class="font-semibold">Structural Geology:</span> Examines the deformation of rocks and the forces that cause them. It involves studying folds, faults, and other structural features to understand the Earth's crustal movements.<br>
+                        <span class="font-semibold">Structural Geology:</span> Studies the deformation of rocks and the processes that lead to the formation of geological structures such as folds, faults, and joints.<br>
                         <br>
-                        <span class="font-semibold">Geomorphology:</span> The study of landforms and the processes that shape the Earth's surface, including erosion, weathering, rivers, glaciers, and tectonic activity.<br>
+                        <span class="font-semibold">Sedimentology:</span> Focuses on the study of sediments and sedimentary rocks, including their formation, transport, and deposition. Sedimentologists reconstruct past environments based on sedimentary evidence.<br>
                         <br>
-                        <span class="font-semibold">Paleontology:</span> The study of ancient life forms through fossils. It helps in understanding the history of life on Earth and how life has evolved over millions of years.<br>
+                        <span class="font-semibold">Volcanology:</span> Examines volcanic activity, including the study of volcanoes, lava flows, and volcanic eruptions. Volcanologists analyze the geological processes associated with volcanic events.<br>
                         <br>
-                        <span class="font-semibold">Sedimentology and Stratigraphy:</span> These disciplines deal with the study of sedimentary rocks, their formation, the processes involved in their deposition, and the interpretation of rock layers (strata) to understand Earth's history.<br>
+                        <span class="font-semibold">Geomorphology:</span> Studies the Earth's landforms and the processes that shape the surface, such as erosion, weathering, and deposition. Geomorphologists investigate the evolution of landscapes.<br>
                         <br>
-                        <span class="font-semibold">Geological Time Scale:</span> The understanding of the sequence of events and the relative ages of rocks and geological formations.<br>
+                        <span class="font-semibold">Hydrogeology:</span> Investigates the distribution and movement of groundwater, as well as the geological processes that influence the availability and quality of water resources.<br>
+                        <br>
+                        <span class="font-semibold">Geochronology:</span> Involves dating rocks and geological events to establish the timing of Earth's history. Geochronologists use methods like radiometric dating to determine ages.<br>
+                        <br>
+                        <span class="font-semibold">Tectonics:</span> Explores the movement and interactions of Earth's lithospheric plates. Tectonics includes the study of plate boundaries, earthquakes, and the formation of mountain ranges.<br>
                     </p>
                 </div>
             </div>
