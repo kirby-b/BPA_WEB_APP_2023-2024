@@ -34,13 +34,25 @@
                     <p class="text-xl font-sans m-4">
                         <span class="font-black">Math:</span><br>
                         <span class="font-bold">Algebra:</span><br><br>
-                        <span class="font-semibold">Variables and Constants:</span> In algebra, letters (like x, y, z) are used to represent unknown quantities called variables. Constants are known values. Equations combine variables, constants, and mathematical operations (like addition, subtraction, multiplication, division, exponentiation) to express relationships.<br>
+                        <span class="font-semibold">Linear Equations:</span> Solving equations of the form ax + b = c.<br>
                         <br>
-                        <span class="font-semibold">Expressions:</span> Algebraic expressions are combinations of variables, constants, and operators.<br>
+                        <span class="font-semibold">Quadratic Equations:</span> Solving equations of the form ax^2 + bx + c = 0.<br>
                         <br>
-                        <span class="font-semibold">Equations:</span> Equations are statements that assert the equality of two expressions, separated by an equal sign. Solving equations involves finding the values of the variables that make the equation true.<br>
+                        <span class="font-semibold">Polynomials:</span> Expressions with one or more algebraic terms.<br>
                         <br>
-                        <span class="font-semibold">Graphing:</span>  Algebraic equations and functions can be graphed on coordinate planes, representing relationships visually. This helps in understanding patterns, solutions, and behaviors of functions.<br>
+                        <span class="font-semibold">Factoring:</span> Breaking down expressions into their factors.<br>
+                        <br>
+                        <span class="font-semibold">Systems of Equations:</span> Dealing with multiple equations simultaneously.<br>
+                        <br>
+                        <span class="font-semibold">Inequalities:</span> Understanding and solving expressions with <, >, ≤, or ≥.<br>
+                        <br>
+                        <span class="font-semibold">Functions:</span> Describing relationships between variables.<br>
+                        <br>
+                        <span class="font-semibold">Exponents:</span> Operations involving powers and roots.<br>
+                        <br>
+                        <span class="font-semibold">Rational Expressions:</span> Fractions where the numerator and/or denominator are polynomials.<br>
+                        <br>
+                        <span class="font-semibold">Word Problems:</span> Applying algebraic concepts to real-world situations.<br>
                     </p>
                 </div>
             </div>
