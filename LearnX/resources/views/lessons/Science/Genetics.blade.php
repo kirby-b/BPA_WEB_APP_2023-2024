@@ -37,17 +37,24 @@
                         <span class="font-bold">Genetics:</span><br>
                         <span class="font-semibold">Genes and DNA:</span> Genes are segments of DNA that contain instructions for building proteins, which are essential for the structure and function of cells. DNA, or deoxyribonucleic acid, is the molecule that carries genetic information in all living organisms.<br>
                         <br>
-                        <span class="font-semibold">Inheritance:</span> Genetics investigates how traits are inherited from parents to offspring. Traits can be influenced by a single gene (simple traits) or multiple genes and environmental factors (complex traits).<br>
+                        <span class="font-semibold">Genomics:</span> The study of entire genomes, including the mapping, sequencing, and analysis of DNA to understand the structure and function of genes.<br>
                         <br>
-                        <span class="font-semibold">Genetic Variation:</span> Genetic variation refers to the differences in genes among individuals of the same species. This variation is responsible for the diversity observed in populations and contributes to differences in traits.<br>
+                        <span class="font-semibold">Molecular Genetics:</span> Investigates the molecular structure and function of genes, focusing on the mechanisms of DNA replication, transcription, and translation.<br>
                         <br>
-                        <span class="font-semibold">Mendelian Genetics:</span> Gregor Mendel, often considered the father of genetics, discovered the basic principles of inheritance through his work with pea plants. His laws, such as the law of segregation and the law of independent assortment, laid the foundation for understanding how traits are passed down through generations.<br>
+                        <span class="font-semibold">Population Genetics:</span> Examines the distribution and changes in genetic variation within and between populations, exploring factors like migration, natural selection, and genetic drift.<br>
                         <br>
-                        <span class="font-semibold">Genetic Disorders:</span> Genetics also examines inherited disorders caused by mutations or alterations in genes. These disorders can be inherited in different ways, such as autosomal dominant, autosomal recessive, or sex-linked inheritance.<br>
+                        <span class="font-semibold">Epigenetics:</span> Studies heritable changes in gene function that do not involve alterations to the underlying DNA sequence, exploring how environmental factors can influence gene expression.<br>
                         <br>
-                        <span class="font-semibold">Genetic Engineering and Biotechnology:</span> Genetic technologies allow scientists to manipulate and modify genes for various purposes, including creating genetically modified organisms (GMOs), gene therapy for treating genetic diseases, and producing pharmaceuticals.<br>
+                        <span class="font-semibold">Human Genetics:</span> Focuses on the study of inherited traits and diseases in humans, including genetic disorders, gene therapy, and the identification of disease-associated genes.<br>
                         <br>
-                        <span class="font-semibold">Population Genetics:</span> This field studies the distribution of genetic variation within populations and how factors like natural selection, genetic drift, migration, and mutation shape the genetic makeup of populations over time.<br>
+                        <span class="font-semibold">Genetic Engineering:</span> Involves the manipulation of genes to modify organisms for practical purposes, such as the development of genetically modified organisms (GMOs) and gene therapy.<br>
+                        <br>
+                        <span class="font-semibold">Comparative Genomics:</span> Compares the genomes of different species to identify similarities and differences, providing insights into evolutionary relationships and functional genomics.<br>
+                        <br>
+                        <span class="font-semibold">Cytogenetics:</span> Examines the structure and function of chromosomes, including the study of chromosomal abnormalities and their association with genetic disorders.<br>
+                        <br>
+                        <span class="font-semibold">Functional Genomics:</span> Explores the function of genes and their products on a large scale, integrating various omics technologies to understand gene regulation and interactions.<br>
+                        <br>
                     </p>
                 </div>
             </div>
