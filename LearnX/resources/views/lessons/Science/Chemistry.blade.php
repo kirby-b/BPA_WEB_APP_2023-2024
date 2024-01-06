@@ -51,7 +51,9 @@
                         <br>
                         <span class="font-semibold">Analytical Chemistry:</span> Involves techniques and methods to analyze and identify the composition of substances, determining their quantities and properties.<br>
                         <br>
-                        <span class="font-semibold">Organic and Inorganic Chemistry:</span> Organic chemistry studies carbon-containing compounds, including those found in living organisms, while inorganic chemistry focuses on non-carbon compounds.<br>
+                        <span class="font-semibold">Organic:</span> Studies carbon-containing compounds, including those found in living organisms<br>
+                        <br>
+                        <span class="font-semibold">Inorganic Chemistry:</span> Focuses on non-carbon compounds.<br>
                     </p>
                 </div>
             </div>
