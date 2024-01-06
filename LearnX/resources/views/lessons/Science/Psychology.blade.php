@@ -50,6 +50,10 @@
                         <span class="font-semibold">Educational Psychology:</span> Studies learning processes, teaching methods, educational interventions, and the psychological factors that influence learning and academic performance.<br>
                         <br>
                         <span class="font-semibold">Forensic Psychology:</span> Applies psychological principles within the legal and criminal justice systems, assessing mental health, evaluating witnesses, profiling criminals, and offering expertise in legal cases.<br>
+                        <br>
+                        <span class="font-semibold">Behavioral Psychology:</span> Focuses on observable behaviors and the principles of learning, including classical and operant conditioning, reinforcement, and behavior modification.<br>
+                        <br>
+                        <span class="font-semibold">Health Psychology:</span> Investigates the psychological factors influencing health and illness, including the impact of stress, lifestyle choices, and coping mechanisms on overall well-being.<br>
                     </p>
                 </div>
             </div>
