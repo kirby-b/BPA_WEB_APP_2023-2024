@@ -55,6 +55,15 @@
                         <span class="font-semibold">Analysis and Interpretation:</span> Graphs help in analyzing trends, identifying patterns, and making predictions based on the data.<br> 
                         <br>
                         <span class="font-semibold">Problem-solving:</span> They assist in solving equations, finding intersections, determining maximum or minimum points, and more.<br> 
+                        <br>
+                        <b>Two graphs you will commonly use and see are:</b><br> 
+                        <span class="font-semibold">Line Graphs:</span><br>
+                        Purpose: Display trends or changes over time.<br>
+                        Description: A line graph represents data points connected by straight lines, making it easy to observe patterns and trends.<br>
+                        <br>
+                        <span class="font-semibold">Bar Graphs:</span><br>
+                        Purpose: Compare quantities or categories.<br>
+                        Description: Bars of varying lengths are used to represent different categories or values, and the height of each bar corresponds to the quantity being compared.<br>
                     </p>
                 </div>
             </div>
