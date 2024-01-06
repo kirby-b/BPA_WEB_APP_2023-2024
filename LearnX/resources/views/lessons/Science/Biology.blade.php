@@ -52,6 +52,8 @@
                         <span class="font-semibold">Microbiology:</span> Focuses on microscopic organisms such as bacteria, viruses, fungi, and protists. It explores their structure, function, behavior, and their roles in disease, industry, and the environment.<br>
                         <br>
                         <span class="font-semibold">Molecular Biology:</span> Examines biological processes at the molecular level, including DNA, RNA, protein synthesis, gene regulation, and the molecular basis of diseases.<br>
+                        <br>
+                        <span class="font-semibold">Neurobiology:</span> Study of the nervous system, including the structure and function of the brain and nervous tissues.<br>
                     </p>
                 </div>
             </div>
