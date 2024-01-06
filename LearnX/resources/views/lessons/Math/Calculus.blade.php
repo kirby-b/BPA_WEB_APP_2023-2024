@@ -34,19 +34,25 @@
                     <p class="text-xl font-sans m-4">
                         <span class="font-black">Math:</span><br>
                         <span class="font-bold">Calculus:</span><br><br>
-                        <span class="font-semibold">Differentiation:</span> This involves the study of rates at which quantities change. It's about finding derivatives, which represent the rate of change of one quantity with respect to another. Derivatives are fundamental in calculus and are used to analyze functions, describe motion, solve optimization problems, and understand the behavior of graphs. For instance, the derivative of a function f(x) gives us the slope of the tangent line to the graph of f(x) at any point.<br><br>
+                        <span class="font-semibold">Differentiation:</span> Calculus involves the concept of differentiation, which is the process of finding the rate at which a quantity changes.<br>
                         <br>
-                        <span class="font-semibold">Integration:</span> The reverse process of differentiation. It involves finding antiderivatives and definite integrals. Integrals represent the accumulation of quantities and are used to compute areas under curves, calculate total quantities, solve problems related to motion, and much more. Definite integrals provide the exact accumulation of a quantity over a specific interval.<br><br>
+                        <span class="font-semibold">Integration:</span> Integration is the reverse process of differentiation and involves finding the accumulated quantity, often interpreted as the area under a curve.<br>
                         <br>
-                        <span class = "font-bold">Calculus has several important concepts and tools:</span><br>
+                        <span class="font-semibold">Limits:</span> Calculus deals with limits, describing the behavior of functions as the input approaches a certain value.<br>
                         <br>
-                        <span class="font-semibold">Limits:</span> The foundational concept of calculus. Limits describe the behavior of functions as inputs approach certain values, such as infinity or specific points. They're used in defining derivatives and integrals.<br>
+                        <span class="font-semibold">Derivatives:</span> The derivative of a function represents its rate of change and is a fundamental concept in calculus.<br>
                         <br>
-                        <span class="font-semibold">Derivatives:</span> Calculating the rate of change of a function at a given point. The derivative of a function f(x) is denoted as f'(x) or dx/df.<br>
+                        <span class="font-semibold">Integrals:</span> Integrals are used to calculate the total accumulated change over an interval and find the area under curves.<br>
                         <br>
-                        <span class="font-semibold">Integrals:</span> The accumulation of quantities or finding the area under a curve. The integral of a function f(x) is denoted as ∫f(x)dx.<br>
+                        <span class="font-semibold">Limits and Continuity:</span> Understanding how functions behave as they approach specific values is crucial in calculus.<br>
                         <br>
-                        <span class="font-semibold">Applications:</span> Calculus has a wide range of applications in various fields, including physics, engineering, economics, biology, and more. It's used to model and solve problems related to motion, optimization, growth and decay, and many other real-world scenarios.<br>
+                        <span class="font-semibold">Differential Equations:</span> Calculus is used to solve differential equations, which describe how a quantity changes with respect to another variable.<br>
+                        <br>
+                        <span class="font-semibold">Applications in Physics:</span> Calculus plays a significant role in physics, describing motion, forces, and other physical phenomena.<br>
+                        <br>
+                        <span class="font-semibold">Applications in Economics:</span> Calculus is used in economics to model and analyze various economic phenomena such as supply and demand.<br>
+                        <br>
+                        <span class="font-semibold">Multivariable Calculus:</span> Extending calculus to functions of multiple variables, which is important in fields like computer science, engineering, and physics.<br>
                     </p>
                 </div>
             </div>
