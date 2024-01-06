@@ -34,19 +34,25 @@
                     <p class="text-xl font-sans m-4">
                         <span class="font-black">Math:</span><br>
                         <span class="font-bold">Elementary Math:</span><br><br>
-                        <span class="font-semibold">Counting and Numbers:</span> Learning to count, understand number sequences, and recognize numbers. This includes learning about place value (ones, tens, hundreds), odd and even numbers, and comparing numbers.<br>
+                        <span class="font-semibold">Arithmetic Operations:</span> Elementary math includes fundamental operations like addition, subtraction, multiplication, and division.<br>
                         <br>
-                        <span class="font-semibold">Basic Operations:</span> Addition, subtraction, multiplication, and division. Students learn the arithmetic operations, understanding their symbols and basic applications.<br>
+                        <span class="font-semibold">Number Sense:</span> Developing an understanding of numbers, their relationships, and their magnitude.<br>
                         <br>
-                        <span class="font-semibold">Fractions and Decimals:</span> Introducing the concept of fractions as parts of a whole, and later, understanding decimals as a way to represent parts of a whole or a group.<br>
+                        <span class="font-semibold">Place Value:</span> Understanding the value of digits based on their position in a number.<br>
                         <br>
-                        <span class="font-semibold">Measurement:</span> Learning about units of measurement for length, weight, volume, time, and money. This includes understanding different tools used for measurement.<br>
+                        <span class="font-semibold">Fractions and Decimals:</span> Introducing the concept of parts of a whole through fractions and decimals.<br>
                         <br>
-                        <span class="font-semibold">Geometry:</span> Introduction to shapes, their properties, and basic geometric concepts like lines, angles, polygons, symmetry, and basic area and perimeter calculations.<br>
+                        <span class="font-semibold">Geometry:</span> Basic geometry concepts such as shapes, angles, and spatial relationships.<br>
                         <br>
-                        <span class="font-semibold">Data and Graphs:</span> Understanding basic data collection, organization, and representation through graphs such as bar graphs, line graphs, and pictographs.<br>
+                        <span class="font-semibold">Measurement:</span> Learning units of measurement for length, weight, volume, and time.<br>
                         <br>
-                        <span class="font-semibold">Problem Solving:</span> Encouraging critical thinking and problem-solving skills by applying math concepts to real-life situations and word problems.<br>
+                        <span class="font-semibold">Patterns and Sequences:</span> Recognizing and extending patterns and sequences of numbers or shapes.<br>
+                        <br>
+                        <span class="font-semibold">Basic Algebra:</span> Introduction to simple algebraic expressions and equations.<br>
+                        <br>
+                        <span class="font-semibold">Data and Statistics:</span> Understanding basic concepts like graphs, charts, and simple statistical measures.<br>
+                        <br>
+                        <span class="font-semibold">Problem Solving:</span> Developing problem-solving skills through various mathematical scenarios and word problems.<br>
                     </p>
                 </div>
             </div>
