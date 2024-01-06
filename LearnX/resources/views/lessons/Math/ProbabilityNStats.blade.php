@@ -33,15 +33,39 @@
                 <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
                     <p class="text-xl font-sans m-4">
                         <span class="font-black">Math:</span><br>
-                        <span class="font-bold">Probability and Statistics:</span><br>
-                        Probability and statistics are two branches of mathematics that deal with uncertainty, randomness, and data analysis.<br>
+                        <span class="font-extrabold">Probability and Statistics:</span><br>
+                        <span class="font-bold">Probability:</span><br>
                         <br>
-                        <span class="font-semibold">Probability:</span> Involves studying the likelihood of events occurring in various situations. It provides a framework to quantify uncertainty. The basic idea is to assign a numerical value between 0 and 1 to the likelihood of an event happening, where 0 indicates impossibility, 1 indicates certainty, and values in between represent degrees of likelihood. For example, the probability of getting heads when flipping a fair coin is 0.5 (or 50%).<br>
+                        <span class="font-semibold">Definition:</span> Probability measures the likelihood of an event occurring and is expressed as a number between 0 and 1, where 0 represents impossibility, and 1 represents certainty.<br>
+                        <span class="font-bold">Statistics:</span><br>
                         <br>
-                        <span class="font-semibold">Statistics:</span> Involves collecting, analyzing, interpreting, and presenting data. It helps in making inferences or conclusions about a larger population based on a sample of data. Statistics includes various methods for summarizing data (descriptive statistics) and making predictions or drawing conclusions from data (inferential statistics).<br>
-                        Descriptive statistics involve measures like mean, median, mode, variance, and standard deviation, which help in summarizing and describing the main features of a dataset.<br>
-                        Inferential statistics uses probability theory to make predictions or draw conclusions about a population based on a sample. This includes techniques like hypothesis testing, regression analysis, confidence intervals, and more.<br>
-                        Probability and statistics are used extensively in various fields such as science, economics, social sciences, engineering, and more, to model uncertainty, make predictions, and draw meaningful insights from data.<br>
+                        <span class="font-semibold">Definition:</span> Statistics involves the collection, analysis, interpretation, presentation, and organization of data. It provides methods for drawing conclusions from data.<br>
+                        <span class="font-bold">Descriptive Statistics:</span><br>
+                        <br>
+                        <span class="font-semibold">Purpose:</span> Summarize and describe main features of a dataset.<br>
+                        <span class="font-semibold">Examples:</span> Mean, median, mode, range, and standard deviation.<br>
+                        <span class="font-bold">Inferential Statistics:</span><br>
+                        <br>
+                        <span class="font-semibold">Purpose:</span> Make predictions or inferences about a population based on a sample.<br>
+                        <span class="font-semibold">Examples:</span> Confidence intervals, hypothesis testing.<br>
+                        <span class="font-bold">Probability Distributions:</span><br>
+                        <br>
+                        <span class="font-semibold">Definition:</span> A function that describes the likelihood of obtaining possible values in a statistical experiment.<br>
+                        <span class="font-bold">Normal Distribution:</span><br>
+                        <br>
+                        <span class="font-semibold">Definition:</span> A symmetric bell-shaped curve that describes the distribution of many naturally occurring phenomena.<br>
+                        <span class="font-bold">Central Limit Theorem:</span><br>
+                        <br>
+                        <span class="font-semibold">Concept:</span> States that, under certain conditions, the distribution of the sum (or average) of a large number of independent, identically distributed random variables approaches a normal distribution.<br>
+                        <span class="font-bold">Regression Analysis:</span><br>
+                        <br>
+                        <span class="font-semibold">Purpose:</span> Examines the relationship between one dependent variable and one or more independent variables.<br>
+                        <span class="font-bold">Confidence Intervals:</span><br>
+                        <br>
+                        <span class="font-semibold">Purpose:</span> Estimate the range in which a population parameter is likely to lie.<br>
+                        <span class="font-bold">Hypothesis Testing:</span><br>
+                        <br>
+                        <span class="font-semibold">Purpose:</span> Evaluate a claim about a population parameter based on sample data.
                     </p>
                 </div>
             </div>
