@@ -329,6 +329,210 @@
                             <label for="inorganic3">C. ans3</label>
                             <input type="radio" id="inorganic4" name="question30" value="inorganic4">
                             <label for="inorganic4">D. ans4</label>
+                            <br>
+                            <span class="font-bold">Earth:</span>
+                            <br>
+                            <p>Geology</p>
+                            <input type="radio" id="geology1" name="question31" value="geology1">
+                            <label for="geology1">A. ans1</label><br>
+                            <input type="radio" id="geology2" name="question31" value="geology2">
+                            <label for="geology2">B. ans2</label><br>
+                            <input type="radio" id="geology3" name="question31" value="geology3">
+                            <label for="geology3">C. ans3</label>
+                            <input type="radio" id="geology4" name="question31" value="geology4">
+                            <label for="geology4">D. ans4</label>
+                            <br>
+                            <p>Meteorology</p>
+                            <input type="radio" id="meteor1" name="question32" value="meteor1">
+                            <label for="meteor1">A. ans1</label><br>
+                            <input type="radio" id="meteor2" name="question32" value="meteor2">
+                            <label for="meteor2">B. ans2</label><br>
+                            <input type="radio" id="meteor3" name="question32" value="meteor3">
+                            <label for="meteor3">C. ans3</label>
+                            <input type="radio" id="meteor4" name="question32" value="meteor4">
+                            <label for="meteor4">D. ans4</label>
+                            <br>
+                            <p>Oceanography</p>
+                            <input type="radio" id="oceanograph1" name="question33" value="oceanograph1">
+                            <label for="oceanograph1">A. ans1</label><br>
+                            <input type="radio" id="oceanograph2" name="question33" value="oceanograph2">
+                            <label for="oceanograph2">B. ans2</label><br>
+                            <input type="radio" id="oceanograph3" name="question33" value="oceanograph3">
+                            <label for="oceanograph3">C. ans3</label>
+                            <input type="radio" id="oceanograph4" name="question33" value="oceanograph4">
+                            <label for="oceanograph4">D. ans4</label>
+                            <br>
+                            <p>Environmental Science</p>
+                            <input type="radio" id="envscience1" name="question34" value="envscience1">
+                            <label for="envscience1">A. ans1</label><br>
+                            <input type="radio" id="envscience2" name="question34" value="envscience2">
+                            <label for="envscience2">B. ans2</label><br>
+                            <input type="radio" id="envscience3" name="question34" value="envscience3">
+                            <label for="envscience3">C. ans3</label>
+                            <input type="radio" id="envscience4" name="question34" value="envscience4">
+                            <label for="envscience4">D. ans4</label>
+                            <br>
+                            <p>Geophysics</p>
+                            <input type="radio" id="geophysics1" name="question35" value="geophysics1">
+                            <label for="geophysics1">A. ans1</label><br>
+                            <input type="radio" id="geophysics2" name="question35" value="geophysics2">
+                            <label for="geophysics2">B. ans2</label><br>
+                            <input type="radio" id="geophysics3" name="question35" value="geophysics3">
+                            <label for="geophysics3">C. ans3</label>
+                            <input type="radio" id="geophysics4" name="question35" value="geophysics4">
+                            <label for="geophysics4">D. ans4</label>
+                            <br>
+                            <p>Hydrology</p>
+                            <input type="radio" id="hydrology1" name="question36" value="hydrology1">
+                            <label for="hydrology1">A. ans1</label><br>
+                            <input type="radio" id="hydrology2" name="question36" value="hydrology2">
+                            <label for="hydrology2">B. ans2</label><br>
+                            <input type="radio" id="hydrology3" name="question36" value="hydrology3">
+                            <label for="hydrology3">C. ans3</label>
+                            <input type="radio" id="hydrology4" name="question36" value="hydrology4">
+                            <label for="hydrology4">D. ans4</label>
+                            <br>
+                            <p>Geomorphology</p>
+                            <input type="radio" id="geomorph1" name="question37" value="geomorph1">
+                            <label for="geomorph1">A. ans1</label><br>
+                            <input type="radio" id="geomorph2" name="question37" value="geomorph2">
+                            <label for="geomorph2">B. ans2</label><br>
+                            <input type="radio" id="geomorph3" name="question37" value="geomorph3">
+                            <label for="geomorph3">C. ans3</label>
+                            <input type="radio" id="geomorph4" name="question37" value="geomorph4">
+                            <label for="geomorph4">D. ans4</label>
+                            <br>
+                            <p>Climatology</p>
+                            <input type="radio" id="climate1" name="question38" value="climate1">
+                            <label for="climate1">A. ans1</label><br>
+                            <input type="radio" id="climate2" name="question38" value="climate2">
+                            <label for="climate2">B. ans2</label><br>
+                            <input type="radio" id="climate3" name="question38" value="climate3">
+                            <label for="climate3">C. ans3</label>
+                            <input type="radio" id="climate4" name="question38" value="climate4">
+                            <label for="climate4">D. ans4</label>
+                            <br>
+                            <p>Volcanology</p>
+                            <input type="radio" id="volcanoe1" name="question39" value="volcanoe1">
+                            <label for="volcanoe1">A. ans1</label><br>
+                            <input type="radio" id="volcanoe2" name="question39" value="volcanoe2">
+                            <label for="volcanoe2">B. ans2</label><br>
+                            <input type="radio" id="volcanoe3" name="question39" value="volcanoe3">
+                            <label for="volcanoe3">C. ans3</label>
+                            <input type="radio" id="volcanoe4" name="question39" value="volcanoe4">
+                            <label for="volcanoe4">D. ans4</label>
+                            <br>
+                            <p>Paleontology</p>
+                            <input type="radio" id="paleon1" name="question40" value="paleon1">
+                            <label for="paleon1">A. ans1</label><br>
+                            <input type="radio" id="paleon2" name="question40" value="paleon2">
+                            <label for="paleon2">B. ans2</label><br>
+                            <input type="radio" id="paleon3" name="question40" value="paleon3">
+                            <label for="paleon3">C. ans3</label>
+                            <input type="radio" id="paleon4" name="question40" value="paleon4">
+                            <label for="paleon4">D. ans4</label>
+                            <br>
+                            <span class="font-bold">Genetics:</span>
+                            <br>
+                            <p>Genes and DNA</p>
+                            <input type="radio" id="genesndna1" name="question41" value="genesndna1">
+                            <label for="genesndna1">A. ans1</label><br>
+                            <input type="radio" id="genesndna2" name="question41" value="genesndna2">
+                            <label for="genesndna2">B. ans2</label><br>
+                            <input type="radio" id="genesndna3" name="question41" value="genesndna3">
+                            <label for="genesndna3">C. ans3</label>
+                            <input type="radio" id="genesndna4" name="question41" value="genesndna4">
+                            <label for="genesndna4">D. ans4</label>
+                            <br>
+                            <p>Genomics</p>
+                            <input type="radio" id="genomics1" name="question42" value="genomics1">
+                            <label for="genomics1">A. ans1</label><br>
+                            <input type="radio" id="genomics2" name="question42" value="genomics2">
+                            <label for="genomics2">B. ans2</label><br>
+                            <input type="radio" id="genomics3" name="question42" value="genomics3">
+                            <label for="genomics3">C. ans3</label>
+                            <input type="radio" id="genomics4" name="question42" value="genomics4">
+                            <label for="genomics4">D. ans4</label>
+                            <br>
+                            <p>Molecular Genetics</p>
+                            <input type="radio" id="moleculargenes1" name="question43" value="moleculargenes1">
+                            <label for="moleculargenes1">A. ans1</label><br>
+                            <input type="radio" id="moleculargenes2" name="question43" value="moleculargenes2">
+                            <label for="moleculargenes2">B. ans2</label><br>
+                            <input type="radio" id="moleculargenes3" name="question43" value="moleculargenes3">
+                            <label for="moleculargenes3">C. ans3</label>
+                            <input type="radio" id="moleculargenes4" name="question43" value="moleculargenes4">
+                            <label for="moleculargenes4">D. ans4</label>
+                            <br>
+                            <p>Population Genetics</p>
+                            <input type="radio" id="populationgenes1" name="question44" value="populationgenes1">
+                            <label for="populationgenes1">A. ans1</label><br>
+                            <input type="radio" id="populationgenes2" name="question44" value="populationgenes2">
+                            <label for="populationgenes2">B. ans2</label><br>
+                            <input type="radio" id="populationgenes3" name="question44" value="populationgenes3">
+                            <label for="populationgenes3">C. ans3</label>
+                            <input type="radio" id="populationgenes4" name="question44" value="populationgenes4">
+                            <label for="populationgenes4">D. ans4</label>
+                            <br>
+                            <p>Epigenetics</p>
+                            <input type="radio" id="epigene1" name="question45" value="epigene1">
+                            <label for="epigene1">A. ans1</label><br>
+                            <input type="radio" id="epigene2" name="question45" value="epigene2">
+                            <label for="epigene2">B. ans2</label><br>
+                            <input type="radio" id="epigene3" name="question45" value="epigene3">
+                            <label for="epigene3">C. ans3</label>
+                            <input type="radio" id="epigene4" name="question45" value="epigene4">
+                            <label for="epigene4">D. ans4</label>
+                            <br>
+                            <p>Human Genetics</p>
+                            <input type="radio" id="humangene1" name="question46" value="humangene1">
+                            <label for="humangene1">A. ans1</label><br>
+                            <input type="radio" id="humangene2" name="question46" value="humangene2">
+                            <label for="humangene2">B. ans2</label><br>
+                            <input type="radio" id="humangene3" name="question46" value="humangene3">
+                            <label for="humangene3">C. ans3</label>
+                            <input type="radio" id="humangene4" name="question46" value="humangene4">
+                            <label for="humangene4">D. ans4</label>
+                            <br>
+                            <p>Genetic Engineering</p>
+                            <input type="radio" id="engineergene1" name="question47" value="engineergene1">
+                            <label for="engineergene1">A. ans1</label><br>
+                            <input type="radio" id="engineergene2" name="question47" value="engineergene2">
+                            <label for="engineergene2">B. ans2</label><br>
+                            <input type="radio" id="engineergene3" name="question47" value="engineergene3">
+                            <label for="engineergene3">C. ans3</label>
+                            <input type="radio" id="engineergene4" name="question47" value="engineergene4">
+                            <label for="engineergene4">D. ans4</label>
+                            <br>
+                            <p>Comparative Genomics</p>
+                            <input type="radio" id="comparegeno1" name="question48" value="comparegeno1">
+                            <label for="comparegeno1">A. ans1</label><br>
+                            <input type="radio" id="comparegeno2" name="question48" value="comparegeno2">
+                            <label for="comparegeno2">B. ans2</label><br>
+                            <input type="radio" id="comparegeno3" name="question48" value="comparegeno3">
+                            <label for="comparegeno3">C. ans3</label>
+                            <input type="radio" id="comparegeno4" name="question48" value="comparegeno4">
+                            <label for="comparegeno4">D. ans4</label>
+                            <br>
+                            <p>Cytogenetics</p>
+                            <input type="radio" id="cytogenetics1" name="question49" value="cytogenetics1">
+                            <label for="cytogenetics1">A. ans1</label><br>
+                            <input type="radio" id="cytogenetics2" name="question49" value="cytogenetics2">
+                            <label for="cytogenetics2">B. ans2</label><br>
+                            <input type="radio" id="cytogenetics3" name="question49" value="cytogenetics3">
+                            <label for="cytogenetics3">C. ans3</label>
+                            <input type="radio" id="cytogenetics4" name="question49" value="cytogenetics4">
+                            <label for="cytogenetics4">D. ans4</label>
+                            <br>
+                            <p>Functional Genomics</p>
+                            <input type="radio" id="funcgenomics1" name="question50" value="funcgenomics1">
+                            <label for="funcgenomics1">A. ans1</label><br>
+                            <input type="radio" id="funcgenomics2" name="question50" value="funcgenomics2">
+                            <label for="funcgenomics2">B. ans2</label><br>
+                            <input type="radio" id="funcgenomics3" name="question50" value="funcgenomics3">
+                            <label for="funcgenomics3">C. ans3</label>
+                            <input type="radio" id="funcgenomics4" name="question50" value="funcgenomics4">
+                            <label for="funcgenomics4">D. ans4</label>
                         </form>
                         {{-- Put questions here in mutiple choice format --}}
                     </p>
