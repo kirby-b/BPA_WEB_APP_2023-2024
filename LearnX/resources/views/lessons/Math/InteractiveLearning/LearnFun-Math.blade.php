@@ -27,11 +27,13 @@
                         <form>
                             <p>Q1</p>
                             <input type="radio" id="ans1" name="question1" value="ans1">
-                            <label for="ans1">ans1</label><br>
+                            <label for="ans1">A. ans1</label><br>
                             <input type="radio" id="ans2" name="question1" value="ans2">
-                            <label for="ans2">ans2</label><br>
+                            <label for="ans2">B. ans2</label><br>
                             <input type="radio" id="ans3" name="question1" value="ans3">
-                            <label for="ans3">ans3</label>
+                            <label for="ans3">C. ans3</label>
+                            <input type="radio" id="ans4" name="question1" value="ans4">
+                            <label for="ans4">D. ans4</label>
                         </form>
                         {{-- Put questions here in mutiple choice format --}}
                     </p>
