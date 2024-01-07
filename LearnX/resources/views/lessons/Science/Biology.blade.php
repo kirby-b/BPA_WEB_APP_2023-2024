@@ -47,7 +47,7 @@
                         <br>
                         <span class="font-semibold">Botany:</span> The study of plants, including their structure, growth, reproduction, physiology, and ecological relationships. It covers everything from algae and mosses to flowering plants.<br>
                         <br>
-                        <span class="font-semibold">Zoology:</span> The study of animals, encompassing their behavior, anatomy, physiology, evolution, classification, and interactions with ecosystems. It covers a vast range of species, from invertebrates to mammals.<br>
+                        <span class="font-semibold">Biotechnology:</span> The application of biological systems, organisms, or derivatives to develop products or processes to benefit humans.<br>
                         <br>
                         <span class="font-semibold">Microbiology:</span> Focuses on microscopic organisms such as bacteria, viruses, fungi, and protists. It explores their structure, function, behavior, and their roles in disease, industry, and the environment.<br>
                         <br>
