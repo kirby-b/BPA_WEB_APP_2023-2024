@@ -533,6 +533,54 @@
                             <label for="funcgenomics3">C. ans3</label>
                             <input type="radio" id="funcgenomics4" name="question50" value="funcgenomics4">
                             <label for="funcgenomics4">D. ans4</label>
+                            <br>
+                            <span class="font-bold">Oceans:</span>
+                            <br>
+                            <p>Q1</p>
+                            <input type="radio" id="ans1" name="question51" value="ans1">
+                            <label for="ans1">A. ans1</label><br>
+                            <input type="radio" id="ans2" name="question51" value="ans2">
+                            <label for="ans2">B. ans2</label><br>
+                            <input type="radio" id="ans3" name="question51" value="ans3">
+                            <label for="ans3">C. ans3</label>
+                            <input type="radio" id="ans4" name="question51" value="ans4">
+                            <label for="ans4">D. ans4</label>
+                            <br>
+                            <span class="font-bold">Physics:</span>
+                            <br>
+                            <p>Q1</p>
+                            <input type="radio" id="ans1" name="question61" value="ans1">
+                            <label for="ans1">A. ans1</label><br>
+                            <input type="radio" id="ans2" name="question61" value="ans2">
+                            <label for="ans2">B. ans2</label><br>
+                            <input type="radio" id="ans3" name="question61" value="ans3">
+                            <label for="ans3">C. ans3</label>
+                            <input type="radio" id="ans4" name="question61" value="ans4">
+                            <label for="ans4">D. ans4</label>
+                            <br>
+                            <span class="font-bold">Psychology:</span>
+                            <br>
+                            <p>Q1</p>
+                            <input type="radio" id="ans1" name="question7" value="ans1">
+                            <label for="ans1">A. ans1</label><br>
+                            <input type="radio" id="ans2" name="question71" value="ans2">
+                            <label for="ans2">B. ans2</label><br>
+                            <input type="radio" id="ans3" name="question71" value="ans3">
+                            <label for="ans3">C. ans3</label>
+                            <input type="radio" id="ans4" name="question71" value="ans4">
+                            <label for="ans4">D. ans4</label>
+                            <br>
+                            <span class="font-bold">Space:</span>
+                            <br>
+                            <p>Q1</p>
+                            <input type="radio" id="ans1" name="question81" value="ans1">
+                            <label for="ans1">A. ans1</label><br>
+                            <input type="radio" id="ans2" name="question81" value="ans2">
+                            <label for="ans2">B. ans2</label><br>
+                            <input type="radio" id="ans3" name="question81" value="ans3">
+                            <label for="ans3">C. ans3</label>
+                            <input type="radio" id="ans4" name="question81" value="ans4">
+                            <label for="ans4">D. ans4</label>
                         </form>
                         {{-- Put questions here in mutiple choice format --}}
                     </p>
