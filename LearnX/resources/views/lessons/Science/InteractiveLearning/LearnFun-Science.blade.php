@@ -583,6 +583,8 @@
                             <label for="ans4">D. ans4</label>
                         </form>
                         {{-- Put questions here in mutiple choice format --}}
+                        {{-- https://codepen.io/Sulaimon-Olaniran/pen/zYKJLjK --}} 
+                        {{-- I regret not looking up the above earlier --}}
                     </p>
                 </div>
             </div>
