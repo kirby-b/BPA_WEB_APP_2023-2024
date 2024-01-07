@@ -28,124 +28,124 @@
                             <span class="font-bold">Animal Science:</span>
                             <br>
                             <p>What is the primary function of the respiratory system in animals? </p>
-                            <input type="radio" id="anresp1" name="question1" value="anresp1">
+                            <input type="radio" id="anresp1" name="question1" value="FALSE">
                             <label for="anresp1">A. Transportation of nutrients</label><br>
-                            <input type="radio" id="anresp2" name="question1" value="anresp2">
+                            <input type="radio" id="anresp2" name="question1" value="FALSE">
                             <label for="anresp2">B. Regulation of body temperature</label><br>
-                            <input type="radio" id="anresp3" name="question1" value="anresp3">
+                            <input type="radio" id="anresp3" name="question1" value="TRUE">
                             <label for="anresp3">C. Exchange of gases</label><!--Correct-->
-                            <input type="radio" id="anresp4" name="question1" value="anresp4">
+                            <input type="radio" id="anresp4" name="question1" value="FALSE">
                             <label for="anresp4">D. Maintenance of water balance</label>
                             <br>
                             <p>In animal breeding, which term describes the process of mating individuals that possess different but complementary genetic traits to produce offspring with the best qualities of both parents?</p>
-                            <input type="radio" id="breed1" name="question2" value="breed1">
+                            <input type="radio" id="breed1" name="question2" value="FALSE">
                             <label for="breed1">A. Inbreeding</label><br>
-                            <input type="radio" id="breed2" name="question2" value="breed2">
+                            <input type="radio" id="breed2" name="question2" value="FALSE">
                             <label for="breed2">B. Outbreeding</label><br>
-                            <input type="radio" id="breed3" name="question2" value="breed3">
+                            <input type="radio" id="breed3" name="question2" value="TRUE">
                             <label for="breed3">C. Hybridization</label><!--Correct-->
-                            <input type="radio" id="breed4" name="question2" value="breed4">
+                            <input type="radio" id="breed4" name="question2" value="FALSE">
                             <label for="breed4">D. Selective breeding</label>
                             <br>
                             <p>What term describes the behavior exhibited by animals that involves establishing and defending a territory, often for mating, feeding, or rearing offspring?</p>
-                            <input type="radio" id="behave1" name="question3" value="behave1">
+                            <input type="radio" id="behave1" name="question3" value="FALSE">
                             <label for="behave1">A. Hibernation</label><br>
-                            <input type="radio" id="behave2" name="question3" value="behave2">
+                            <input type="radio" id="behave2" name="question3" value="FALSE">
                             <label for="behave2">B. Migration</label><br>
-                            <input type="radio" id="behave3" name="question3" value="behave3">
+                            <input type="radio" id="behave3" name="question3" value="FALSE">
                             <label for="behave3">C. Agonistic behavior</label>
-                            <input type="radio" id="behave4" name="question3" value="behave4">
+                            <input type="radio" id="behave4" name="question3" value="TRUE">
                             <label for="behave4">D. Territoriality</label><!--Correct-->
                             <br>
                             <p>Which nutrient is primarily responsible for providing a readily available source of energy for animals?</p>
-                            <input type="radio" id="feed1" name="question4" value="feed1">
+                            <input type="radio" id="feed1" name="question4" value="FALSE">
                             <label for="feed1">A. Protein</label><br>
-                            <input type="radio" id="feed2" name="question4" value="feed2">
+                            <input type="radio" id="feed2" name="question4" value="TRUE">
                             <label for="feed2">B. Carbohydrates</label><br><!--Correct-->
-                            <input type="radio" id="feed3" name="question4" value="feed3">
+                            <input type="radio" id="feed3" name="question4" value="FALSE">
                             <label for="feed3">C. Vitamins</label>
-                            <input type="radio" id="feed4" name="question4" value="feed4">
+                            <input type="radio" id="feed4" name="question4" value="FALSE">
                             <label for="feed4">D. Minerals</label>
                             <br>
                             <p>Which of the following is a common parasite that causes itching and irritation in animals, often resulting in skin inflammation and hair loss?</p>
-                            <input type="radio" id="vet1" name="question5" value="vet1">
+                            <input type="radio" id="vet1" name="question5" value="FALSE">
                             <label for="vet1">A. Roundworm</label><br>
-                            <input type="radio" id="vet2" name="question5" value="vet2">
+                            <input type="radio" id="vet2" name="question5" value="TRUE">
                             <label for="vet2">B. Flea</label><br><!--Correct-->
-                            <input type="radio" id="vet3" name="question5" value="vet3">
+                            <input type="radio" id="vet3" name="question5" value="FALSE">
                             <label for="vet3">C. Tapeworm</label>
-                            <input type="radio" id="vet4" name="question5" value="vet4">
+                            <input type="radio" id="vet4" name="question5" value="FALSE">
                             <label for="vet4">D. Tick</label>
                             <br>
                             <p>Which branch of zoology focuses on the study of insects?</p>
-                            <input type="radio" id="zoo1" name="question6" value="zoo1">
+                            <input type="radio" id="zoo1" name="question6" value="FALSE">
                             <label for="zoo1">A. Herpetology</label><br>
-                            <input type="radio" id="zoo2" name="question6" value="zoo2">
+                            <input type="radio" id="zoo2" name="question6" value="TRUE">
                             <label for="zoo2">B. Entomology</label><br><!--Correct-->
-                            <input type="radio" id="zoo3" name="question6" value="zoo3">
+                            <input type="radio" id="zoo3" name="question6" value="FALSE">
                             <label for="zoo3">C. Ornithology</label>
-                            <input type="radio" id="zoo4" name="question6" value="zoo4">
+                            <input type="radio" id="zoo4" name="question6" value="FALSE">
                             <label for="zoo4">D. Ichthyology</label>
                             <br>
                             <p>Which principle advocates for providing animals with environments that allow them to express their natural behaviors, promoting their mental and physical well-being?</p>
-                            <input type="radio" id="ethic1" name="question7" value="ethic1">
+                            <input type="radio" id="ethic1" name="question7" value="FALSE">
                             <label for="ethic1">A. Utilitarianism</label><br>
-                            <input type="radio" id="ethic2" name="question7" value="ethic2">
+                            <input type="radio" id="ethic2" name="question7" value="FALSE">
                             <label for="ethic2">B. Anthropocentrism</label><br>
-                            <input type="radio" id="ethic3" name="question7" value="ethic3">
+                            <input type="radio" id="ethic3" name="question7" value="FALSE">
                             <label for="ethic3">C. Speciesism</label>
-                            <input type="radio" id="ethic4" name="question7" value="ethic4">
+                            <input type="radio" id="ethic4" name="question7" value="TRUE">
                             <label for="ethic4">D. Five Freedoms</label><!--Correct-->
                             <p>Which hormone is primarily responsible for triggering ovulation in female mammals?</p>
-                            <input type="radio" id="reproduct1" name="question8" value="reproduct1">
+                            <input type="radio" id="reproduct1" name="question8" value="FALSE">
                             <label for="reproduct1">A. Estrogen</label><br>
-                            <input type="radio" id="reproduct2" name="question8" value="reproduct2">
+                            <input type="radio" id="reproduct2" name="question8" value="FALSE">
                             <label for="reproduct2">B. Progesterone</label><br>
-                            <input type="radio" id="reproduct3" name="question8" value="reproduct3">
+                            <input type="radio" id="reproduct3" name="question8" value="FALSE">
                             <label for="reproduct3">C. Follicle-stimulating hormone (FSH)</label>
-                            <input type="radio" id="reproduct4" name="question8" value="reproduct4">
+                            <input type="radio" id="reproduct4" name="question8" value="TRUE">
                             <label for="reproduct4">D. Luteinizing hormone (LH)</label><!--Correct-->
                             <br>
                             <p>Which conservation approach involves restoring or creating habitats to support endangered species outside their natural range?</p>
-                            <input type="radio" id="conserve1" name="question9" value="conserve1">
+                            <input type="radio" id="conserve1" name="question9" value="FALSE">
                             <label for="conserve1">A. In-situ conservation</label><br>
-                            <input type="radio" id="conserve2" name="question9" value="conserve2">
+                            <input type="radio" id="conserve2" name="question9" value="FALSE">
                             <label for="conserve2">B. Ex-situ conservation</label><br>
-                            <input type="radio" id="conserve3" name="question9" value="conserve3">
+                            <input type="radio" id="conserve3" name="question9" value="TRUE">
                             <label for="conserve3">C. Rewilding</label><!--Correct-->
-                            <input type="radio" id="conserve4" name="question9" value="conserve4">
+                            <input type="radio" id="conserve4" name="question9" value="FALSE">
                             <label for="conserve4">D. Habitat fragmentation</label>
                             <br>
                             <p>Which factor plays a crucial role in determining the carrying capacity of grazing land for livestock?</p>
-                            <input type="radio" id="livestock1" name="question10" value="livestock1">
+                            <input type="radio" id="livestock1" name="question10" value="TRUE">
                             <label for="livestock1">A. Average annual rainfall</label><br><!--Correct-->
-                            <input type="radio" id="livestock2" name="question10" value="livestock2">
+                            <input type="radio" id="livestock2" name="question10" value="FALSE">
                             <label for="livestock2">B. Soil pH levels</label><br>
-                            <input type="radio" id="livestock3" name="question10" value="livestock3">
+                            <input type="radio" id="livestock3" name="question10" value="FALSE">
                             <label for="livestock3">C. Altitude of the grazing land</label>
-                            <input type="radio" id="livestock4" name="question10" value="livestock4">
+                            <input type="radio" id="livestock4" name="question10" value="FALSE">
                             <label for="livestock4">D. Types of grass species</label>
                             <br>
                             <span class="font-bold">Biology:</span>
                             <br>
                             <p>Which organelle is responsible for the production of ATP (adenosine triphosphate) in eukaryotic cells?</p>
-                            <input type="radio" id="cellbio1" name="question11" value="cellbio1">
+                            <input type="radio" id="cellbio1" name="question11" value="FALSE">
                             <label for="cellbio1">A. Golgi apparatus</label><br>
-                            <input type="radio" id="cellbio2" name="question11" value="cellbio2">
+                            <input type="radio" id="cellbio2" name="question11" value="FALSE">
                             <label for="cellbio2">B. Endoplasmic reticulum</label><br>
-                            <input type="radio" id="cellbio3" name="question11" value="cellbio3">
+                            <input type="radio" id="cellbio3" name="question11" value="TRUE">
                             <label for="cellbio3">C. Mitochondria</label><!--Correct-->
-                            <input type="radio" id="cellbio4" name="question11" value="cellbio4">
+                            <input type="radio" id="cellbio4" name="question11" value="FALSE">
                             <label for="cellbio4">D. Lysosomes</label>
                             <br>
                             <p>What genetic disorder is caused by the presence of an extra chromosome 21, leading to characteristic physical features and intellectual disabilities?</p>
-                            <input type="radio" id="genes1" name="question12" value="genes1">
+                            <input type="radio" id="genes1" name="question12" value="FALSE">
                             <label for="genes1">A. Turner syndrome</label><br>
-                            <input type="radio" id="genes2" name="question12" value="genes2">
+                            <input type="radio" id="genes2" name="question12" value="FALSE">
                             <label for="genes2">B. Klinefelter syndrome</label><br>
-                            <input type="radio" id="genes3" name="question12" value="genes3">
+                            <input type="radio" id="genes3" name="question12" value="TRUE">
                             <label for="genes3">C. Down syndrome</label><!--Correct-->
-                            <input type="radio" id="genes4" name="question12" value="genes4">
+                            <input type="radio" id="genes4" name="question12" value="FALSE">
                             <label for="genes4">D. Edwards syndrome</label>
                             <br>
                             <p>Evolutionary Biology</p>
