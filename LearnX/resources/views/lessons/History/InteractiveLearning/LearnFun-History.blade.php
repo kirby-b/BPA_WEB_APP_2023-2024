@@ -37,36 +37,7 @@
                         </form> --}}
                         {{-- CSS for quiz. Convert to tailwind
                             
-                            *{
-                                margin: 0;
-                                padding: 0;
-                                box-sizing: border-box;
-                            }
-                            
-                            html, body{
-                                height: 100%;
-                            }
-
-
-                            body{
-                                font-family: 'Montserrat', serif;
-                                
-                            }
-
-                            main{
-                                width: 100%;
-                                min-height: 100vh;
-                                display: flex;
-                                flex-direction: column;
-                                justify-content: center;
-                                align-items: center;
-                                background-color: black;
-                                background: url('../assets/background_image.jpg');
-                                background-color : black;
-                                background-repeat: no-repeat;
-                                background-size: cover;
-                                background-position: center;
-                            }
+                            *
 
                             .game-quiz-container{
                                 width: 40rem;
@@ -173,171 +144,25 @@
                                 background-color: rgb(143, 93, 93);
                             }
 
-                            .modal-container{
-                                display: none;
-                                position: fixed;
-                                z-index: 1; 
-                                left: 0;
-                                top: 0;
-                                width: 100%; 
-                                height: 100%; 
-                                overflow: auto; 
-                                background-color: rgb(0,0,0); 
-                                background-color: rgba(0,0,0,0.4); 
-                                flex-direction: column;
-                                align-items: center;
-                                justify-content: center; 
-                                -webkit-animation: fadeIn 1.2s ease-in-out;
-                                animation: fadeIn 1.2s ease-in-out;
-                            }
-
-                            .modal-content-container{
-                                height: 20rem;
-                                width: 25rem;
-                                background-color: rgb(43, 42, 42);
-                                display: flex;
-                                flex-direction: column;
-                                align-items: center;
-                                justify-content: space-around;
-                                border-radius: 25px;
-                            }
-
-                            .modal-content-container h1{
-                                font-size: 1.3rem;
-                                height: 3rem;
-                                color: lightgray;
-                                text-align: center;
-                            }
-
-                            .grade-details{
-                                width: 15rem;
-                                height: 10rem;
-                                display: flex;
-                                flex-direction: column;
-                                align-items: center;
-                                justify-content: space-around;
-                            }
-
-                            .grade-details p{
-                                color: white;
-                                text-align: center;
-                            }
-
-                            .modal-button-container{
-                                height: 2rem;
-                                width: 100%;
-                                display: flex;
-                                align-items: center;
-                                justify-content: center;
-                            }
-
-                            .modal-button-container button{
-                                width: 10rem;
-                                height: 2rem;
-                                background: none;
-                                outline: none;
-                                border: 1px solid rgb(252, 242, 241);
-                                color: white;
-                                font-size: 1.1rem;
-                                cursor: pointer;
-                                border-radius: 20px;
-                            }
-                            .modal-button-container button:hover{
-                                background-color: rgb(83, 82, 82);
-                            }
-
-                            @media(min-width : 300px) and (max-width : 350px){
-                                .game-quiz-container{
-                                    width: 90%;
-                                    height: 80vh;
-                                }
-                                .game-details-container h1{
-                                    font-size: 0.8rem;
-                                }
-                            
-                                .game-question-container{
-                                    height: 6rem;
-                                }
-                                .game-question-container h1{
-                                font-size: 0.9rem;
-                                }
-                            
-                                .game-options-container span{
-                                    width: 90%;
-                                    height: 2.5rem;
-                                }
-                                .game-options-container span label{
-                                    font-size: 0.8rem;
-                                }
-                                .modal-content-container{
-                                    width: 90%;
-                                    height: 25rem;
-                                }
-                                
-                                .modal-content-container h1{
-                                    font-size: 1.2rem;
-                                }
-                            }
-
-                            @media(min-width : 350px) and (max-width : 700px){
-                            .game-quiz-container{
-                                width: 90%;
-                                height: 80vh;
-                                }
-                                .game-details-container h1{
-                                    font-size: 1rem;
-                                }
-
-                                .game-question-container{
-                                    height: 8rem;
-                                }
-
-                                .game-question-container h1{
-                                    font-size: 0.9rem;
-                                }
-
-                                .game-options-container span{
-                                    width: 90%;
-                                }
-                                .modal-content-container{
-                                    width: 90%;
-                                    height: 25rem;
-                                }
-                                .modal-content-container h1{
-                                    font-size: 1.2rem;
-                                }
-                            }
-
-
-
-                            @keyframes fadeIn {
-                                from {opacity: 0;}
-                                to {opacity:1 ;}
-                            }
-
-                            @-webkit-keyframes fadeIn {
-                                from {opacity: 0;}
-                                to {opacity: 1;}
-                            }
                             --}}
-                            <main onload="NextQuestion(0)" ><!--On load was part of body innitially this may need to be there instead-->
+                            <main onload="NextQuestion(0)" class="flex flex-column justify-center align-center bg-black"><!--On load was part of body innitially this may need to be there instead-->
                                 <!-- creating a modal for when quiz ends -->
-                                <div class="modal-container" id="score-modal">
+                                <div class="fadeIn font-serif z-1 hidden fixed top-0 left-0 overflow-auto bg-black flex-column justify-center align-center" id="score-modal">
                                   
-                                    <div class="modal-content-container">
+                                    <div class="bg-slate-900 flex flex-column align-center justify-around border-2xl">
                                       
                                         <h1>Congratulations, Quiz Completed.</h1>
                                       
-                                        <div class="grade-details">
-                                            <p>Attempts : 10</p>
-                                            <p>Wrong Answers : <span id="wrong-answers"></span></p>
-                                            <p>Right Answers : <span id="right-answers"></span></p>
-                                            <p>Grade : <span id="grade-percentage"></span>%</p>
-                                            <p ><span id="remarks"></span></p>
+                                        <div class="flex flex-column align-center justify-around">
+                                            <p class="text-white align-center">Attempts : 10</p>
+                                            <p class="text-white align-center">Wrong Answers : <span id="wrong-answers"></span></p>
+                                            <p class="text-white align-center">Right Answers : <span id="right-answers"></span></p>
+                                            <p class="text-white align-center">Grade : <span id="grade-percentage"></span>%</p>
+                                            <p class="text-white align-center"><span id="remarks"></span></p>
                                         </div>
                                       
-                                        <div class="modal-button-container">
-                                            <button onclick="closeScoreModal()">Continue</button>
+                                        <div class="hover:bg-slate-400 flex justify-center align-center">
+                                            <button onclick="closeScoreModal()" class="bg-none outline-0 border-solid border-sm bg-orange-100 text-white text-lg border-2xl cursor-pointer">Continue</button>
                                         </div>
                                       
                                     </div>
@@ -356,12 +181,12 @@
                         
                                     <div class="game-options-container">
                                       
-                                       <div class="modal-container" id="option-modal">
+                                       <div class="fadeIn font-serif z-1 hidden fixed top-0 left-0 overflow-auto bg-black flex-column justify-center align-center" id="option-modal">
                                          
-                                            <div class="modal-content-container">
-                                                 <h1>Please Pick An Option</h1>
+                                            <div class="bg-slate-900 flex flex-column align-center justify-around border-2xl">
+                                                 <h1 class="text-gray-500 align-center">Please Pick An Option</h1>
                                               
-                                                 <div class="modal-button-container">
+                                                 <div class="hover:bg-slate-400 flex justify-center align-center">
                                                     <button onclick="closeOptionModal()">Continue</button>
                                                 </div>
                                               
