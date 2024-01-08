@@ -8,9 +8,10 @@
     <meta name="keywords" content="Laravel">
     <meta name="author" content="Brodie Kirby & Adelaide Meisel">
     @vite('resources/css/app.css')
+    @vite('resources/js/app.js')
 </head>
 
-<body class="bg-gray-100 flex flex-col min-h-screen">
+<body class="bg-gray-100 flex flex-col min-h-screen" >
     <header class="bg-gradient-to-r from-purple-500 to-green-500 text-white">
         <div class="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
             <!-- Logo on the left -->
