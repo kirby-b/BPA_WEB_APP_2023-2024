@@ -38,7 +38,7 @@
                         <span class="font-semibold">Geometric Shapes:</span> These are the fundamental shapes with precise mathematical properties. Examples include circles, squares, triangles, rectangles, pentagons, hexagons, and more.<br>
                         <span class="font-semibold">2D Shapes:</span> These shapes exist on a flat plane and have two dimensions—length and width. They include squares, triangles, circles, and polygons.<br>
                         <span class="font-semibold">3D Shapes:</span> These shapes have three dimensions—length, width, and height. Examples include cubes, spheres, pyramids, cones, and cylinders.<br>
-                        <span class="font-semibold">Irregular Shapes:</span> These shapes don't have regular outlines or specific formulas to describe them. They can be seen in nature or in objects that don't fit typical geometric definitions.<br>
+                        <span class="font-semibold">Irregular Shapes:</span> These shapes don't have regular outlines or specific formulas to describe them. They can be seen in nature or in objects that don't fit typical geometric Sentences and Paragraphs.<br>
                         <span class="font-semibold">Symmetry:</span> Shapes can exhibit different types of symmetry—like reflectional symmetry (mirror image), rotational symmetry (when a shape can be rotated and still look the same), or translational symmetry (when a shape can be shifted or translated in a direction without changing its overall appearance).<br>
 
                         <b>Colors:</b><br>
