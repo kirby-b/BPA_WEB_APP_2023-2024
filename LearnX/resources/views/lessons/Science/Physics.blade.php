@@ -49,11 +49,11 @@
                         <br>
                         <span class="font-semibold">Particle Physics:</span> Studies the fundamental particles and forces that make up the universe. It investigates particles such as quarks, leptons, bosons, and the interactions governed by fundamental forces like gravity, electromagnetism, weak, and strong nuclear forces.<br>
                         <br>
-                        <span class="font-semibold">Astrophysics and Cosmology:</span> Examines the properties and phenomena of celestial objects, galaxies, stars, and the universe as a whole. Cosmology focuses on the origin, evolution, and structure of the universe itself.<br>
+                        <span class="font-semibold">Astrophysics:</span> Examines the properties and phenomena of celestial objects, galaxies, stars, and the universe as a whole.<br>
                         <br>
                         <span class="font-semibold">Relativity:</span> Explores the effects of gravity on the fabric of spacetime, as described by Albert Einstein's theories of special relativity and general relativity.<br>
                         <br>
-                        <span class="font-semibold">Optics:</span> Examines the behavior of light and its interactions with matter, including the study of reflection, refraction, diffraction, and the principles underlying optical instruments.<br>
+                        <span class="font-semibold">Cosmology:</span>Focuses on the origin, evolution, and structure of the universe itself.<br>
                         <br>
                     </p>
                 </div>
