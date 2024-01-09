@@ -93,9 +93,9 @@ Route::get('/punctuation', function (){
 Route::get('/research-citations', function (){
     return view('lessons/English/Research-Citations');
 })->name("page.research.citations");
-Route::get('/definitions', function (){
-    return view('lessons/English/Definitions');
-})->name("page.definitions");
+Route::get('/sentancesandparagraphs', function (){
+    return view('lessons/English/Sentences-&-Paragraph');
+})->name("page.sentandpara");
 Route::get('/essays', function (){
     return view('lessons/English/Essays');
 })->name("page.essays");
@@ -477,3 +477,7 @@ Route::get('/reset-password/{token}', function (string $token) {
 
 //Updates the password with new value
 Route::post('/reset-password', [UserController::class, 'resetPass'])->name('password.update')->middleware('guest');
+
+Route::get('/Testing', function (){
+    return view('Testing');
+})->name("page.test");
