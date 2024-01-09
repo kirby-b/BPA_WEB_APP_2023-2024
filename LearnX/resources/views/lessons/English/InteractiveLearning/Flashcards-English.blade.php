@@ -27,10 +27,10 @@
                         {{-- Generate a quizlet essentially --}}
                         <div x-data="{ flipped: false }" class="py-32 relative w-96 h-96 mx-auto mt-8 mb-8 cursor-pointer text-center font-bold tracking-light text-lg">
                             <div x-show.transition.scale.5.duration.400ms="!flipped" class="absolute text-center py-16 bg-gradient-to-br from-purple-500 via-violet-300 to-transparent overflow-hidden inset-0 rounded-lg shadow-lg" @click="flipped = true;" >
-                                  Front
+                                The first part of an essay
                             </div>
                             <div x-show.transition.scale.5.duration.400ms="flipped" style="display: none;" class="absolute text-center py-16 bg-gradient-to-br from-white via-teal-200 to-green-500 bg-blue-300 overflow-hidden inset-0 rounded-lg shadow-lg" @click="flipped = false;" >
-                              Back
+                                Introduction
                             </div>
                         </div>
                     </p>
