@@ -37,12 +37,12 @@
                       </form> --}}
                       <div>
                           <div class="min-h-screen flex items-center justify-center bg-black bg-no-repeat bg-cover bg-center">
-                              <!-- Modal for quiz completion -->
+                              
                               <div class="modal-container hidden fixed inset-0 z-10 bg-black bg-opacity-40 flex items-center justify-center" id="score-modal">
                                   <div class="modal-content-container bg-gray-800 rounded-lg p-6">
                                       <h1 class="text-gray-300 text-lg mb-4">Congratulations, Quiz Completed.</h1>
                                       <div class="grade-details text-white text-center">
-                                          <p>Attempts : 10</p>
+                                          <p>Attempts : 2</p>
                                           <p>Wrong Answers : <span id="wrong-answers"></span></p>
                                           <p>Right Answers : <span id="right-answers"></span></p>
                                           <p>Grade : <span id="grade-percentage"></span>%</p>
@@ -104,7 +104,7 @@
 
 
 
-  <script type="text/javascript">
+  <script type="text/javascript">//Script for all javascript
     function codeAddress() {
         alert('ok');
     }
