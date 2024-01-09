@@ -261,7 +261,7 @@
   
       // function for displaying next question in the array to dom
       function NextQuestion(index) {
-          console.log("TWERKS")
+          console.log("Works")
           handleQuestions()
           const currentQuestion = shuffledQuestions[index]
           document.getElementById("question-number").innerHTML = questionNumber
