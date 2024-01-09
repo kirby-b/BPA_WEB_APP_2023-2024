@@ -8,7 +8,7 @@
     <meta name="keywords" content="Laravel">
     <meta name="author" content="Brodie Kirby & Adelaide Meisel">
     @vite('resources/css/app.css')
-    @vite('public/js/app.js')
+    @vite('resource/js/app.js')
 </head>
 
 <body class="bg-gray-100 flex flex-col min-h-screen" onload="NextQuestion(0)">
