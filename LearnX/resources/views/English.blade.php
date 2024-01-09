@@ -35,7 +35,7 @@
                             <div class="font-sans w-50/100 float-left text-xl">
                                 <a href="{{ route('page.punctuation') }}" class="hover:text-purple-300">Puntuaction</a><br>
                                 <br> 
-                                <a href="{{ route('page.definitions') }}" class="hover:text-purple-300">Definitions</a><br>
+                                <a href="{{ route('page.sentandpara') }}" class="hover:text-purple-300">Sentences and Paragraphs</a><br>
                                 <br>
                                 <a href="{{ route('page.essays') }}" class="hover:text-purple-300">Essays</a><br>
                                 <br>

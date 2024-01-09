@@ -21,7 +21,7 @@
                         <br>
                         <a href="{{ route('page.punctuation') }}" class="hover:text-purple-300">Puntuaction</a><br>
                         <br> 
-                        <a href="{{ route('page.definitions') }}" class="hover:text-purple-300">Definitions</a><br>
+                        <a href="{{ route('page.sentandpara') }}" class="hover:text-purple-300">Sentences and Paragraphs</a><br>
                         <br>
                         <a href="{{ route('page.essays') }}" class="hover:text-purple-300">Essays</a><br>
                         <br>
@@ -34,30 +34,12 @@
                 <!-- Text Section -->
                 <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
                     <div class="font-Preahvihear items-center text-2xl">
-                        <b>DEFINITIONS</b>
+                        <b>Sentences and Paragraphs</b>
                     </div>
                     <p class="text-2xl font-sans m-4">
-                        Agriculture: Harvesting and growing plants and/or animals for food and other needs.<br>
-                        Astronomy: The study of stars and planets.<br>
-                        Biology: The study of organisms and how they work.<br>
-                        Chemistry: The study of how different elements interact with each other.<br>
-                        Century: 100 hundred years<br>
-                        Civilization: A society that has become advanced in one way or another.<br>
-                        Colosseum: A large theater. Used as a place of entertainment.<br>
-                        Crisis: A very ergent and harmful thing/time.<br>
-                        Dynasty: A line of leaders who are related to each other.<br>
-                        Election: When a society decides who is the leader.<br>
-                        Genetics: The study of how genes effect reproduction.<br>
-                        Hierarchy: The social order.One group will be on top and another will be on the bottom.<br>
-                        Hieroglyphic: A form of language written with small pictures and symbols meant to represent sounds and words.<br>
-                        Law: A rule written for society to keep it in order.<br>
-                        Ocean: A massive body of salt water.<br>
-                        Physics: The scientific study of matter, energy, and the fundamental forces that govern the universe.<br>
-                        Plague: A virus, bacteria, or other such thing that causes massive amounts of harm and death.<br>
-                        Psychology: The scientific study of the human mind and behavior.<br>
-                        Revolution: When a society decides to over throw something and replace it(usually a leader)<br>
-                        Settlement: When a group of people move somewhere else and build a new society.<br>
-                        Treaty: When a group of diplomats sit down and make a deal for a collective goal.<br>
+                        This is a sentence.<br>
+                        <br>
+                        This is a paragraph. In this paragraph, we explore the concept of complete thoughts and coherent expression. Each sentence within the paragraph contributes to conveying a specific idea or information. As the paragraph unfolds, it provides a cohesive structure, linking sentences together to form a unified narrative. The use of proper grammar and punctuation ensures clarity and comprehension for the reader. Overall, this paragraph exemplifies the construction of meaningful and well-organized written communication.
                     </p>
                 </div>
             </div> 
