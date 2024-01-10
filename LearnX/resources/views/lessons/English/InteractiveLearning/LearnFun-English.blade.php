@@ -123,12 +123,12 @@
           },
 
           {
-              question: "This is a reminder to make a question",
-              optionA: "",
-              optionB: "",
-              optionC: "",
-              optionD: "",
-              correctOption: "optionD"
+              question: "How many letters are in the english alphabet?",
+              optionA: "26",
+              optionB: "19",
+              optionC: "5",
+              optionD: "68",
+              correctOption: "optionA"
           },
           
           {
@@ -186,7 +186,7 @@
           },
 
           {
-              question: "How many paragraphs in normal for a small essay.",
+              question: "How many paragraphs in normal for a small essay?",
               optionA: "4",
               optionB: "1",
               optionC: "2",
