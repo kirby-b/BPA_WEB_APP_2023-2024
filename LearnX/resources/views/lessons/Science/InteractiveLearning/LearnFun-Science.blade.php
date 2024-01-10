@@ -103,7 +103,7 @@
   //Contains all of the quiz questions. Formatted as Question, four answers, and a correct answer
       const questions = [
           { 
-              question: "Which biotechnological process involves the production of genetically identical copies of a particular gene or DNA sequence ?",
+              question: "Which biotechnological process involves the production of genetically identical copies of a particular gene or DNA sequence?",
               optionA: "Cloning",
               optionB: "Fermentation",
               optionC: "Polymerase Chain Reaction (PCR)",
@@ -112,7 +112,7 @@
           },
   
           {
-              question: "What is the process by which energy is produced in the core of the Sun through the fusion of hydrogen nuclei into helium ?",
+              question: "What is the process by which energy is produced in the core of the Sun through the fusion of hydrogen nuclei into helium?",
               optionA: "Nuclear fission",
               optionB: "Nuclear fusion",
               optionC: "Solar flares",
@@ -121,7 +121,7 @@
           },
   
           {
-              question: "What term describes the concept where an individual's behavior is influenced by observing and imitating others, especially those they perceive as role models ?",
+              question: "What term describes the concept where an individual's behavior is influenced by observing and imitating others, especially those they perceive as role models?",
               optionA: "Classical conditioning",
               optionB: "Operant conditioning",
               optionC: "Social learning theory",
@@ -130,7 +130,7 @@
           },
   
           {
-              question: "What fundamental force is responsible for holding protons and neutrons together within an atomic nucleus ?",
+              question: "What fundamental force is responsible for holding protons and neutrons together within an atomic nucleus?",
               optionA: "Electromagnetic force",
               optionB: "Gravitational force",
               optionC: "Strong nuclear force",
@@ -139,7 +139,7 @@
           },
 
           {
-              question: "What organism is responsible for the majority of Earth's oxygen production in marine environments ?",
+              question: "What organism is responsible for the majority of Earth's oxygen production in marine environments?",
               optionA: "Coral",
               optionB: "Phytoplankton",
               optionC: "Jellyfish",
@@ -148,7 +148,7 @@
           },
           
           {
-              question: "What is the process by which rocks are broken down into smaller particles due to natural factors like wind, water, and temperature changes ?",
+              question: "What is the process by which rocks are broken down into smaller particles due to natural factors like wind, water, and temperature changes?",
               optionA: "Erosion",
               optionB: "Weathering",
               optionC: "Deposition",
@@ -157,7 +157,7 @@
           },
   
           {
-              question: "What term refers to the change in the DNA sequence that makes up a gene ?",
+              question: "What term refers to the change in the DNA sequence that makes up a gene?",
               optionA: "Mutation",
               optionB: "Transcription",
               optionC: "Translation",
@@ -166,16 +166,16 @@
           },
           
           {
-              question: "This is a reminder to make a question",
-              optionA: "",
-              optionB: "",
-              optionC: "",
-              optionD: "",
-              correctOption: "optionD"
+              question: "What is thermodynamics about?",
+              optionA: "Heat/Energy",
+              optionB: "Light",
+              optionC: "Sound",
+              optionD: "Lava",
+              correctOption: "optionA"
           },
           
           {
-              question: "What is the primary greenhouse gas responsible for trapping heat in the Earth's atmosphere ?",
+              question: "What is the primary greenhouse gas responsible for trapping heat in the Earth's atmosphere?",
               optionA: "Methane",
               optionB: "Nitrous oxide",
               optionC: "Ozone",
@@ -184,7 +184,7 @@
           },
           
           {
-              question: "Which state of matter has a definite volume but no definite shape ?",
+              question: "Which state of matter has a definite volume but no definite shape?",
               optionA: "Solid",
               optionB: "Liquid",
               optionC: "Gas",
