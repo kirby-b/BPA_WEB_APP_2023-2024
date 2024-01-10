@@ -121,15 +121,6 @@
               optionD: "50",
               correctOption: "optionD"
           },
-          
-          {
-              question: "This is a reminder to make a question",
-              optionA: "",
-              optionB: "",
-              optionC: "",
-              optionD: "",
-              correctOption: "optionD"
-          },
 
           {
               question: "What type of government system allows citizens to elect representatives who make decisions on their behalf?",
@@ -168,6 +159,15 @@
           },
 
           {
+              question: "What year did the united states declare independance?",
+              optionA: "1902",
+              optionB: "1776",
+              optionC: "1856",
+              optionD: "1200",
+              correctOption: "optionB"
+          },
+
+          {
               question: "Which historical event happened first?",
               optionA: "Battle of Hastings",
               optionB: "Spanish Inquisition is established",
@@ -177,7 +177,7 @@
           },
 
           {
-              question: "Which one of these is a Japanese Buddhist Holiday that honors the deceased",
+              question: "Which one of these is a Japanese Buddhist Holiday that honors the deceased?",
               optionA: "Diwali",
               optionB: "Obon",
               optionC: "The Forth of July",
