@@ -39,7 +39,7 @@
                                 ev.preventDefault();
                             }
                         </script>                  
-                        <div id="div1" class="w-80 h-16 p-10 border-solid rounded-sm border-neutral-600" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                        <div id="div1" class="w-80 h-16 p-10 border-solid rounded-sm border-neutral-600 border-4" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
                         <br>
                         <p id="drag1" draggable="true" ondragstart="drag(event)">This is a draggable paragraph. Drag this element into the rectangle.</p>
                          {{-- Drag boxes to correct place on timeline. Make sure to figure out a way to make it only accept correct answers
