@@ -37,8 +37,16 @@
                         <div class="font-Preahvihear items-center text-2xl">
                             <b>SMALL READING</b>
                         </div>
-
-                        <!--and, here, my, you, dog, etc-->
+                        In this lesson, read the sentence out loud.<br><br><br>
+                        The dog was in the park.<br><br>
+                        I like to play games.<br><br>
+                        Will you play with me and my dog?<br><br>
+                        Thank you for playing.<br><br>
+                        I had a fun time<br><br>
+                        I can count to ten.<br><br>
+                        How high can you count?<br><br>
+                        I want to count to 20 one day<br><br>
+                        Look at me go!<br><br>
                     </p>
                 </div>
             </div>
