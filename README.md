@@ -1,14 +1,13 @@
-# Next Things to do till we are done with the rubric
+# Welcome
 
-1. Add student(upload files), teacher(see student files and upload files), and admin(see everything). See if you can make pages only available to certain levels of access.
-<br>-Maybe the file upload can be fufilled as a pdf lesson upload. Students can view pdfs and maybe upload to an answers database, teachers can upload and edit their and see student files. Admin can do all
-2. Add search bar. Try multi level dropdown.
-3. Add page for viewing grades and uploaded files. Add search bars to query names and maybe completed stuff.
+LearnX is a K-12 learning website built for ease of use and it is packed full of content
 
-## Notes for how to accomplish objectives
+# Installation
 
-For the flashcard pages: Set up carousel by making the flashcards pop up if the slide num is a certain number, else they are hidden.
-
-For file upload: There is a specific type of SQL input for files. Use this and then use the php query things to print out lists of assignments in a table or something.
-
-Make it so students can add themselves to classes. Teachers and administrators can delete students from classes and add them(teachers can only edit students in their own class).
+To install you need to do a few things.
+1. Download composer
+2. Download node.js
+3. Clone the repo
+4. In the terminal run: composer install
+5. In the terminal run the command to install npm. It varies for each machine
+6. In the terminal run: npm run build
