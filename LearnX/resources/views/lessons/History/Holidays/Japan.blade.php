@@ -43,26 +43,26 @@
                         </div>
                         <div class="flex flex-col"> 
                             <div class="font-sans">
-                                New Year's Day(Shogatsu):<br>Celebrated on January 1, it's a time for family gatherings, visits to shrines and temples, and traditional New Year's meals.<br>
+                                <span class="font-semibold">New Year's Day(Shogatsu):</span><br>Celebrated on January 1, it's a time for family gatherings, visits to shrines and temples, and traditional New Year's meals.<br>
                                 <br>
-                                Coming of Age Day(Seijin no Hi):<br>Celebrated on the second Monday of January, it honors individuals who have reached the age of 20, marking the age of adulthood.<br>
+                                <span class="font-semibold">Coming of Age Day(Seijin no Hi):</span><br>Celebrated on the second Monday of January, it honors individuals who have reached the age of 20, marking the age of adulthood.<br>
                                 <br>
-                                National Foundation Day(Kenkoku Kinen no Hi):<br>Observed on February 11, it commemorates the founding of Japan and the accession of its first emperor.<br>
+                                <span class="font-semibold">National Foundation Day(Kenkoku Kinen no Hi):</span><br>Observed on February 11, it commemorates the founding of Japan and the accession of its first emperor.<br>
                                 <br>
-                                Hinamatsuri(Doll's Day or Girls' Day):<br>Celebrated on March 3, it's a day to pray for the health and happiness of girls, often marked by the display of ornamental dolls.<br>
+                                <span class="font-semibold">Hinamatsuri(Doll's Day or Girls' Day):</span><br>Celebrated on March 3, it's a day to pray for the health and happiness of girls, often marked by the display of ornamental dolls.<br>
                                 <br>
-                                Hanami(Cherry Blossom Viewing):<br>While not an official holiday, the blooming of cherry blossoms in spring(usually March to May) is a significant cultural event, with people enjoying picnics and festivities under the blossoming trees.<br>
+                                <span class="font-semibold">Hanami(Cherry Blossom Viewing):</span><br>While not an official holiday, the blooming of cherry blossoms in spring(usually March to May) is a significant cultural event, with people enjoying picnics and festivities under the blossoming trees.<br>
                                 <br>
                             <div class="font-sans">
-                                Golden Week:<br>A series of consecutive holidays from late April to early May, including Showa Day(April 29), Constitution Memorial Day(May 3), Greenery Day(May 4), and Children's Day(May 5).<br>
+                                <span class="font-semibold">Golden Week:</span><br>A series of consecutive holidays from late April to early May, including Showa Day(April 29), Constitution Memorial Day(May 3), Greenery Day(May 4), and Children's Day(May 5).<br>
                                 <br>
-                                Obon:<br>A Buddhist festival in mid-August, it honors deceased ancestors. Families often return to their hometowns, and there are traditional dances(Bon Odori).<br>
+                                <span class="font-semibold">Obon:</span><br>A Buddhist festival in mid-August, it honors deceased ancestors. Families often return to their hometowns, and there are traditional dances(Bon Odori).<br>
                                 <br>
-                                Respect for the Aged Day(Keiro no Hi):<br>Celebrated on the third Monday of September, it honors the elderly and promotes the importance of respecting and caring for the elderly.<br>
+                                <span class="font-semibold">Respect for the Aged Day(Keiro no Hi):</span><br>Celebrated on the third Monday of September, it honors the elderly and promotes the importance of respecting and caring for the elderly.<br>
                                 <br>
-                                Sports Day(Taiiku no Hi):<br>Celebrated on the second Monday of October, it promotes sports and a healthy, active lifestyle.<br>
+                                <span class="font-semibold">Sports Day(Taiiku no Hi):</span><br>Celebrated on the second Monday of October, it promotes sports and a healthy, active lifestyle.<br>
                                 <br>
-                                Emperor's Birthday(Tenno no Tanjobi):<br>Celebrated on December 23, it honors the birthday of the reigning emperor. It's a national holiday during the era of Emperor Hirohito(Showa) and Emperor Akihito(Heisei).<br>
+                                <span class="font-semibold">Emperor's Birthday(Tenno no Tanjobi):</span><br>Celebrated on December 23, it honors the birthday of the reigning emperor. It's a national holiday during the era of Emperor Hirohito(Showa) and Emperor Akihito(Heisei).<br>
                             </div>
                         </div>
                     </p>

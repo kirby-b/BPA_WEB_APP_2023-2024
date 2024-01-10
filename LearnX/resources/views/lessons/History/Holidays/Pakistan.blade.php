@@ -43,26 +43,26 @@
                         </div>
                         <div class="flex flex-col"> 
                             <div class="font-sans">
-                                Independence Day(Youm-e-Azadi):<br>Celebrated on August 14, commemorating Pakistan's independence in 1947.<br>
+                                <span class="font-semibold">Independence Day(Youm-e-Azadi):</span><br>Celebrated on August 14, commemorating Pakistan's independence in 1947.<br>
                                 <br>
-                                Pakistan Day(Youm-e-Pakistan):<br>Observed on March 23, marking the Lahore Resolution and the adoption of the first constitution of Pakistan.<br>
+                                <span class="font-semibold">Pakistan Day(Youm-e-Pakistan):</span><br>Observed on March 23, marking the Lahore Resolution and the adoption of the first constitution of Pakistan.<br>
                                 <br>
-                                Eid al-Fitr:<br>Celebrated at the end of Ramadan, it is a joyous occasion marked by prayers, feasting, and giving to charity.<br>
+                                <span class="font-semibold">Eid al-Fitr:</span><br>Celebrated at the end of Ramadan, it is a joyous occasion marked by prayers, feasting, and giving to charity.<br>
                                 <br>
-                                Eid al-Adha:<br>Also known as the Festival of Sacrifice, it honors the willingness of Ibrahim (Abraham) to sacrifice his son as an act of obedience to God.<br>
+                                <span class="font-semibold">Eid al-Adha:</span><br>Also known as the Festival of Sacrifice, it honors the willingness of Ibrahim (Abraham) to sacrifice his son as an act of obedience to God.<br>
                                 <br>
-                                Labor Day(Youm-e-Mazdoor):<br>Celebrated on May 1, it acknowledges the contributions of workers and laborers.<br>
+                                <span class="font-semibold">Labor Day(Youm-e-Mazdoor):</span><br>Celebrated on May 1, it acknowledges the contributions of workers and laborers.<br>
                                 <br>
                             <div class="font-sans">
-                                Defence Day(Youm-e-Difa):<br>Observed on September 6, it commemorates the defense of Pakistan against India in 1965.<br>
+                                <span class="font-semibold">Defence Day(Youm-e-Difa):</span><br>Observed on September 6, it commemorates the defense of Pakistan against India in 1965.<br>
                                 <br>
-                                Kashmir Solidarity Day:<br>Observed on February 5, it expresses solidarity with the people of Kashmir in their struggle for self-determination.<br>
+                                <span class="font-semibold">Kashmir Solidarity Day:</span><br>Observed on February 5, it expresses solidarity with the people of Kashmir in their struggle for self-determination.<br>
                                 <br>
-                                Iqbal Day:<br>Celebrated on November 9, it honors Allama Iqbal, the philosopher, poet, and politician who played a significant role in the creation of Pakistan.<br>
+                                <span class="font-semibold">Iqbal Day:</span><br>Celebrated on November 9, it honors Allama Iqbal, the philosopher, poet, and politician who played a significant role in the creation of Pakistan.<br>
                                 <br>
-                                Mawlid al-Nabi(Eid Milad-un Nabi):<br>Celebrating the birth of Prophet Muhammad, it is marked with religious gatherings, prayers, and feasts.<br>
+                                <span class="font-semibold">Mawlid al-Nabi(Eid Milad-un Nabi):</span><br>Celebrating the birth of Prophet Muhammad, it is marked with religious gatherings, prayers, and feasts.<br>
                                 <br>
-                                Quaid-e-Azam Day:<br>Commemorated on December 25, it honors Muhammad Ali Jinnah, the founder of Pakistan, on his birthday.<br>
+                                <span class="font-semibold">Quaid-e-Azam Day:</span><br>Commemorated on December 25, it honors Muhammad Ali Jinnah, the founder of Pakistan, on his birthday.<br>
                             </div>
                         </div>
                     </p>

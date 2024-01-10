@@ -43,26 +43,26 @@
                         </div>
                         <div class="flex flex-col"> 
                             <div class="font-sans">
-                                New Year's Day(January 1):<br>Celebrated with festive events and Ded Moroz.<br>
+                                <span class="font-semibold">New Year's Day(January 1):</span><br>Celebrated with festive events and Ded Moroz.<br>
                                 <br>
-                                Victory Day(May 9):<br>Commemorates the victory over Nazi Germany.<br>
+                                <span class="font-semibold">Victory Day(May 9):</span><br>Commemorates the victory over Nazi Germany.<br>
                                 <br>
-                                Russian Orthodox Christmas:<br>Celebrated on January 7.<br>
+                                <span class="font-semibold">Russian Orthodox Christmas:</span><br>Celebrated on January 7.<br>
                                 <br>
-                                Defender of the Fatherland Day:<br>Celebrated on February 23, honoring the Russian Armed Forces.<br>
+                                <span class="font-semibold">Defender of the Fatherland Day:</span><br>Celebrated on February 23, honoring the Russian Armed Forces.<br>
                                 <br>
-                                International Women's Day:<br>Celebrated on March 8, honoring women's contributions.<br>
+                                <span class="font-semibold">International Women's Day:</span><br>Celebrated on March 8, honoring women's contributions.<br>
                                 <br>
                             <div class="font-sans">
-                                Unity Day:<br>Celebrated on November 4, commemorating the Russian unity against foreign invaders.<br>
+                                <span class="font-semibold">Unity Day:</span><br>Celebrated on November 4, commemorating the Russian unity against foreign invaders.<br>
                                 <br>
-                                Cosmonautics Day:<br>Celebrated on April 12, honoring space exploration.<br>
+                                <span class="font-semibold">Cosmonautics Day:</span><br>Celebrated on April 12, honoring space exploration.<br>
                                 <br>
-                                May Day(Spring and Labor Day):<br>Celebrated on May 1.<br>
+                                <span class="font-semibold">May Day(Spring and Labor Day):</span><br>Celebrated on May 1.<br>
                                 <br>
-                                Constitution Day:<br>Celebrated on December 12.<br>
+                                <span class="font-semibold">Constitution Day:</span><br>Celebrated on December 12.<br>
                                 <br>
-                                Day of National Unity:<br>Celebrated on November 4.<br>
+                                <span class="font-semibold">Day of National Unity:</span><br>Celebrated on November 4.<br>
                             </div>
                         </div>
                     </p>

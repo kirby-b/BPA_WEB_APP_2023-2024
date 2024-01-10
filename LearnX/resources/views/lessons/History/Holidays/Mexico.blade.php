@@ -43,26 +43,26 @@
                         </div>
                         <div class="flex flex-col"> 
                             <div class="font-sans">
-                                Diwali:<br>Festival of Lights, celebrated in October or November.<br>
+                                <span class="font-semibold">Diwali:</span><br>Festival of Lights, celebrated in October or November.<br>
                                 <br>
-                                Holi:<br>Festival of Colors, celebrated in March.<br>
+                                <span class="font-semibold">Holi:</span><br>Festival of Colors, celebrated in March.<br>
                                 <br>
-                                Independence Day:<br>Celebrated on August 15.<br>
+                                <span class="font-semibold">Independence Day:</span><br>Celebrated on August 15.<br>
                                 <br>
-                                Raksha Bandhan:<br>Celebrated in August, a festival celebrating the bond between brothers and sisters.<br>
+                                <span class="font-semibold">Raksha Bandhan:</span><br>Celebrated in August, a festival celebrating the bond between brothers and sisters.<br>
                                 <br>
-                                Ganesh Chaturthi: Celebrated in August or September in honor of Lord Ganesha.<br>
+                                <span class="font-semibold">Ganesh Chaturthi:</span><br> Celebrated in August or September in honor of Lord Ganesha.<br>
                                 <br>
                             <div class="font-sans">
-                                Durga Puja:<br>A major Hindu festival celebrated in October.<br>
+                                <span class="font-semibold">Durga Puja:</span><br>A major Hindu festival celebrated in October.<br>
                                 <br>
-                                Navaratri/Dussehra:<br>Celebrated in September or October, honoring the goddess Durga.<br>
+                                <span class="font-semibold">Navaratri/Dussehra:</span><br>Celebrated in September or October, honoring the goddess Durga.<br>
                                 <br>
-                                Eid al-Fitr:<br>Celebrated at the end of Ramadan.<br>
+                                <span class="font-semibold">Eid al-Fitr:</span><br>Celebrated at the end of Ramadan.<br>
                                 <br>
-                                Eid al-Adha:<br>Celebrated by Muslims, known as the "Festival of Sacrifice."<br>
+                                <span class="font-semibold">Eid al-Adha:</span><br>Celebrated by Muslims, known as the "Festival of Sacrifice."<br>
                                 <br>
-                                Republic Day:<br>Celebrated on January 26.<br>
+                                <span class="font-semibold">Republic Day:</span><br>Celebrated on January 26.<br>
                             </div>
                         </div>
                     </p>

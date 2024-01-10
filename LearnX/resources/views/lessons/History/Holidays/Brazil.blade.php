@@ -43,26 +43,26 @@
                         </div>
                         <div class="flex flex-col"> 
                             <div class="font-sans">
-                                Carnival(varies, usually February):<br>One of the world's largest and most famous festivals.<br>
+                                <span class="font-semibold">Carnival</span>(varies, usually February):<br>One of the world's largest and most famous festivals.<br>
                                 <br>
-                                Independence Day:<br>Celebrated on September 7.<br>
+                                <span class="font-semibold">Independence Day:</span><br>Celebrated on September 7.<br>
                                 <br>
-                                Tiradentes Day:<br>Commemorates a national hero, celebrated on April 21.<br>
+                                <span class="font-semibold">Tiradentes Day:</span><br>Commemorates a national hero, celebrated on April 21.<br>
                                 <br>
-                                Festa Junina:<br>Celebrated in June with traditional Brazilian folk festivals.<br>
+                                <span class="font-semibold">Festa Junina:</span><br>Celebrated in June with traditional Brazilian folk festivals.<br>
                                 <br>
-                                Independence of Bahia:<br>Celebrated on July 2, commemorating the independence of the state of Bahia.<br>
+                                <span class="font-semibold">Independence of Bahia:</span><br>Celebrated on July 2, commemorating the independence of the state of Bahia.<br>
                                 <br>
                             <div class="font-sans">
-                                Corpus Christi:<br>A Christian holiday celebrated in June.<br>
+                                <span class="font-semibold">Corpus Christi:</span><br>A Christian holiday celebrated in June.<br>
                                 <br>
-                                Brazilian Valentine's Day(Dia dos Namorados):<br>Celebrated on June 12.<br>
+                                <span class="font-semibold">Brazilian Valentine's Day(Dia dos Namorados):</span><br>Celebrated on June 12.<br>
                                 <br>
-                                Proclamation of the Republic:<br>Celebrated on November 15.<br>
+                                <span class="font-semibold">Proclamation of the Republic:</span><br>Celebrated on November 15.<br>
                                 <br>
-                                Immaculate Conception Day:<br>Celebrated on December 8.<br>
+                                <span class="font-semibold">Immaculate Conception Day:</span><br>Celebrated on December 8.<br>
                                 <br>
-                                Labour Day(Dia do Trabalhador):<br>Celebrated on May 1.<br>
+                                <span class="font-semibold">Labour Day(Dia do Trabalhador):</span><br>Celebrated on May 1.<br>
                             </div>
                         </div>
                     </p>

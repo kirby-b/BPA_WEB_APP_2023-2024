@@ -43,26 +43,26 @@
                         </div>
                         <div class="flex flex-col"> 
                             <div class="font-sans ">
-                                Independence Day(July 4):<br>Celebrated with fireworks and patriotic events.<br>
+                                <span class="font-semibold">Independence Day(July 4):</span><br>Celebrated with fireworks and patriotic events.<br>
                                 <br>
-                                Thanksgiving Day:<br>Celebrated on the fourth Thursday in November.<br>
+                                <span class="font-semibold">Thanksgiving Day:</span><br>Celebrated on the fourth Thursday in November.<br>
                                 <br>
-                                Christmas:<br>Celebrated on December 25.<br>
+                                <span class="font-semibold">Christmas:</span><br>Celebrated on December 25.<br>
                                 <br>
-                                Memorial Day:<br>Honors the military personnel who have died, observed on the last Monday of May.<br>
+                                <span class="font-semibold">Memorial Day:</span><br>Honors the military personnel who have died, observed on the last Monday of May.<br>
                                 <br>
-                                Labor Day:<br>Celebrated on the first Monday in September, honoring the contributions of American workers.<br>
+                                <span class="font-semibold">Labor Day:</span><br>Celebrated on the first Monday in September, honoring the contributions of American workers.<br>
                                 <br>
                             <div class="font-sans">
-                                Martin Luther King Jr. Day:<br>Commemorates the civil rights leader, observed on the third Monday in January.<br>
+                                <span class="font-semibold">Martin Luther King Jr. Day:</span><br>Commemorates the civil rights leader, observed on the third Monday in January.<br>
                                 <br>
-                                Easter:<br>Celebrated in April, commemorating the resurrection of Jesus Christ.<br>
+                                <span class="font-semibold">Easter:</span><br>Celebrated in April, commemorating the resurrection of Jesus Christ.<br>
                                 <br>
-                                Veterans Day:<br>Honors military veterans, observed on November 11.<br>
+                                <span class="font-semibold">Veterans Day:</span><br>Honors military veterans, observed on November 11.<br>
                                 <br>
-                                New Year's Day(January 1):<br>Celebrated at the beginning of the year.<br>
+                                <span class="font-semibold">New Year's Day(January 1):</span><br>Celebrated at the beginning of the year.<br>
                                 <br>
-                                Columbus Day:<br>Celebrated on the second Monday in October.
+                                <span class="font-semibold">Columbus Day:</span><br>Celebrated on the second Monday in October.
                             </div>
                         </div>
                     </p>

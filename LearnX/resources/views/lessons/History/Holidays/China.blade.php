@@ -43,26 +43,26 @@
                         </div>
                         <div class="flex flex-col"> 
                             <div class="font-sans">
-                                Chinese New Year(Spring Festival):<br>The date varies each year, usually falling between January 21 and February 20. It is the most important traditional festival in China, marking the beginning of the lunar new year.<br>
+                                <span class="font-semibold">Chinese New Year(Spring Festival):</span><br>The date varies each year, usually falling between January 21 and February 20. It is the most important traditional festival in China, marking the beginning of the lunar new year.<br>
                                 <br>
-                                Qingming Festival(Tomb Sweeping Day):<br>Usually observed in early April, it is a time for people to visit the graves of their ancestors to pay respects and clean the burial sites.<br>
+                                <span class="font-semibold">Qingming Festival(Tomb Sweeping Day):</span><br>Usually observed in early April, it is a time for people to visit the graves of their ancestors to pay respects and clean the burial sites.<br>
                                 <br>
-                                May Day(Labor Day):<br>Celebrated on May 1st, it is a public holiday to honor workers and their contributions.<br>
+                                <span class="font-semibold">May Day(Labor Day):</span><br>Celebrated on May 1st, it is a public holiday to honor workers and their contributions.<br>
                                 <br>
-                                Dragon Boat Festival:<br>Usually occurring in June, this festival commemorates the death of the ancient poet Qu Yuan. People eat traditional rice dumplings and participate in dragon boat races.<br>
+                                <span class="font-semibold">Dragon Boat Festival:</span><br>Usually occurring in June, this festival commemorates the death of the ancient poet Qu Yuan. People eat traditional rice dumplings and participate in dragon boat races.<br>
                                 <br>
-                                Mid-Autumn Festival(Moon Festival):<br>Celebrated in September or early October, it is a time for family reunions. Mooncakes, a traditional Chinese pastry, are often shared.<br>
+                                <span class="font-semibold">Mid-Autumn Festival(Moon Festival):</span><br>Celebrated in September or early October, it is a time for family reunions. Mooncakes, a traditional Chinese pastry, are often shared.<br>
                                 <br>
                             <div class="font-sans">
-                                National Day(Golden Week):<br>Celebrated on October 1st, it marks the founding of the People's Republic of China. The holiday is part of the Golden Week, a 7-day holiday from October 1 to 7.<br>
+                                <span class="font-semibold">National Day(Golden Week):</span><br>Celebrated on October 1st, it marks the founding of the People's Republic of China. The holiday is part of the Golden Week, a 7-day holiday from October 1 to 7.<br>
                                 <br>
-                                Double Ninth Festival:<br>Falling on the ninth day of the ninth month of the lunar calendar, usually in October, it's a day for climbing mountains to avoid misfortune.<br>
+                                <span class="font-semibold">Double Ninth Festival:</span><br>Falling on the ninth day of the ninth month of the lunar calendar, usually in October, it's a day for climbing mountains to avoid misfortune.<br>
                                 <br>
-                                Winter Solstice Festival:<br>Usually occurring around December 21st or 22nd, it is a time for family gatherings and enjoying special foods.<br>
+                                <span class="font-semibold">Winter Solstice Festival:</span><br>Usually occurring around December 21st or 22nd, it is a time for family gatherings and enjoying special foods.<br>
                                 <br>
-                                Lantern Festival:<br>Celebrated on the 15th day of the first lunar month, usually in February, it marks the end of the Chinese New Year celebrations. Lanterns are displayed, and there are various cultural activities.<br>
+                                <span class="font-semibold">Lantern Festival:</span><br>Celebrated on the 15th day of the first lunar month, usually in February, it marks the end of the Chinese New Year celebrations. Lanterns are displayed, and there are various cultural activities.<br>
                                 <br>
-                                Women's Day:<br>Celebrated on March 8th, it honors the contributions and achievements of women.<br>
+                                <span class="font-semibold">Women's Day:</span><br>Celebrated on March 8th, it honors the contributions and achievements of women.<br>
                             </div>
                         </div>
                     </p>

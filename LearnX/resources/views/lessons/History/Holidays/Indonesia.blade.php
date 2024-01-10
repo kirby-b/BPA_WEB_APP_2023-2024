@@ -43,26 +43,26 @@
                         </div>
                         <div class="flex flex-col"> 
                             <div class="font-sans">
-                                Independence Day(Hari Kemerdekaan):<br>Celebrated on August 17, marking Indonesia's declaration of independence in 1945.<br>
+                                <span class="font-semibold">Independence Day(Hari Kemerdekaan):</span><br>Celebrated on August 17, marking Indonesia's declaration of independence in 1945.<br>
                                 <br>
-                                Idul Fitri(or Eid al-Fitr):<br>The end of Ramadan, a month of fasting for Muslims. It's a significant religious holiday celebrated with prayers, feasts, and social gatherings.<br>
+                                <span class="font-semibold">Idul Fitri(or Eid al-Fitr):</span><br>The end of Ramadan, a month of fasting for Muslims. It's a significant religious holiday celebrated with prayers, feasts, and social gatherings.<br>
                                 <br>
-                                Nyepi:<br>The Balinese New Year, a day of silence, meditation, and self-reflection. It usually falls in March or April.<br>
+                                <span class="font-semibold">Nyepi:</span><br>The Balinese New Year, a day of silence, meditation, and self-reflection. It usually falls in March or April.<br>
                                 <br>
-                                Galungan and Kuningan:<br>A Hindu Balinese festival celebrating the victory of dharma over adharma. Galungan is the main celebration, and Kuningan marks the end of the series.<br>
+                                <span class="font-semibold">Galungan and Kuningan:</span><br>A Hindu Balinese festival celebrating the victory of dharma over adharma. Galungan is the main celebration, and Kuningan marks the end of the series.<br>
                                 <br>
-                                Chinese New Year:<br>Celebrated by the Chinese-Indonesian community, it involves various festivities, parades, and traditional performances.<br>
+                                <span class="font-semibold">Chinese New Year:</span><br>Celebrated by the Chinese-Indonesian community, it involves various festivities, parades, and traditional performances.<br>
                                 <br>
                             <div class="font-sans">
-                                Waisak(Vesak):<br>Celebrating the birth, enlightenment, and death of Siddhartha Gautama, the founder of Buddhism. Celebrations take place at Borobudur Temple.<br>
+                                <span class="font-semibold">Waisak(Vesak):</span><br>Celebrating the birth, enlightenment, and death of Siddhartha Gautama, the founder of Buddhism. Celebrations take place at Borobudur Temple.<br>
                                 <br>
-                                Ascension of the Prophet Muhammad(Isra Mi'raj):<br>Commemorating the night journey and ascension of the Prophet Muhammad.<br>
+                                <span class="font-semibold">Ascension of the Prophet Muhammad(Isra Mi'raj):</span><br>Commemorating the night journey and ascension of the Prophet Muhammad.<br>
                                 <br>
-                                National Leave Day(Hari Cuti Bersama):<br>Additional holidays declared by the government, often to create long weekends.<br>
+                                <span class="font-semibold">National Leave Day(Hari Cuti Bersama):</span><br>Additional holidays declared by the government, often to create long weekends.<br>
                                 <br>
-                                Christmas:<br>Celebrated by the Christian community with religious services and festive gatherings.<br>
+                                <span class="font-semibold">Christmas:</span><br>Celebrated by the Christian community with religious services and festive gatherings.<br>
                                 <br>
-                                Kartini Day:<br>Celebrated on April 21, honoring Raden Ajeng Kartini, a prominent figure in the Indonesian women's emancipation movement.<br>
+                                <span class="font-semibold">Kartini Day:</span><br>Celebrated on April 21, honoring Raden Ajeng Kartini, a prominent figure in the Indonesian women's emancipation movement.<br>
                             </div>
                         </div>
                     </p>

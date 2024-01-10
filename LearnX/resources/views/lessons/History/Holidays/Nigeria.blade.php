@@ -43,26 +43,26 @@
                         </div>
                         <div class="flex flex-col"> 
                             <div class="font-sans">
-                                Independence Day:<br>Celebrated on October 1, it marks Nigeria's independence from British colonial rule in 1960.<br>
+                                <span class="font-semibold">Independence Day:</span><br>Celebrated on October 1, it marks Nigeria's independence from British colonial rule in 1960.<br>
                                 <br>
-                                New Year's Day:<br>January 1 is a public holiday celebrated with various festivities and events.<br>
+                                <span class="font-semibold">New Year's Day:</span><br>January 1 is a public holiday celebrated with various festivities and events.<br>
                                 <br>
-                                Eid al-Fitr:<br>Celebrated at the end of Ramadan, it's a joyous occasion marked by prayers, feasting, and charitable activities.<br>
+                                <span class="font-semibold">Eid al-Fitr:</span><br>Celebrated at the end of Ramadan, it's a joyous occasion marked by prayers, feasting, and charitable activities.<br>
                                 <br>
-                                Eid al-Adha:<br>The Festival of Sacrifice, commemorating the willingness of Ibrahim (Abraham) to sacrifice his son as an act of obedience to God.<br>
+                                <span class="font-semibold">Eid al-Adha:</span><br>The Festival of Sacrifice, commemorating the willingness of Ibrahim (Abraham) to sacrifice his son as an act of obedience to God.<br>
                                 <br>
-                                Good Friday and Easter Monday:<br>Christian holidays marking the crucifixion and resurrection of Jesus Christ.<br>
+                                <span class="font-semibold">Good Friday and Easter Monday:</span><br>Christian holidays marking the crucifixion and resurrection of Jesus Christ.<br>
                                 <br>
                             <div class="font-sans">
-                                Democracy Day:<br>Originally celebrated on May 29, it was moved to June 12 to commemorate the annulled presidential election of June 12, 1993, and to honor the late MKO Abiola.<br>
+                                <span class="font-semibold">Democracy Day:</span><br>Originally celebrated on May 29, it was moved to June 12 to commemorate the annulled presidential election of June 12, 1993, and to honor the late MKO Abiola.<br>
                                 <br>
-                                Id-el-Kabir:<br>Another name for Eid al-Adha, it is celebrated with prayers, feasting, and the sacrifice of animals.<br>
+                                <span class="font-semibold">Id-el-Kabir:</span><br>Another name for Eid al-Adha, it is celebrated with prayers, feasting, and the sacrifice of animals.<br>
                                 <br>
-                                Children's Day:<br>Celebrated on May 27, it focuses on the rights and well-being of children with various activities and events.<br>
+                                <span class="font-semibold">Children's Day:</span><br>Celebrated on May 27, it focuses on the rights and well-being of children with various activities and events.<br>
                                 <br>
-                                Workers' Day(Labour Day):<br>Celebrated on May 1, it honors the contributions of workers and laborers.<br>
+                                <span class="font-semibold">Workers' Day(Labour Day):</span><br>Celebrated on May 1, it honors the contributions of workers and laborers.<br>
                                 <br>
-                                Armed Forces Remembrance Day:<br>Observed on January 15, it honors the members of the Nigerian Armed Forces who lost their lives in the line of duty.<br>
+                                <span class="font-semibold">Armed Forces Remembrance Day:</span><br>Observed on January 15, it honors the members of the Nigerian Armed Forces who lost their lives in the line of duty.<br>
                         </div>
                     </p>
                 </div>
