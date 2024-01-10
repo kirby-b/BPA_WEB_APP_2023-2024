@@ -24,7 +24,25 @@
                             <span class="font-black">History:</span><br>
                             <b>Timeline</b>
                         </div>
-                         {{-- Drag boxes to correct place on timeline
+                        <script>
+                            function allowDrop(ev) {
+                                ev.preventDefault();
+                            }
+                            
+                            function drag(ev) {
+                                ev.dataTransfer.setData("Text", ev.target.id);
+                            }
+                            
+                            function drop(ev) {
+                                let data = ev.dataTransfer.getData("Text");
+                                ev.target.appendChild(document.getElementById(data));
+                                ev.preventDefault();
+                            }
+                        </script>                  
+                        <div id="div1" class="w-80 h-16 p-10 border-solid rounded-sm border-neutral-600" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                        <br>
+                        <p id="drag1" draggable="true" ondragstart="drag(event)">This is a draggable paragraph. Drag this element into the rectangle.</p>
+                         {{-- Drag boxes to correct place on timeline. Make sure to figure out a way to make it only accept correct answers
                             Links for help:
                             https://www.w3schools.com/howto/howto_js_draggable.asp
                             https://stackoverflow.com/questions/49113948/create-box-that-allows-draggable-elements-to-be-dropped-in-it-using-js
