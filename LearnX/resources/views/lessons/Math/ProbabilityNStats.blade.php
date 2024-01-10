@@ -37,32 +37,41 @@
                         <span class="font-bold">Probability:</span><br>
                         <br>
                         <span class="font-semibold">Definition:</span> Probability measures the likelihood of an event occurring and is expressed as a number between 0 and 1, where 0 represents impossibility, and 1 represents certainty.<br>
+                        <br>
                         <span class="font-bold">Statistics:</span><br>
                         <br>
                         <span class="font-semibold">Definition:</span> Statistics involves the collection, analysis, interpretation, presentation, and organization of data. It provides methods for drawing conclusions from data.<br>
+                        <br>
                         <span class="font-bold">Descriptive Statistics:</span><br>
                         <br>
                         <span class="font-semibold">Purpose:</span> Summarize and describe main features of a dataset.<br>
                         <span class="font-semibold">Examples:</span> Mean, median, mode, range, and standard deviation.<br>
+                        <br>
                         <span class="font-bold">Inferential Statistics:</span><br>
                         <br>
                         <span class="font-semibold">Purpose:</span> Make predictions or inferences about a population based on a sample.<br>
                         <span class="font-semibold">Examples:</span> Confidence intervals, hypothesis testing.<br>
+                        <br>
                         <span class="font-bold">Probability Distributions:</span><br>
                         <br>
                         <span class="font-semibold">Definition:</span> A function that describes the likelihood of obtaining possible values in a statistical experiment.<br>
+                        <br>
                         <span class="font-bold">Normal Distribution:</span><br>
                         <br>
                         <span class="font-semibold">Definition:</span> A symmetric bell-shaped curve that describes the distribution of many naturally occurring phenomena.<br>
+                        <br>
                         <span class="font-bold">Central Limit Theorem:</span><br>
                         <br>
                         <span class="font-semibold">Concept:</span> States that, under certain conditions, the distribution of the sum (or average) of a large number of independent, identically distributed random variables approaches a normal distribution.<br>
+                        <br>
                         <span class="font-bold">Regression Analysis:</span><br>
                         <br>
                         <span class="font-semibold">Purpose:</span> Examines the relationship between one dependent variable and one or more independent variables.<br>
+                        <br>
                         <span class="font-bold">Confidence Intervals:</span><br>
                         <br>
                         <span class="font-semibold">Purpose:</span> Estimate the range in which a population parameter is likely to lie.<br>
+                        <br>
                         <span class="font-bold">Hypothesis Testing:</span><br>
                         <br>
                         <span class="font-semibold">Purpose:</span> Evaluate a claim about a population parameter based on sample data.
