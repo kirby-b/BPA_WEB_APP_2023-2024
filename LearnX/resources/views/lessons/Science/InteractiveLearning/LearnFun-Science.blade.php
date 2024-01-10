@@ -18,93 +18,35 @@
                     </p>
                 </div>
                 <!-- Text Section -->
-                <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
+                <div class="md:w-3/4 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
                     <p class="text-xl font-sans m-4">
                         <div class="font-Preahvihear items-center text-2xl">
                             <span class="font-black">Science:</span><br>
                             <span class="font-extrabold">Learning Fun:</span>
                         </div>
-                        {{-- <form>
-                            <span class="font-bold">Animal Science:</span>
-                            <br>
-                            <p>Which nutrient is primarily responsible for providing a readily available source of energy for animals?</p>
-                            <input type="radio" id="feed1" name="question4" value="FALSE">
-                            <label for="feed1">A. Protein</label><br>
-                            <input type="radio" id="feed2" name="question4" value="TRUE">
-                            <label for="feed2">B. Carbohydrates</label><br><!--Correct-->
-                            <input type="radio" id="feed3" name="question4" value="FALSE">
-                            <label for="feed3">C. Vitamins</label>
-                            <input type="radio" id="feed4" name="question4" value="FALSE">
-                            <label for="feed4">D. Minerals</label>
-                            <br>
-                            Which biotechnological process involves the production of genetically identical copies of a particular gene or DNA sequence?
-                            A) Cloning<!--Correct-->
-                            B) Fermentation
-                            C) Polymerase Chain Reaction (PCR)
-                            D) Transcription
-                            Which state of matter has a definite volume but no definite shape?
-                            A) Solid
-                            B) Liquid<!--Correct-->
-                            C) Gas
-                            D) Plasma
-                            What is the primary greenhouse gas responsible for trapping heat in the Earth's atmosphere?
-                            A) Methane
-                            B) Nitrous oxide
-                            C) Carbon dioxide<!--Correct-->
-                            D) Ozone
-                            What term refers to the change in the DNA sequence that makes up a gene?
-                            A) Mutation<!--Correct-->
-                            B) Transcription
-                            C) Translation
-                            D) Replication
-                            What is the process by which rocks are broken down into smaller particles due to natural factors like wind, water, and temperature changes?
-                            A) Erosion
-                            B) Weathering<!--Correct-->
-                            C) Deposition
-                            D) Sedimentation
-                            What organism is responsible for the majority of Earth's oxygen production in marine environments?
-                            A) Coral
-                            B) Phytoplankton<!--Correct-->
-                            C) Jellyfish
-                            D) Sea urchin
-                            What fundamental force is responsible for holding protons and neutrons together within an atomic nucleus?
-                            A) Electromagnetic force
-                            B) Gravitational force
-                            C) Strong nuclear force<!--Correct-->
-                            D) Weak nuclear force
-                            What term describes the concept where an individual's behavior is influenced by observing and imitating others, especially those they perceive as role models?
-                            A) Classical conditioning
-                            B) Operant conditioning
-                            C) Social learning theory<!--Correct-->
-                            D) Cognitive dissonance
-                            What is the process by which energy is produced in the core of the Sun through the fusion of hydrogen nuclei into helium?
-                            A) Nuclear fission
-                            B) Nuclear fusion<!--Correct-->
-                            C) Solar flares
-                            D) Solar wind
-                        </form> --}}
                         <div>
                             <div class="min-h-screen flex items-center justify-center bg-black bg-no-repeat bg-cover bg-center">
-                                <div class="modal-container hidden fixed inset-0 z-10 bg-black bg-opacity-40 flex items-center justify-center" id="score-modal"><!--Displays Score when quiz is over-->
+                                <div class="modal-container hidden fixed inset-0 z-10 bg-black bg-opacity-40 flex items-center justify-center" id="score-modal">
                                     <div class="modal-content-container bg-gray-800 rounded-lg p-6">
                                         <h1 class="text-gray-300 text-lg mb-4">Congratulations, Quiz Completed.</h1>
                                         <div class="grade-details text-white text-center">
-                                            <p>Attempts : 2</p>
-                                            <p>Wrong Answers : <span id="wrong-answers"></span></p><!--Displays number or wrong answers-->
-                                            <p>Right Answers : <span id="right-answers"></span></p><!--Displays number or right answers-->
-                                            <p>Grade : <span id="grade-percentage"></span>%</p><!--Displays gade percent-->
-                                            <p><span id="remarks"></span></p> <!--Displays remark based on grade-->
+                                            <p>Attempts : 10</p>
+                                            <p>Wrong Answers : <span id="wrong-answers"></span></p>
+                                            <p>Right Answers : <span id="right-answers"></span></p>
+                                            <p>Grade : <span id="grade-percentage"></span>%</p>
+                                            <p><span id="remarks"></span></p>
                                         </div>
                                         <div class="modal-button-container flex justify-center mt-4">
-                                            <button onclick="closeScoreModal()" class="bg-gray-800 border border-white text-white px-4 py-1 rounded-lg hover:bg-gray-700">Continue</button><!--Closes the score screen and starts the test again-->
+                                            <button onclick="closeScoreModal()" class="bg-gray-800 border border-white text-white px-4 py-1 rounded-lg hover:bg-gray-700">Continue</button>
                                         </div>
                                     </div>
                                 </div>
                         
                                 <div class="game-quiz-container w-full sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-2/5 bg-gray-300 flex flex-col items-center justify-around rounded-lg">
                                     <div class="game-details-container w-4/5 flex justify-around items-center">
-                                        <h1>Score : <span id="player-score"></span> / 10</h1><!--Displays number or right answers-->
-                                        <h1>Question : <span id="question-number"></span> / 10</h1><!--Displays number or right answersquestion number-->
+                                        <h1>Score : <span id="player-score"></span> / 10</h1>
+                                        <h1>Question : <span id="question-number"></span> / 10</h1>
+                                    </div>
                                     <div class="game-question-container w-4/5 h-32 flex items-center justify-center border-2 border-gray-700 rounded-lg">
                                         <h1 id="display-question" class="text-base text-center"></h1>
                                     </div>
@@ -133,15 +75,18 @@
                                             <input type="radio" id="option-four" name="option" class="radio hidden" value="optionD" />
                                             <label for="option-four" class="option block w-full h-12 border-2 border-gray-700 rounded-full overflow-hidden cursor-pointer transition-transform duration-300 ease-in-out font-semibold text-gray-900 text-center leading-12 hover:scale-110 text-sm" id="option-four-label"></label>
                                         </span>
-                                        <!--The spans above display the answer buttons-->
                                     </div>
                                     <div class="next-button-container w-1/2 flex justify-center">
-                                        <button onclick="handleNextQuestion()" class="w-28 h-8 rounded-lg border border-gray-700 bg-transparent text-gray-900 font-semibold cursor-pointer hover:bg-red-500 hover:text-white transition-all duration-300 focus:outline-none text-sm">Next Question</button><!--Displays the next question-->
+                                        <button onclick="handleNextQuestion()" class="w-28 h-8 rounded-lg border border-gray-700 bg-transparent text-gray-900 font-semibold cursor-pointer hover:bg-red-500 hover:text-white transition-all duration-300 focus:outline-none text-sm">Next Question</button>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    {{-- Put questions here in mutiple choice format --}}
+                    {{-- For some reason putting comments in the above code breaks it. I do not know why, and I am to tired to figure out why. So all comments for the above with go below:
+                        1. The modal-container/score modal div at the top controls displaying the score when you finish
+                        2. The paragraphs with spans with in that container display the values they get from the JS 
+                        3. The continue and next buttons are self explainitory, they render the next quiz or question
+                        4. The score and question spans display the according values for the user--}}
                     </p>
                 </div>
             </div>
@@ -150,15 +95,15 @@
   
   
   
-  
-    <script type="text/javascript">//Script for all javascript
+    {{-- Script for all javascript --}}
+    <script type="text/javascript">
       function codeAddress() {
           alert('ok');
       }
-  
-      const questions = [//Contains all of the quiz questions. Formatted as Question, four answers, and a correct answer
+  //Contains all of the quiz questions. Formatted as Question, four answers, and a correct answer
+      const questions = [
           { 
-              question: "Which biotechnological process involves the production of genetically identical copies of a particular gene or DNA sequence?",
+              question: "Which biotechnological process involves the production of genetically identical copies of a particular gene or DNA sequence ?",
               optionA: "Cloning",
               optionB: "Fermentation",
               optionC: "Polymerase Chain Reaction (PCR)",
@@ -167,7 +112,7 @@
           },
   
           {
-              question: "What is the process by which energy is produced in the core of the Sun through the fusion of hydrogen nuclei into helium?",
+              question: "What is the process by which energy is produced in the core of the Sun through the fusion of hydrogen nuclei into helium ?",
               optionA: "Nuclear fission",
               optionB: "Nuclear fusion",
               optionC: "Solar flares",
@@ -176,7 +121,7 @@
           },
   
           {
-              question: "What term describes the concept where an individual's behavior is influenced by observing and imitating others, especially those they perceive as role models?",
+              question: "What term describes the concept where an individual's behavior is influenced by observing and imitating others, especially those they perceive as role models ?",
               optionA: "Classical conditioning",
               optionB: "Operant conditioning",
               optionC: "Social learning theory",
@@ -185,7 +130,7 @@
           },
   
           {
-              question: "What fundamental force is responsible for holding protons and neutrons together within an atomic nucleus?",
+              question: "What fundamental force is responsible for holding protons and neutrons together within an atomic nucleus ?",
               optionA: "Electromagnetic force",
               optionB: "Gravitational force",
               optionC: "Strong nuclear force",
@@ -194,7 +139,7 @@
           },
 
           {
-              question: "What organism is responsible for the majority of Earth's oxygen production in marine environments?",
+              question: "What organism is responsible for the majority of Earth's oxygen production in marine environments ?",
               optionA: "Coral",
               optionB: "Phytoplankton",
               optionC: "Jellyfish",
@@ -203,7 +148,7 @@
           },
           
           {
-              question: "What is the process by which rocks are broken down into smaller particles due to natural factors like wind, water, and temperature changes?",
+              question: "What is the process by which rocks are broken down into smaller particles due to natural factors like wind, water, and temperature changes ?",
               optionA: "Erosion",
               optionB: "Weathering",
               optionC: "Deposition",
@@ -212,7 +157,7 @@
           },
   
           {
-              question: "What term refers to the change in the DNA sequence that makes up a gene?",
+              question: "What term refers to the change in the DNA sequence that makes up a gene ?",
               optionA: "Mutation",
               optionB: "Transcription",
               optionC: "Translation",
@@ -221,7 +166,16 @@
           },
           
           {
-              question: "What is the primary greenhouse gas responsible for trapping heat in the Earth's atmosphere?",
+              question: "This is a reminder to make a question",
+              optionA: "",
+              optionB: "",
+              optionC: "",
+              optionD: "",
+              correctOption: "optionD"
+          },
+          
+          {
+              question: "What is the primary greenhouse gas responsible for trapping heat in the Earth's atmosphere ?",
               optionA: "Methane",
               optionB: "Nitrous oxide",
               optionC: "Ozone",
@@ -230,7 +184,7 @@
           },
           
           {
-              question: "Which state of matter has a definite volume but no definite shape?",
+              question: "Which state of matter has a definite volume but no definite shape ?",
               optionA: "Solid",
               optionB: "Liquid",
               optionC: "Gas",
