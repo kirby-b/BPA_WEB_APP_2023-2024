@@ -18,7 +18,7 @@
                     </p>
                 </div>
                 <!-- Text Section -->
-                <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
+                <div class="md:w-3/4 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
                     <p class="text-xl font-sans m-4">
                         <div class="font-Preahvihear items-center text-2xl">
                             <span class="font-black">History:</span><br>
@@ -37,8 +37,8 @@
                         </form> --}}
                         <div>
                             <div class="min-h-screen flex items-center justify-center bg-black bg-no-repeat bg-cover bg-center">
-                                <div class="modal-container hidden fixed inset-0 z-10 bg-black bg-opacity-40 flex items-center justify-center" id="score-modal">
-                                    <div class="modal-content-container bg-gray-800 rounded-lg p-6">
+                                <div class="display-container hidden fixed inset-0 z-10 bg-black bg-opacity-40 flex items-center justify-center" id="score-display">
+                                    <div class="display-content-container bg-gray-800 rounded-lg p-6">
                                         <h1 class="text-gray-300 text-lg mb-4">Congratulations, Quiz Completed.</h1>
                                         <div class="grade-details text-white text-center">
                                             <p>Attempts : 10</p>
@@ -47,13 +47,13 @@
                                             <p>Grade : <span id="grade-percentage"></span>%</p>
                                             <p><span id="remarks"></span></p>
                                         </div>
-                                        <div class="modal-button-container flex justify-center mt-4">
-                                            <button onclick="closeScoreModal()" class="bg-gray-800 border border-white text-white px-4 py-1 rounded-lg hover:bg-gray-700">Continue</button>
+                                        <div class="display-button-container flex justify-center mt-4">
+                                            <button onclick="closeScoreDisplay()" class="bg-gray-800 border border-white text-white px-4 py-1 rounded-lg hover:bg-gray-700">Continue</button>
                                         </div>
                                     </div>
                                 </div>
                         
-                                <div class="game-quiz-container w-full sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-2/5 bg-gray-300 flex flex-col items-center justify-around rounded-lg">
+                                <div class="game-quiz-container w-full sm:w-7/8 md:w-7/9 lg:w-7/10 xl:w-3/5 bg-gray-300 flex flex-col items-center justify-around rounded-lg">
                                     <div class="game-details-container w-4/5 flex justify-around items-center">
                                         <h1>Score : <span id="player-score"></span> / 10</h1>
                                         <h1>Question : <span id="question-number"></span> / 10</h1>
@@ -62,11 +62,11 @@
                                         <h1 id="display-question" class="text-base text-center"></h1>
                                     </div>
                                     <div class="game-options-container w-4/5 h-48 flex flex-wrap items-center justify-around">
-                                        <div class="modal-container hidden fixed inset-0 z-10 bg-black bg-opacity-40 flex items-center justify-center" id="option-modal">
-                                            <div class="modal-content-container bg-gray-800 rounded-lg p-6">
+                                        <div class="display-container hidden fixed inset-0 z-10 bg-black bg-opacity-40 flex items-center justify-center" id="option-display">
+                                            <div class="display-content-container bg-gray-800 rounded-lg p-6">
                                                 <h1 class="text-gray-300 text-lg mb-4">Please Pick An Option</h1>
-                                                <div class="modal-button-container flex justify-center">
-                                                    <button onclick="closeOptionModal()" class="bg-gray-800 border border-white text-white px-4 py-1 rounded-lg hover:bg-gray-700">Continue</button>
+                                                <div class="display-button-container flex justify-center">
+                                                    <button onclick="closeOptionDisplay()" class="bg-gray-800 border border-white text-white px-4 py-1 rounded-lg hover:bg-gray-700">Continue</button>
                                                 </div>
                                             </div>
                                         </div>
@@ -94,7 +94,7 @@
                             </div>
                         </div>
                     {{-- For some reason putting comments in the above code breaks it. I do not know why, and I am to tired to figure out why. So all comments for the above with go below:
-                        1. The modal-container/score modal div at the top controls displaying the score when you finish
+                        1. The display-container/score display div at the top controls displaying the score when you finish
                         2. The paragraphs with spans with in that container display the values they get from the JS 
                         3. The continue and next buttons are self explainitory, they render the next quiz or question
                         4. The score and question spans display the according values for the user--}}
@@ -264,7 +264,7 @@
       
           //checking to make sure a radio input has been checked or an option being chosen
           if (options[0].checked === false && options[1].checked === false && options[2].checked === false && options[3].checked == false) {
-              document.getElementById('option-modal').style.display = "flex"
+              document.getElementById('option-display').style.display = "flex"
           }
   
           //checking if checked radio button is same as answer
@@ -353,24 +353,24 @@
           document.getElementById('grade-percentage').innerHTML = playerGrade
           document.getElementById('wrong-answers').innerHTML = wrongAttempt
           document.getElementById('right-answers').innerHTML = playerScore
-          document.getElementById('score-modal').style.display = "flex"
+          document.getElementById('score-display').style.display = "flex"
   
       }
   
-      //closes score modal and resets game
-      function closeScoreModal() {
+      //closes score display and resets game
+      function closeScoreDisplay() {
           questionNumber = 1
           playerScore = 0
           wrongAttempt = 0
           indexNumber = 0
           shuffledQuestions = []
           NextQuestion(indexNumber)
-          document.getElementById('score-modal').style.display = "none"
+          document.getElementById('score-display').style.display = "none"
       }
   
-      //function to close warning modal
-      function closeOptionModal() {
-          document.getElementById('option-modal').style.display = "none"
+      //function to close warning display
+      function closeOptionDisplay() {
+          document.getElementById('option-display').style.display = "none"
       }
   
       // window.onload = codeAddress;
