@@ -40,32 +40,32 @@
 
                        <span class="font-bold">APA Style:</span><br>
                        <br>
-<span class="font-semibold">Book:</span><br>
-Author, A. A. (Year of publication). Title of work: Capital letter also for subtitle. Publisher.<br>
-<br>
-<span class="font-semibold">Example:</span><br>
-Smith, J. A. (2005). The Art of Writing: A Guide to Perfecting Your Skills. Academic Press.<br>
-<br>
-<span class="font-semibold">Website:</span><br>
-Author, A. A. (Year, Month Day of publication). Title of webpage. Name of Website. URL<br>
-<br>
-<span class="font-semibold">Example:</span><br>
-Doe, J. (2022, January 9). The Impact of Climate Change on Biodiversity. Environmental Insights. https://www.example.com/climate-change-biodiversity-example<br>
-<br>
-<br>
-<span class="font-bold">MLA Style:</span><br>
-<br>
-<span class="font-semibold">Book:</span><br>
-Author's Last name, First name. Title of Book. Publisher, Publication Date.<br>
-<br>
-<span class="font-semibold">Example:</span><br>
-Smith, John A. The Art of Writing: A Guide to Perfecting Your Skills. Academic Press, 2005.<br>
-<br>
-<span class="font-semibold">Website:</span><br>
-Author's Last name, First name. "Title of Webpage." Name of Website, Publication Date, URL.<br>
-<br>
-<span class="font-semibold">Example:</span><br>
-Doe, John. "The Impact of Climate Change on Biodiversity." Environmental Insights, 9 Jan. 2022, https://www.exampletwo.com/climate-change-biodiversity-example.
+                        <span class="font-semibold">Book:</span><br>
+                        Author, A. A. (Year of publication). Title of work: Capital letter also for subtitle. Publisher.<br>
+                        <br>
+                        <span class="font-semibold">Example:</span><br>
+                        Smith, J. A. (2005). The Art of Writing: A Guide to Perfecting Your Skills. Academic Press.<br>
+                        <br>
+                        <span class="font-semibold">Website:</span><br>
+                        Author, A. A. (Year, Month Day of publication). Title of webpage. Name of Website. URL<br>
+                        <br>
+                        <span class="font-semibold">Example:</span><br>
+                        Doe, J. (2022, January 9). The Impact of Climate Change on Biodiversity. Environmental Insights. https://www.example.com/climate-change-biodiversity-example<br>
+                        <br>
+                        <br>
+                        <span class="font-bold">MLA Style:</span><br>
+                        <br>
+                        <span class="font-semibold">Book:</span><br>
+                        Author's Last name, First name. Title of Book. Publisher, Publication Date.<br>
+                        <br>
+                        <span class="font-semibold">Example:</span><br>
+                        Smith, John A. The Art of Writing: A Guide to Perfecting Your Skills. Academic Press, 2005.<br>
+                        <br>
+                        <span class="font-semibold">Website:</span><br>
+                        Author's Last name, First name. "Title of Webpage." Name of Website, Publication Date, URL.<br>
+                        <br>
+                        <span class="font-semibold">Example:</span><br>
+                        Doe, John. "The Impact of Climate Change on Biodiversity." Environmental Insights, 9 Jan. 2022, https://www.exampletwo.com/climate-change-biodiversity-example.
                     </p>
                 </div>
             </div>
