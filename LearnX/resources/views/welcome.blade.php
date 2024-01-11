@@ -5,7 +5,7 @@
             <div class="flex flex-col md:flex-row justify-center items-center md:space-x-6" id="main">
                 <!-- Image Section -->
                 <div class="md:w-1/2 p-4">
-                    <img src="/Images/Teacher-Online-With-Student.jpg" alt="Teacher Online With Student"
+                    <img src="/images/Teacher-Online-With-Student.jpg" alt="Teacher Online With Student"
                         class="max-w-full h-auto rounded-lg shadow-lg">
                 </div>
 

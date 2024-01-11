@@ -16,7 +16,7 @@
         <div class="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
             <!-- Logo on the left -->
             <div class="w-1/4 max-w-xs flex-shrink-0">
-                <a href="{{ route("page.index") }}"><img src="/Images/LearnXLogo-2.png" alt="LearnX Logo" class="w-full"></a>
+                <a href="{{ route("page.index") }}"><img src="/images/LearnXLogo-2.png" alt="LearnX Logo" class="w-full"></a>
             </div>
 
             <!-- Links on the right -->

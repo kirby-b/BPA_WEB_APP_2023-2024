@@ -6,7 +6,7 @@
                 <div class="flex flex-col md:flex-row justify-center items-center md:space-x-6">
                     <!-- Image Section -->
                     <div class="md:w-1/2 p-4">
-                        <img src="/Images/Adelaide_Meisel.png" alt="Our Founder, Adelaide"
+                        <img src="/images/Adelaide_Meisel.png" alt="Our Founder, Adelaide"
                             class="max-w-full h-auto rounded-lg shadow-lg">
                     </div>
 
@@ -33,7 +33,7 @@
                 <div class="flex flex-col md:flex-row justify-center items-center md:space-x-6">
                     <!-- Image Section -->
                     <div class="md:w-1/2 p-4">
-                        <img src="/Images/Brodie_Kirby.png" alt="Our Founder, Adelaide"
+                        <img src="/images/Brodie_Kirby.png" alt="Our Founder, Adelaide"
                             class="max-w-full h-auto rounded-lg shadow-lg">
                     </div>
 
@@ -61,7 +61,7 @@
                 <div class="flex flex-col md:flex-row justify-center items-center md:space-x-6">
                     <!-- Image Section -->
                     <div class="md:w-1/2 p-4">
-                        <img src="/Images/Cameron_Hamilton.png" alt="Our Founder, Adelaide"
+                        <img src="/images/Cameron_Hamilton.png" alt="Our Founder, Adelaide"
                             class="max-w-full h-auto rounded-lg shadow-lg">
                     </div>
 
@@ -88,7 +88,7 @@
                 <div class="flex flex-col md:flex-row justify-center items-center md:space-x-6">
                     <!-- Image Section -->
                     <div class="md:w-1/2 p-4">
-                        <img src="/Images/Thomas_Whitaker.png" alt="Our Founder, Adelaide"
+                        <img src="/images/Thomas_Whitaker.png" alt="Our Founder, Adelaide"
                             class="max-w-full h-auto rounded-lg shadow-lg">
                     </div>
 
