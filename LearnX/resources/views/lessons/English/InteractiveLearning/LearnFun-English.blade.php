@@ -177,7 +177,7 @@
           },
 
           {
-              question: "Which paragraph is the thesis in?,
+              question: "Which paragraph is the thesis in?",
               optionA: "Last(Conclusion)",
               optionB: "First(Introduction)",
               optionC: "Second(First Argument)",
@@ -201,7 +201,7 @@
               optionC: "The Plot and Conflict",
               optionD: "End, Middle, Conflict",
               correctOption: "optionA"
-          },
+          }
   
       ]
   
