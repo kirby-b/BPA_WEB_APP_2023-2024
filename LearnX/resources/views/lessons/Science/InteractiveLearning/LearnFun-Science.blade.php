@@ -355,7 +355,4 @@
   
       // window.onload = codeAddress;
     </script>
-    {{-- Put questions here in mutiple choice format --}}
-    {{-- https://codepen.io/Sulaimon-Olaniran/pen/zYKJLjK --}} 
-    {{-- I regret not looking up the above earlier --}}
 </x-partials.QuizLayout>
