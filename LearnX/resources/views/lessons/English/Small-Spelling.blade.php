@@ -38,7 +38,10 @@
                             <b>SMALL SPELLING</b>
                         </div>
 
-                        <!--you, me, dog, etc-->
+                        <audio controls>
+                            <source src="" type="audio/mpeg">
+                          Your browser does not support the audio element.
+                        </audio>
                     </p>
                 </div>
             </div>

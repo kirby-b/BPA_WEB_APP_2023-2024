@@ -38,7 +38,11 @@
                             <b>LETTER & SOUNDS</b>
                         </div>
 
-                        <!--video goes here-->
+                        <audio controls>
+                            <source src="" type="audio/mpeg">
+                          Your browser does not support the audio element.
+                        </audio>
+                          
                     </p>
                 </div>
             </div>
