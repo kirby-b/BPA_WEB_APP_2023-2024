@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\User;
+use ErrorException;
 use Illuminate\Http\Request;
 use Illuminate\Validation\Rule;
 use Illuminate\Support\Facades\Password;
@@ -58,10 +59,14 @@ class UserController extends Controller
             'email' => ['required', 'email'], //Requires you put in an email and gets it
             'password' => 'required' // Requires you put something in for the password and gets it
         ]);
-
-        $user = User::where('email', '=', $request->email)->first();
-        if($user->deleted){
-            return back()->withErrors(['email' => 'Account Deactivated'])->onlyInput('email'); 
+        try{
+            $user = User::where('email', '=', $request->email)->first();
+            if($user->deleted){
+                return back()->withErrors(['email' => 'Account Deactivated'])->onlyInput('email'); 
+            }
+        }
+        catch (ErrorException $exception){
+            return back()->withErrors(['email' => 'Account Deleted or Invalid Credentials'])->onlyInput('email'); 
         }
 
         //dd($user);
