@@ -81,9 +81,6 @@ Route::get('/profile', function (){
 Route::get('/contractions', function (){
     return view('lessons/English/Contractions');
 })->name("page.contractions");
-Route::get('/lettersandsounds', function (){
-    return view('lessons/English/Letters-And-Sounds');
-})->name("page.lettersandsounds");
 Route::get('/partsofspeech', function (){
     return view('lessons/English/Parts-Of-Speech');
 })->name("page.partsofspeech");
