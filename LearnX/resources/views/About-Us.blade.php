@@ -2,45 +2,18 @@
     <div class="bg-gray-100 py-10">
         <div class="container mx-auto px-4">
             <div class="flex flex-col justify-center items-center md:space-x-6">
-                <!-- Scarletts Section-->
-                <div class="flex flex-col md:flex-row justify-center items-center md:space-x-6">
-                    <!-- Image Section -->
-                    <div class="md:w-1/2 p-4">
-                        <img src="/images/Adelaide_Meisel.png" alt="Our Founder, Adelaide"
-                            class="max-w-full h-auto rounded-lg shadow-lg">
-                    </div>
-
-                    <!-- Text Section -->
-                    <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
-                        <p class="text-xl font-serif m-4">
-                            I am the founder of LearnX. I have designed this website to be easy to interact with, easy to teach, 
-                            and easy to learn. I want students to be able to learn the fundamentals of education through our site. Thank you 
-                            for supporting us. 
-                            <br>
-                            <br>
-                            Equality: At LearnX we treat all of our students with equality. We make sure that all students have access to the 
-                            same information, our donations go to help them, and all students learn the same information regardless of race, 
-                            sex, wealth etc.
-                            <br>
-                            Teamwork: We organize ourselves to collaborate and manage LearnX efficiently with teamwork. We consider LearnX to
-                            be a team building project and work to make the site and ourselves better. We are always providing feedback to 
-                            our employees and helping them thrive in our organization. We understand that working with each other and you 
-                            helps students to grow which is why teamwork is so important to us. 
-                        </p>
-                    </div>
-                </div>
                 <!-- Brodies Section-->
                 <div class="flex flex-col md:flex-row justify-center items-center md:space-x-6">
                     <!-- Image Section -->
                     <div class="md:w-1/2 p-4">
-                        <img src="/images/Brodie_Kirby.png" alt="Our Founder, Adelaide"
+                        <img src="/images/Brodie_Kirby.png" alt="Our Founder, Brodie"
                             class="max-w-full h-auto rounded-lg shadow-lg">
                     </div>
 
                     <!-- Text Section -->
                     <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
                         <p class="text-xl font-serif m-4">
-                            I am the co-founder of LearnX. I helped build this website from the ground up with the goal of 
+                            I am the founder of LearnX. I helped build this website from the ground up with the goal of 
                             bringing good education to all. I have always wanted to lead something important and helpful for the world, 
                             and here at LearnX I finally have the chance. I am a programming hobbyist and hope to be one of the leading 
                             supports for any teacher who wishes to bring programming to the classroom. By working at LearnX I understand 
@@ -57,30 +30,30 @@
                         </p>
                     </div>
                 </div>
-                <!-- Camerons Section-->
+                <!-- Xaviers Section-->
                 <div class="flex flex-col md:flex-row justify-center items-center md:space-x-6">
                     <!-- Image Section -->
                     <div class="md:w-1/2 p-4">
-                        <img src="/images/Cameron_Hamilton.png" alt="Our Founder, Adelaide"
+                        <img src="/images/Adelaide_Meisel.png" alt="Our Co-Founder, Xavier"
                             class="max-w-full h-auto rounded-lg shadow-lg">
                     </div>
 
                     <!-- Text Section -->
                     <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
                         <p class="text-xl font-serif m-4">
-                            I'm fortunate to be part of the team behind LearnX, to transform the way people learn. Collaborating with a 
-                            group of dedicated individuals, I've been able to contribute to the development of this innovative learning 
-                            platform. I've gained valuable experience as we strive to make education more accessible and engaging. It's 
-                            been a rewarding journey, knowing that my work plays a part in helping learners of all backgrounds expand 
-                            their knowledge. I look forward to the future as we continue to refine and improve LearnX.
+                            I am the co-founder of LearnX. I have designed this website to be easy to interact with, easy to teach, 
+                            and easy to learn. I want students to be able to learn the fundamentals of education through our site. Thank you 
+                            for supporting us. 
                             <br>
                             <br>
-                            Respect: LearnX is a platform that fosters a culture of respect by promoting inclusive and diverse learning 
-                            environments, where individuals from various backgrounds and perspectives are encouraged to engage in 
-                            meaningful discussions.
+                            Equality: At LearnX we treat all of our students with equality. We make sure that all students have access to the 
+                            same information, our donations go to help them, and all students learn the same information regardless of race, 
+                            sex, wealth etc.
                             <br>
-                            Open-mindedness: Open-mindedness is a core value at LearnX, encouraging learners to explore new ideas and viewpoints with 
-                            curiosity, while also valuing the contributions of others, leading to a more enriching educational experience. 
+                            Teamwork: We organize ourselves to collaborate and manage LearnX efficiently with teamwork. We consider LearnX to
+                            be a team building project and work to make the site and ourselves better. We are always providing feedback to 
+                            our employees and helping them thrive in our organization. We understand that working with each other and you 
+                            helps students to grow which is why teamwork is so important to us. 
                         </p>
                     </div>
                 </div>
@@ -88,7 +61,7 @@
                 <div class="flex flex-col md:flex-row justify-center items-center md:space-x-6">
                     <!-- Image Section -->
                     <div class="md:w-1/2 p-4">
-                        <img src="/images/Thomas_Whitaker.png" alt="Our Founder, Adelaide"
+                        <img src="/images/Thomas_Whitaker.png" alt="Our Intern, Thomas"
                             class="max-w-full h-auto rounded-lg shadow-lg">
                     </div>
 
