@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="LearnX About">
     <meta name="keywords" content="Laravel">
-    <meta name="author" content="Brodie Kirby & Adelaide Meisel">
+    <meta name="author" content="Brodie Kirby">
     @vite('resources/css/app.css')
 </head>
 

@@ -27,24 +27,6 @@
                             Responsiblity: At LearnX we care a lot about responsibility. The most successful people must be very responsible to 
                             get as far as they do, and just as much so to stay there. We make sure any student who uses our platform has the 
                             ability to learn how to be responsible and work their way to the top.
-                        </p>
-                    </div>
-                </div>
-                <!-- Xaviers Section-->
-                <div class="flex flex-col md:flex-row justify-center items-center md:space-x-6">
-                    <!-- Image Section -->
-                    <div class="md:w-1/2 p-4">
-                        <img src="/images/Adelaide_Meisel.png" alt="Our Co-Founder, Xavier"
-                            class="max-w-full h-auto rounded-lg shadow-lg">
-                    </div>
-
-                    <!-- Text Section -->
-                    <div class="md:w-1/2 p-4 bg-white border-2 border-gray-300 rounded-lg shadow-lg">
-                        <p class="text-xl font-serif m-4">
-                            I am the co-founder of LearnX. I have designed this website to be easy to interact with, easy to teach, 
-                            and easy to learn. I want students to be able to learn the fundamentals of education through our site. Thank you 
-                            for supporting us. 
-                            <br>
                             <br>
                             Equality: At LearnX we treat all of our students with equality. We make sure that all students have access to the 
                             same information, our donations go to help them, and all students learn the same information regardless of race, 
